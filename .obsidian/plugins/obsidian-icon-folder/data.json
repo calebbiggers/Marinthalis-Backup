@@ -1,0 +1,6176 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiDatabase",
+      "RaTrident",
+      "LiCat",
+      "RiFireLine",
+      "LiDroplet"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": true,
+    "iconInTitleEnabled": false,
+    "iconInFrontmatterEnabled": true,
+    "iconsBackgroundCheckEnabled": true,
+    "iconsInNotesEnabled": true,
+    "iconIdentifier": ":",
+    "iconInTitlePosition": "inline",
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsInLinksEnabled": true,
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "Brainstorming": "LiBrain",
+  "Books": "LiLibrary",
+  "Locations": "LiMapPin",
+  "Items": "LiBackpack",
+  "Organizations": "LiUsers",
+  "Islands": "LiPalmtree",
+  "Vessels & Vehicles": "LiSailboat",
+  "Shops & Services": "LiStore",
+  "DND SRD/Characterizations/Alignment.md": "LiScale",
+  "DND SRD/Characterizations/Languages.md": "RaQuillInk",
+  "DND SRD/Classes/Barbarian 1.md": "DiClassIconBarbarian",
+  "DND SRD/Sources": "LiBookMarked",
+  "Settlements": "LiBuilding2",
+  "DND SRD/Subclasses/Barbarian": "DiClassIconBarbarian",
+  "DND SRD/Subclasses/Fighter": "DiClassIconFighter",
+  "DND SRD/Subclasses/Sorcerer": "DiClassIconSorcerer",
+  "DND SRD/Subclasses/Warlock": "DiClassIconWarlock",
+  "DND SRD/Subclasses/Paladin": "DiClassIconPaladin",
+  "Deities": "LiChurch",
+  "DND SRD/Subclasses/Cleric": "DiClassIconCleric",
+  "DND SRD/Subclasses/Artificer": "DiClassIconArtificer",
+  "DND SRD/Subclasses/Wizard": "DiClassIconWizard",
+  "z_Templates/Template - Source.md": "LiBookMarked",
+  "DND SRD/Classes/Barbarian.md": "DiClassIconBarbarian",
+  "DND SRD/Classes/Bard.md": "DiClassIconBard",
+  "DND SRD/Classes/Cleric.md": "DiClassIconCleric",
+  "DND SRD/Classes/Druid.md": "DiClassIconDruid",
+  "DND SRD/Classes/Fighter.md": "DiClassIconFighter",
+  "DND SRD/Classes/Monk.md": "DiClassIconMonk",
+  "DND SRD/Classes/Paladin.md": "DiClassIconPaladin",
+  "DND SRD/Classes/Ranger.md": "DiClassIconRanger",
+  "DND SRD/Classes/Rogue.md": "DiClassIconRogue",
+  "DND SRD/Classes/Sorcerer.md": "DiClassIconSorcerer",
+  "DND SRD/Classes/Warlock.md": "DiClassIconWarlock",
+  "DND SRD/Classes/Wizard.md": "DiClassIconWizard",
+  "DND SRD/Classes/Artificer.md": "DiClassIconArtificer",
+  "DND SRD/Equipment/Coinage.md": "LiCoins",
+  "DND SRD/Spells": "LiWand2",
+  "DND SRD/Equipment/Armor.md": "RaKnightHelmet",
+  "z_Assets": "LiFileImage",
+  "Session Notes": "LiPencilLine",
+  "Races": "LiListTree",
+  "z_Templates/Template - NPC.md": "LiUser",
+  "z_Scripts": "RaGears",
+  "z_Logs": "LiArchiveRestore",
+  "z_Templates": "LiBookTemplate",
+  "z_Testing": "RaGears",
+  "Items/Dagger of Poison.md": "RaPlainDagger",
+  "Items/Potion of Sleep.md": "LiFlaskRound",
+  "Items/Wayfinding Oracle Sticks.md": "LiCompass",
+  "Items/Red Draconic Whiskey.md": "LiFlaskRound",
+  "x_Tools": "LiHammer",
+  "x_Tools/Table Generator.md": "LiTableProperties",
+  "z_Templates/Template - Location.md": "LiMapPin",
+  "z_Templates/Template - Minor NPC.md": "LiUser",
+  "z_Templates/Template - PC.md": "LiUserCircle2",
+  "z_Templates/Template - Session Notes.md": "LiPencilLine",
+  "z_Templates/Template - Settlement.md": "LiBuilding2",
+  "z_Templates/Template - ShopService.md": "LiStore",
+  "Shops & Services/The Snapping Line.md": {
+    "iconName": "LiStore"
+  },
+  "DND SRD": "DiDAndD",
+  "z_Backups": "LiDatabaseBackup",
+  "z_Backups/Home Page - Marinthalis 1.md": "LiHome",
+  "Settlements/Baldur's Gate.md": "LiBuilding2",
+  "NPCs/Erik “Snake Eye” Sigurd.md": "LiUser",
+  "NPCs/Ida Oweland.md": "LiUser",
+  "Islands/Lampool.md": "LiPalmtree",
+  "Islands/Lion Turtle's Rest.md": "LiPalmtree",
+  "Vessels & Vehicles/The Rum Veridian.md": "LiSailboat",
+  "Locations/The Wild Tempest.md": "LiMapPin",
+  "z_Templates/Template - Letter.md": "LiMail",
+  "Items/Node Compass.md": "LiCompass",
+  "Items/+Item Database.md": "LiDatabase",
+  "Shops & Services/The Cracked Mug.md": {
+    "iconName": "LiBeer"
+  },
+  "DND SRD/Wondrous Items/Dread Helm.md": "RaHelmet",
+  "DND SRD/Wondrous Items/Elven Chain.md": "RaKnightHelmet",
+  "DND SRD/Wondrous Items/Bonecounter.md": "LiSwords",
+  "DND SRD/Wondrous Items/Thermal Cube.md": "LiComponent",
+  "DND SRD/Wondrous Items/Mystery Key.md": "RaKey",
+  "DND SRD/Wondrous Items/Piwafwi.md": "LiComponent",
+  "DND SRD/Wondrous Items/Orb Of Time.md": "LiComponent",
+  "DND SRD/Wondrous Items/Dwarven Plate.md": "RaKnightHelmet",
+  "DND SRD/Wondrous Items/Serpent Belt.md": "LiComponent",
+  "DND SRD/Wondrous Items/Gate Stone.md": "LiComponent",
+  "DND SRD/Wondrous Items/Efreeti Chain.md": "RaKnightHelmet",
+  "DND SRD/Wondrous Items/Medal Of Wit.md": "LiMedal",
+  "DND SRD/Wondrous Items/Mithral Armor.md": "RaKnightHelmet",
+  "DND SRD/Wondrous Items/Gem Of Seeing.md": "RaGem",
+  "DND SRD/Wondrous Items/Dragon Slayer.md": "LiSwords",
+  "DND SRD/Wondrous Items/Feather Token.md": "LiComponent",
+  "DND SRD/Wondrous Items/Wind Fan.md": "LiComponent",
+  "DND SRD/Wondrous Items/Shatterspike.md": "LiSwords",
+  "DND SRD/Wondrous Items/Stonky's Ring.md": "LiComponent",
+  "DND SRD/Wondrous Items/Giant Slayer.md": "RaBatteredAxe",
+  "DND SRD/Wondrous Items/Wand Of Web.md": "LiWand",
+  "DND SRD/Wondrous Items/Corpse Slayer.md": "LiSwords",
+  "DND SRD/Wondrous Items/Hunter's Coat.md": "RaKnightHelmet",
+  "DND SRD/Wondrous Items/Pixie Dust.md": "LiComponent",
+  "DND SRD/Wondrous Items/Watchful Helm.md": "RaHelmet",
+  "DND SRD/Wondrous Items/Belabor.md": "LiSwords",
+  "DND SRD/Wondrous Items/Flame Tongue.md": "LiSwords",
+  "DND SRD/Wondrous Items/Immovable Rod.md": "LiWand2",
+  "DND SRD/Wondrous Items/Fish Suit.md": "LiComponent",
+  "DND SRD/Wondrous Items/Spies' Murmur.md": "LiComponent",
+  "DND SRD/Wondrous Items/Elemental Gem.md": "RaGem",
+  "DND SRD/Wondrous Items/Mizzium Armor.md": "RaKnightHelmet",
+  "DND SRD/Wondrous Items/Powder Keg.md": "LiComponent",
+  "DND SRD/Wondrous Items/Bloodaxe.md": "RaBatteredAxe",
+  "DND SRD/Wondrous Items/Butcher's Bib.md": "LiComponent",
+  "DND SRD/Wondrous Items/Mind Blade.md": "LiSwords",
+  "DND SRD/Wondrous Items/Shiftweave.md": "LiComponent",
+  "DND SRD/Wondrous Items/Matalotok.md": "RaLargeHammer",
+  "DND SRD/Wondrous Items/Winged Boots.md": "RaBootStomp",
+  "DND SRD/Wondrous Items/Eagle Whistle.md": "LiComponent",
+  "DND SRD/Wondrous Items/Adaptive Helm.md": "RaHelmet",
+  "DND SRD/Wondrous Items/Moonhammer.md": "RaLargeHammer",
+  "DND SRD/Wondrous Items/Frost Brand.md": "LiSwords",
+  "DND SRD/Wondrous Items/Fane-Eater.md": "RaBatteredAxe",
+  "DND SRD/Wondrous Items/Blightstaff.md": "RaCrystalWand",
+  "DND SRD/Wondrous Items/Scribe's Pen.md": "LiComponent",
+  "DND SRD/Wondrous Items/Defender.md": "LiSwords",
+  "DND SRD/Wondrous Items/Armblade.md": "LiSwords",
+  "DND SRD/Wondrous Items/Holy Avenger.md": "LiSwords",
+  "DND SRD/Wondrous Items/Talking Doll.md": "LiComponent",
+  "DND SRD/Wondrous Items/Echo Stone.md": "LiComponent",
+  "DND SRD/Wondrous Items/Radiance.md": "LiWand",
+  "DND SRD/Wondrous Items/Hat Of Vermin.md": "LiComponent",
+  "DND SRD/Wondrous Items/Demon Armor.md": "RaKnightHelmet",
+  "DND SRD/Wondrous Items/Smokepowder.md": "LiComponent",
+  "DND SRD/Wondrous Items/Astral Shard.md": "RaCrystals",
+  "DND SRD/Wondrous Items/Mind Lash.md": "LiSwords",
+  "DND SRD/Wondrous Items/Staff Of Fire.md": "RaCrystalWand",
+  "DND SRD/Wondrous Items/Voyager Staff.md": "RaCrystalWand",
+  "DND SRD/Wondrous Items/Cubic Gate.md": "LiComponent",
+  "DND SRD/Wondrous Items/Moon Sickle.md": "LiSwords",
+  "DND SRD/Wondrous Items/Luck Blade.md": "LiSwords",
+  "DND SRD/Wondrous Items/Blood Spear.md": "RaSpearHead",
+  "DND SRD/Wondrous Items/Pyroconverger.md": "LiComponent",
+  "DND SRD/Wondrous Items/Crystal Blade.md": "LiSwords",
+  "DND SRD/Wondrous Items/Glamerweave.md": "LiComponent",
+  "DND SRD/Wondrous Items/Driftglobe.md": "LiComponent",
+  "DND SRD/Wondrous Items/Vorpal Sword.md": "LiSwords",
+  "DND SRD/Wondrous Items/Tentacle Rod.md": "LiWand2",
+  "DND SRD/Wondrous Items/Skingorger.md": "LiSwords",
+  "DND SRD/Wondrous Items/Bookmark.md": "LiBookMarked",
+  "DND SRD/Wondrous Items/Harkon's Bite.md": "LiComponent",
+  "DND SRD/Wondrous Items/Robe Of Stars.md": "LiComponent",
+  "DND SRD/Wondrous Items/Steel.md": "LiSwords",
+  "DND SRD/Wondrous Items/Wingwear.md": "LiComponent",
+  "DND SRD/Wondrous Items/Keycharm.md": "RaKey",
+  "DND SRD/Wondrous Items/Sunforger.md": "RaLargeHammer",
+  "DND SRD/Wondrous Items/Bell Branch.md": "LiComponent",
+  "DND SRD/Wondrous Items/Wand Sheath.md": "LiComponent",
+  "DND SRD/Wondrous Items/Spider Staff.md": "RaCrystalWand",
+  "DND SRD/Wondrous Items/Seeker Dart.md": "LiSwords",
+  "DND SRD/Wondrous Items/Acheron Blade.md": "LiSwords",
+  "DND SRD/Wondrous Items/Ghost Lantern.md": "RaLanternFlame",
+  "DND SRD/Wondrous Items/Staff Of Fate.md": "RaCrystalWand",
+  "DND SRD/Wondrous Items/Night Caller.md": "LiComponent",
+  "DND SRD/Wondrous Items/Oathbow.md": "LiSwords",
+  "DND SRD/Wondrous Items/Living Armor.md": "RaKnightHelmet",
+  "DND SRD/Wondrous Items/Sun Blade.md": "LiSwords",
+  "DND SRD/Wondrous Items/Balloon Pack.md": "LiComponent",
+  "DND SRD/Wondrous Items/Dancing Sword.md": "LiSwords",
+  "DND SRD/Wondrous Items/Spellshard.md": "LiComponent",
+  "DND SRD/Wondrous Items/Alchemy Jug.md": "LiComponent",
+  "DND SRD/Wondrous Items/Living Gloves.md": "RaHand",
+  "DND SRD/Wondrous Items/Paper Bird.md": "LiComponent",
+  "DND SRD/Wondrous Items/Duskcrusher.md": "RaLargeHammer",
+  "DND SRD/Wondrous Items/Feywild Shard.md": "RaCrystals",
+  "DND SRD/Wondrous Items/Far Gear.md": "LiComponent",
+  "DND SRD/Wondrous Items/Bead Of Force.md": "LiComponent",
+  "DND SRD/Wondrous Items/Psi Crystal.md": "LiComponent",
+  "DND SRD/Wondrous Items/Weird Tank.md": "LiComponent",
+  "DND SRD/Wondrous Items/Wand Of Fear.md": "LiWand",
+  "DND SRD/Wondrous Items/Berserker Axe.md": "RaBatteredAxe",
+  "DND SRD/Wondrous Items/Skysail.md": "LiComponent",
+  "DND SRD/Wondrous Items/Infernal Tack.md": "LiComponent",
+  "DND SRD/Wondrous Items/Hazirawn.md": "LiSwords",
+  "DND SRD/Wondrous Items/Nepenthe.md": "LiSwords",
+  "DND SRD/Wondrous Items/Spell Bottle.md": "LiFlaskRound",
+  "DND SRD/Wondrous Items/Crystal Ball.md": "LiComponent",
+  "DND SRD/Wondrous Items/Chronolometer.md": "LiComponent",
+  "DND SRD/Wondrous Items/Earthboard.md": "LiComponent",
+  "DND SRD/Wondrous Items/Windvane.md": "RaSpearHead",
+  "DND SRD/Wondrous Items/Sunsword.md": "LiSwords",
+  "DND SRD/Wondrous Items/Vox Seeker.md": "LiComponent",
+  "DND SRD/Wondrous Items/Dawnbringer.md": "LiSwords",
+  "DND SRD/Wondrous Items/Draakhorn.md": "LiComponent",
+  "DND SRD/Wondrous Items/Luxon Beacon.md": "LiComponent",
+  "DND SRD/Wondrous Items/Agony.md": "LiSwords",
+  "DND SRD/Wondrous Items/Kyrzin's Ooze.md": "LiComponent",
+  "DND SRD/Wondrous Items/Portable Hole.md": "LiComponent",
+  "DND SRD/Wondrous Items/Bag Of Tricks.md": {
+    "iconName": "TiMoneybag"
+  },
+  "DND SRD/Wondrous Items/Mythcarver.md": "LiSwords",
+  "DND SRD/Wondrous Items/Docent.md": "LiComponent",
+  "DND SRD/Wondrous Items/Snicker-Snack.md": "LiSwords",
+  "DND SRD/Wondrous Items/Ironfang.md": "LiSwords",
+  "DND SRD/Wondrous Items/Craven Edge.md": "LiSwords",
+  "DND SRD/Wondrous Items/Spell Scroll.md": "LiScrollText",
+  "DND SRD/Wondrous Items/Condemner.md": "LiSwords",
+  "DND SRD/Wondrous Items/Stormgirdle.md": "LiComponent",
+  "DND SRD/Wondrous Items/Orcsplitter.md": "RaAxe",
+  "DND SRD/Wondrous Items/Cube Of Force.md": "LiComponent",
+  "DND SRD/Wondrous Items/Professor Orb.md": "LiComponent",
+  "DND SRD/Wondrous Items/Spell Gem.md": "RaGem",
+  "DND SRD/Wondrous Items/Iron Flask.md": "LiComponent",
+  "DND SRD/Wondrous Items/Wave.md": "LiSwords",
+  "DND SRD/Wondrous Items/Verminshroud.md": "LiComponent",
+  "DND SRD/Wondrous Items/Star Razor.md": "LiSwords",
+  "DND SRD/Wondrous Items/Pyremaul.md": "LiSwords",
+  "DND SRD/Wondrous Items/Ruin's Wake.md": "RaSpearHead",
+  "DND SRD/Wondrous Items/Azuredge.md": "RaBatteredAxe",
+  "DND SRD/Wondrous Items/Arcane Cannon.md": "RaCannonShot",
+  "DND SRD/Wondrous Items/Grovelthrash.md": "RaLargeHammer",
+  "DND SRD/Wondrous Items/Ruinblade.md": "LiSwords",
+  "DND SRD/Wondrous Items/Whelm.md": "RaLargeHammer",
+  "DND SRD/Wondrous Items/Blackrazor.md": "LiSwords",
+  "DND SRD/Wondrous Items/Silken Spite.md": "LiSwords",
+  "DND SRD/Wondrous Items/Soul Coin.md": "LiComponent",
+  "DND SRD/Wondrous Items/Dragon Mask.md": "LiComponent",
+  "DND SRD/Wondrous Items/Bag Of Beans.md": {
+    "iconName": "TiMoneybag"
+  },
+  "DND SRD/Wondrous Items/Blackstaff.md": "RaCrystalWand",
+  "DND SRD/Wondrous Items/Crook Of Rao.md": "LiComponent",
+  "DND SRD/Wondrous Items/Powered Armor.md": "RaKnightHelmet",
+  "DND SRD/Wondrous Items/Moonblade.md": "LiSwords",
+  "DND SRD/Wondrous Items/Ioun Stone.md": "LiComponent",
+  "DND SRD/Wondrous Items/Guild Keyrune.md": "RaKey",
+  "DND SRD/Wondrous Items/Drown.md": "RaTrident",
+  "DND SRD/Wondrous Items/Emerald Pen.md": "LiPenTool",
+  "DND SRD/Wondrous Items/Ersatz Eye.md": "RaEyeball",
+  "DND SRD/Wondrous Items/Folding Boat.md": "LiSailboat",
+  "DND SRD/Wondrous Items/Guild Signet.md": "LiComponent",
+  "DND SRD/Wondrous Items/Abracadabrus.md": "LiComponent",
+  "DND SRD/Wondrous Items/Masque Charm.md": "LiComponent",
+  "DND SRD/Wondrous Items/Dragonlance.md": "LiSwords",
+  "DND SRD/Wondrous Items/Robe Of Eyes.md": "LiComponent",
+  "DND SRD/Wondrous Items/Earworm.md": "LiComponent",
+  "DND SRD/Wondrous Items/Talarith.md": "LiComponent",
+  "DND SRD/Wondrous Items/Cabal's Ruin.md": "LiComponent",
+  "DND SRD/Wondrous Items/Waythe.md": "LiSwords",
+  "DND SRD/Wondrous Items/Ruinstone.md": "LiComponent",
+  "DND SRD/Sources/Divine Contention.md": "LiBookMarked",
+  "DND SRD/Wondrous Items/Ruidium Armor.md": "RaKnightHelmet",
+  "DND SRD/Wondrous Items/Wand Of Orcus.md": "LiWand",
+  "DND SRD/Wondrous Items/Sword Of Kas.md": "LiSwords",
+  "DND SRD/Wondrous Items/Dragon Vessel.md": "LiComponent",
+  "DND SRD/Wondrous Items/Blood Stone.md": "LiComponent",
+  "DND SRD/Sources/Ghosts of Saltmarsh.md": "LiBookMarked",
+  "DND SRD/Sources/The Rise of Tiamat.md": "LiBookMarked",
+  "DND SRD/Sources/Think DM.md": "LiBookMarked",
+  "DND SRD/Sources/Tomb of Annihilation.md": "LiBookMarked",
+  "DND SRD/Sources/Tyranny of Dragons.md": "LiBookMarked",
+  "Items/Rod Of Reincarnation.md": "LiWand2",
+  "Creatures": "RaCat",
+  "Organizations/Displacer Beast Gang.md": "LiUsers",
+  "Locations/Abandoned Fishery.md": {
+    "iconName": "LiBuilding"
+  },
+  "Locations/Razor Reef.md": "LiMapPin",
+  "Session Notes/Session Notes 2024-01-26.md": "LiPencilLine",
+  "Organizations/The Isleguard.md": "LiUsers",
+  "NPCs/Captain Athair Ar Neamh Rosewater.md": "LiUser",
+  "NPCs/Edina “Mistress of the Last Breath” Drakkar.md": "LiUser",
+  "Organizations/Tide Syndicate.md": "LiUsers",
+  "Organizations/The Whisper Pirates.md": "LiUsers",
+  "Settlements/Canalla.md": "LiBuilding2",
+  "DND SRD/Spells/Alarm.md": "LiWand2",
+  "Organizations/The Clerics of Ohgma.md": "LiUsers",
+  "Miscellaneous": "RiFileUnknowLine",
+  "Organizations/The Tide Syndicate.md": "LiUsers",
+  "Vessels & Vehicles/The Sea Ghost.md": {
+    "iconName": "LiSailboat"
+  },
+  "Shops & Services/Winston’s Store.md": "LiStore",
+  "DND SRD/Spells/Ego Whip (UA).md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Id Insinuation (UA).md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Mental Barrier (UA).md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Psionic Blast (UA).md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Psychic Crush (UA).md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Thought Shield (UA).md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Antagonize (UA).md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/House Of Cards (UA).md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Spirit Of Death (UA).md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Spray Of Cards (UA).md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Mind Thrust (UA).md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Acid Stream (UA).md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Arcane Weapon (UA).md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Conjure Barlgura (UA).md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Conjure Hezrou (UA).md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Conjure Vrock (UA).md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Create Magen.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Frost Fingers.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Flame Stride (UA).md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Guiding Hand (UA).md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Hand Of Radiance (UA).md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Healing Elixir (UA).md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Puppet (UA).md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Sense Emotion (UA).md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Sudden Awakening (UA).md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Unearthly Chorus (UA).md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Virtue (UA).md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Wild Cunning (UA).md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Borrowed Knowledge.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Kinetic Jaunt.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Silvery Barbs.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Vortex Warp.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Wither And Bloom.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Air Bubble.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Wondrous Items/Fenthras.md": {
+    "iconName": "TiBow"
+  },
+  "DND SRD/Spells/Arcane Hacking (UA).md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Conjure Knowbot (UA).md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Digital Phantom (UA).md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Find Vehicle (UA).md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Haywire (UA).md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Infallible Relay (UA).md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/On Off (UA).md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Remote Access (UA).md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Shutdown (UA).md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Synchronicity (UA).md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/System Backdoor (UA).md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Earth Tremor.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Erupting Earth.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Magic Stone.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Dark Star.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Fortune's Favor.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Gift Of Alacrity.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Gravity Fissure.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Gravity Sinkhole.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Immovable Object.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Magnify Gravity.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Pulse Wave.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Ravenous Void.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Reality Break.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Sapping Sting.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Temporal Shunt.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Tether Essence.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Time Ravage.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Wristpocket.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Encode Thoughts.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Blade Of Disaster.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Booming Blade.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Green-Flame Blade.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Intellect Fortress.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Lightning Lure.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Mind Sliver.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Spirit Shroud.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Summon Aberration.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Summon Beast.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Summon Celestial.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Summon Construct.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Summon Elemental.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Summon Fey.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Summon Fiend.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Summon Shadowspawn.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Summon Undead.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Sword Burst.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Tasha's Caustic Brew.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Tasha's Mind Whip.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Absorb Elements.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Aganazzar's Scorcher.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Beast Bond.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Bones Of The Earth.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Catapult.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Catnap.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Cause Fear.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Ceremony.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Chaos Bolt.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Charm Monster.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Control Flames.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Control Winds.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Create Bonfire.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Create Homunculus.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Crown Of Stars.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Danse Macabre.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Dawn.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Dragon's Breath.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Druid Grove.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Dust Devil.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Earthbind.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Elemental Bane.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Enemies Abound.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Enervation.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Far Step.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Find Greater Steed.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Flame Arrows.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Frostbite.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Guardian Of Nature.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Gust.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Healing Spirit.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Holy Weapon.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Ice Knife.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Illusory Dragon.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Immolation.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Infernal Calling.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Infestation.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Investiture Of Flame.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Investiture Of Ice.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Investiture Of Stone.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Investiture Of Wind.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Invulnerability.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Life Transference.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Maddening Darkness.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Maelstrom.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Mass Polymorph.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Melf's Minute Meteors.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Mental Prison.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Mighty Fortress.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Mind Spike.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Mold Earth.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Negative Energy Flood.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Power Word - Pain.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Primal Savagery.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Primordial Ward.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Psychic Scream.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Pyrotechnics.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Scatter.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Shadow Blade.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Shadow Of Moil.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Shape Water.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Sickening Radiance.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Skill Empowerment.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Skywrite.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Snare.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Soul Cage.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Steel Wind Strike.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Storm Sphere.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Summon Greater Demon.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Summon Lesser Demons.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Synaptic Static.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Temple Of The Gods.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Thunder Step.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Thunderclap.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Tidal Wave.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Tiny Servant.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Toll The Dead.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Transmute Rock.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Vitriolic Sphere.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Wall Of Light.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Wall Of Sand.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Wall Of Water.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Warding Wind.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Watery Sphere.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Whirlwind.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Word Of Radiance.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Wrath Of Nature.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Zephyr Strike.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Ashardalon's Stride.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Nathair's Mischief.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Rime's Binding Ice.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Flock Of Familiars.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Galder's Tower.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Distort Value.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Fast Friends.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Gift Of Gab.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Incite Greed.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Jim's Glowing Coin.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Jim's Magic Missile.md": {
+    "iconName": "LiWand2"
+  },
+  "DND SRD/Spells/Motivational Speech.md": {
+    "iconName": "LiWand2"
+  },
+  "z_Backups/Template - Random Masc NPC 1.md": "RaPerspectiveDiceRandom",
+  "z_Backups/Template - Random Femme NPC 1.md": "RaPerspectiveDiceRandom",
+  "Vessels & Vehicles/The Peggy-Lou.md": "LiSailboat",
+  "Vessels & Vehicles/The Iron Tide.md": "LiSailboat",
+  "Shops & Services/The Salty Straw.md": {
+    "iconName": "LiBeer"
+  },
+  "Shops & Services/The Blushing Mermaid.md": {
+    "iconName": "LiBeer"
+  },
+  "Shops & Services/Laina's Herbal Remedies.md": "LiStore",
+  "Shops & Services/Ink & Arcana.md": "LiStore",
+  "Shops & Services/Enchanted Elegance.md": "LiStore",
+  "Shops & Services/Drallion's Galleons.md": "LiStore",
+  "Settlements/Waterdeep.md": "LiBuilding2",
+  "Settlements/Saltmarsh.md": "LiBuilding2",
+  "Settlements/Neverwinter.md": "LiBuilding2",
+  "Settlements/Mantledeep.md": "LiBuilding2",
+  "Settlements/Kletva.md": "LiBuilding2",
+  "Organizations/Storm Wardens.md": "LiUsers",
+  "Organizations/Storm Pirates.md": "LiUsers",
+  "Organizations/Saltmarsh Town Guard.md": "LiUsers",
+  "Organizations/Saltmarsh City Council.md": "LiUsers",
+  "Organizations/Clan Ylar.md": "LiUsers",
+  "Organizations/Barrel Pirates.md": "LiUsers",
+  "Locations/The Midtempest Boundary.md": "LiMapPin",
+  "Locations/The Gate - Entrance to the Wild Tempest.md": "LiMapPin",
+  "Locations/Master Elrikor's Tower.md": {
+    "iconName": "RaTower"
+  },
+  "Islands/Tranquil Refuge Archipelago.md": "LiPalmtree",
+  "Islands/Stygia.md": "LiPalmtree",
+  "Islands/Stormgate Isle.md": {
+    "iconName": "LiPalmtree"
+  },
+  "Islands/Skyhaven.md": {
+    "iconName": "RiSunCloudyFill"
+  },
+  "Islands/Siroccia.md": {
+    "iconName": "LiPalmtree"
+  },
+  "Islands/Isaola.md": "LiPalmtree",
+  "D&D Sources/Xanathar's Guide to Everything/Wondrous Items/Wand of Scowls.md": "LiWand",
+  "D&D Sources/Xanathar's Guide to Everything/Wondrous Items/Wand of Smiles.md": "LiWand",
+  "D&D Sources/Xanathar's Guide to Everything/Wondrous Items/Unbreakable Arrow.md": "LiSwords",
+  "D&D Sources/The Griffon's Saddlebag/Wondrous Items/Swashbuckler's Slippery Saber.md": "RaPlainDagger",
+  "D&D Sources/The Griffon's Saddlebag/Wondrous Items/Ring of Anchoring.md": {
+    "iconName": "LiTorus"
+  },
+  "D&D Sources/The Griffon's Saddlebag/Wondrous Items/Potion of Nature's Growth.md": "LiFlaskRound",
+  "D&D Sources/The Griffon's Saddlebag/Wondrous Items/Potion of Dragon's Breath.md": "LiFlaskRound",
+  "D&D Sources/The Griffon's Saddlebag/Wondrous Items/Obsidian Star.md": "LiSwords",
+  "D&D Sources/The Griffon's Saddlebag/Wondrous Items/Focus Circlet.md": "LiComponent",
+  "D&D Sources/The Griffon's Saddlebag/Wondrous Items/Field Healer's Pauldron.md": "LiComponent",
+  "D&D Sources/The Griffon's Saddlebag/Wondrous Items/Essence of Rage.md": "LiFlaskRound",
+  "D&D Sources/The Griffon's Saddlebag/Wondrous Items/Devil's Detail Eyepatch.md": "LiComponent",
+  "D&D Sources/The Griffon's Saddlebag/Wondrous Items/Bottled Talent.md": "LiFlaskRound",
+  "D&D Sources/The Griffon's Saddlebag/Wondrous Items/Alchemimic.md": "LiComponent",
+  "D&D Sources/Tasha's Cauldron of Everything/Wondrous Items/Amulet of The Devout.md": "RaGemPendant",
+  "D&D Sources/Strixhaven - A Curriculum of Chaos/Wondrous Items/Witherbloom Primer.md": "LiComponent",
+  "D&D Sources/Strixhaven - A Curriculum of Chaos/Wondrous Items/Strixhaven Pennant.md": "LiComponent",
+  "D&D Sources/Strixhaven - A Curriculum of Chaos/Wondrous Items/Silverquill Primer.md": "LiComponent",
+  "D&D Sources/Strixhaven - A Curriculum of Chaos/Wondrous Items/Quandrix Primer.md": "LiComponent",
+  "D&D Sources/Strixhaven - A Curriculum of Chaos/Wondrous Items/Prismari Primer.md": "LiComponent",
+  "D&D Sources/Strixhaven - A Curriculum of Chaos/Wondrous Items/Murgaxor's Orb.md": "LiComponent",
+  "D&D Sources/Strixhaven - A Curriculum of Chaos/Wondrous Items/Masque Charm.md": "LiComponent",
+  "D&D Sources/Strixhaven - A Curriculum of Chaos/Wondrous Items/Lorehold Primer.md": "LiComponent",
+  "D&D Sources/Strixhaven - A Curriculum of Chaos/Wondrous Items/Cuddly Strixhaven Mascot.md": "LiComponent",
+  "D&D Sources/Sources/Xanathar's Guide to Everything.md": "LiBookMarked",
+  "D&D Sources/Sources/Wayfinder's Guide To Eberron.md": "LiBookMarked",
+  "D&D Sources/Sources/Volo's Guide to Monsters.md": "LiBookMarked",
+  "D&D Sources/Sources/Van Richten's Guide to Ravenloft.md": "LiBookMarked",
+  "D&D Sources/Sources/Unearthed Arcana 85 - Wonders of The Multiverse.md": "LiBookMarked",
+  "D&D Sources/Sources/Unearthed Arcana 78 - Draconic Options.md": "LiBookMarked",
+  "D&D Sources/Sources/Unearthed Arcana 71 - Psionic Options Revisited.md": "LiBookMarked",
+  "D&D Sources/Sources/Unearthed Arcana 70 - Spells And Magic Tattoos.md": "LiBookMarked",
+  "D&D Sources/Sources/Unearthed Arcana 7 - Modern Magic.md": "LiBookMarked",
+  "D&D Sources/Sources/Unearthed Arcana 66 - Fighter, Rogue, And Wizard.md": "LiBookMarked",
+  "D&D Sources/Sources/Unearthed Arcana 60 - The Artificer Returns.md": "LiBookMarked",
+  "D&D Sources/Sources/Unearthed Arcana 36 - Starter Spells.md": "LiBookMarked",
+  "D&D Sources/Sources/Unearthed Arcana 11 - That Old Black Magic.md": "LiBookMarked",
+  "D&D Sources/Sources/Tyranny of Dragons.md": "LiBookMarked",
+  "D&D Sources/Sources/Tomb of Annihilation.md": "LiBookMarked",
+  "D&D Sources/Sources/Think DM.md": "LiBookMarked",
+  "D&D Sources/Sources/The Wild Beyond the Witchlight.md": "LiBookMarked",
+  "D&D Sources/Sources/The Rise of Tiamat.md": "LiBookMarked",
+  "D&D Sources/Sources/The Griffon's Saddlebag.md": "LiBookMarked",
+  "D&D Sources/Sources/The Book of Many Things.md": "LiBookMarked",
+  "D&D Sources/Sources/Tasha's Cauldron of Everything.md": "LiBookMarked",
+  "D&D Sources/Sources/Tales from the Yawning Portal.md": "LiBookMarked",
+  "D&D Sources/Sources/Tal'Dorei Campaign Setting Reborn.md": "LiBookMarked",
+  "D&D Sources/Sources/Sword Coast Adventurer's Guide.md": "LiBookMarked",
+  "D&D Sources/Sources/Strixhaven - A Curriculum of Chaos.md": "LiBookMarked",
+  "D&D Sources/Sources/Storm King's Thunder.md": "LiBookMarked",
+  "D&D Sources/Sources/Sleeping Dragon's Wake.md": "LiBookMarked",
+  "D&D Sources/Sources/Princes of the Apocalypse.md": "LiBookMarked",
+  "D&D Sources/Sources/Out of the Abyss.md": "LiBookMarked",
+  "D&D Sources/Sources/Mythic Odysseys of Theros.md": "LiBookMarked",
+  "D&D Sources/Sources/Mordenkainen Presents - Monsters of the Multiverse.md": "LiBookMarked",
+  "D&D Sources/Sources/Lost Mine of Phandelver.md": "LiBookMarked",
+  "D&D Sources/Sources/Lost Laboratory of Kwalish.md": "LiBookMarked",
+  "D&D Sources/Sources/Legends of Runeterra - Dark Tides of Bilgewater.md": "LiBookMarked",
+  "D&D Sources/Sources/Keys from the Golden Vault.md": "LiBookMarked",
+  "D&D Sources/Sources/Journeys through the Radiant Citadel.md": "LiBookMarked",
+  "D&D Sources/Sources/Infernal Machine Rebuild.md": "LiBookMarked",
+  "D&D Sources/Sources/Icewind Dale - Rime of the Frostmaiden.md": "LiBookMarked",
+  "D&D Sources/Sources/Homebrew.md": "LiBookMarked",
+  "D&D Sources/Sources/Guildmaster's Guide to Ravnica.md": "LiBookMarked",
+  "D&D Sources/Sources/Ghosts of Saltmarsh.md": "LiBookMarked",
+  "D&D Sources/Sources/Explorer's Guide to Wildemount.md": "LiBookMarked",
+  "D&D Sources/Sources/Fizban's Treasury of Dragons.md": "LiBookMarked",
+  "D&D Sources/Sources/Elemental Evil Player's Companion.md": "LiBookMarked",
+  "D&D Sources/Sources/Eberron - Rising from the Last War.md": "LiBookMarked",
+  "D&D Sources/Sources/Dungeon Master's Guide.md": "LiBookMarked",
+  "D&D Sources/Sources/Dungeon Master's Guide 2024.md": "LiBookMarked",
+  "D&D Sources/Sources/Dragonlance - Shadow of the Dragon Queen.md": "LiBookMarked",
+  "D&D Sources/Sources/Divine Contention.md": "LiBookMarked",
+  "D&D Sources/Sources/Curse of Strahd.md": "LiBookMarked",
+  "D&D Sources/Sources/Critical Role.md": "LiBookMarked",
+  "D&D Sources/Sources/Critical Role - Call of the Netherdeep.md": "LiBookMarked",
+  "D&D Sources/Sources/Candlekeep Mysteries.md": "LiBookMarked",
+  "D&D Sources/Sources/Bigby Presents - Glory of the Giants.md": "LiBookMarked",
+  "D&D Sources/Sources/Baldur's Gate - Descent into Avernus.md": "LiBookMarked",
+  "D&D Sources/Sources/Acquisitions Incorporated.md": "LiBookMarked",
+  "D&D Sources/Guildmaster's Guide to Ravnica/Wondrous Items/Voyager Staff.md": "RaCrystalWand",
+  "D&D Sources/Guildmaster's Guide to Ravnica/Wondrous Items/Sword of The Paruns.md": "LiSwords",
+  "D&D Sources/Guildmaster's Guide to Ravnica/Wondrous Items/Sunforger.md": "RaLargeHammer",
+  "D&D Sources/Guildmaster's Guide to Ravnica/Wondrous Items/Spies' Murmur.md": "LiComponent",
+  "D&D Sources/Guildmaster's Guide to Ravnica/Wondrous Items/Skyblinder Staff.md": "RaCrystalWand",
+  "D&D Sources/Guildmaster's Guide to Ravnica/Wondrous Items/Rakdos Riteknife.md": "PaPlainDagger",
+  "D&D Sources/Guildmaster's Guide to Ravnica/Wondrous Items/Pyroconverger.md": "LiComponent",
+  "D&D Sources/Guildmaster's Guide to Ravnica/Wondrous Items/Peregrine Mask.md": "LiComponent",
+  "D&D Sources/Guildmaster's Guide to Ravnica/Wondrous Items/Pariah's Shield.md": "LiShield",
+  "D&D Sources/Guildmaster's Guide to Ravnica/Wondrous Items/Moodmark Paint.md": "LiComponent",
+  "D&D Sources/Guildmaster's Guide to Ravnica/Wondrous Items/Mizzium Mortar.md": "LiComponent",
+  "D&D Sources/Guildmaster's Guide to Ravnica/Wondrous Items/Mizzium Armor.md": {
+    "iconName": "RaVest"
+  },
+  "D&D Sources/Guildmaster's Guide to Ravnica/Wondrous Items/Mizzium Apparatus.md": "LiComponent",
+  "D&D Sources/Guildmaster's Guide to Ravnica/Wondrous Items/Illusionist's Bracers.md": "LiComponent",
+  "D&D Sources/Guildmaster's Guide to Ravnica/Wondrous Items/Guild Signet.md": {
+    "iconName": "LiTorus"
+  },
+  "D&D Sources/Guildmaster's Guide to Ravnica/Wondrous Items/Guild Keyrune.md": "RaKey",
+  "D&D Sources/Ghosts of Saltmarsh/Wondrous Items/Sekolahian Worshipping Statuette.md": "LiComponent",
+  "D&D Sources/Ghosts of Saltmarsh/Wondrous Items/Pressure Capsule.md": "LiComponent",
+  "D&D Sources/Ghosts of Saltmarsh/Wondrous Items/Pipe of Remembrance.md": "LiComponent",
+  "D&D Sources/Ghosts of Saltmarsh/Wondrous Items/Luckstone.md": "LiComponent",
+  "D&D Sources/Ghosts of Saltmarsh/Wondrous Items/Helm of Underwater Action.md": "RaHelmet",
+  "D&D Sources/Ghosts of Saltmarsh/Wondrous Items/Cursed Luckstone.md": "LiComponent",
+  "D&D Sources/Ghosts of Saltmarsh/Wondrous Items/Charm of Plant Command.md": "LiComponent",
+  "D&D Sources/Explorer's Guide to Wildmount/Wondrous Items/Wreath of The Prism.md": "LiComponent",
+  "D&D Sources/Explorer's Guide to Wildmount/Wondrous Items/Will of The Talon.md": "LiSwords",
+  "D&D Sources/Explorer's Guide to Wildmount/Wondrous Items/Weapon of Certain Death.md": "LiSwords",
+  "D&D Sources/Explorer's Guide to Wildmount/Wondrous Items/Vox Seeker.md": "LiComponent",
+  "D&D Sources/Explorer's Guide to Wildmount/Wondrous Items/Verminshroud.md": "LiComponent",
+  "D&D Sources/Explorer's Guide to Wildmount/Wondrous Items/The Bloody End.md": "LiSwords",
+  "D&D Sources/Explorer's Guide to Wildmount/Wondrous Items/Stormgirdle.md": "LiComponent",
+  "D&D Sources/Explorer's Guide to Wildmount/Wondrous Items/Staff of The Ivory Claw.md": "RaCrystalWand",
+  "D&D Sources/Explorer's Guide to Wildmount/Wondrous Items/Spell Bottle.md": "LiFlaskRound",
+  "D&D Sources/Explorer's Guide to Wildmount/Wondrous Items/Staff of Dunamancy.md": "RaCrystalWand",
+  "D&D Sources/Explorer's Guide to Wildmount/Wondrous Items/Silken Spite.md": "LiSwords",
+  "D&D Sources/Explorer's Guide to Wildmount/Wondrous Items/Ruin's Wake.md": "RaSpearHead",
+  "D&D Sources/Explorer's Guide to Wildmount/Wondrous Items/Rod of Retribution.md": "LiWand2",
+  "D&D Sources/Explorer's Guide to Wildmount/Wondrous Items/Ring of Temporal Salvation.md": "LiComponent",
+  "D&D Sources/Explorer's Guide to Wildmount/Wondrous Items/Ring of Obscuring.md": "LiComponent",
+  "D&D Sources/Explorer's Guide to Wildmount/Wondrous Items/Reincarnation Dust.md": "LiComponent",
+  "D&D Sources/Explorer's Guide to Wildmount/Wondrous Items/Potion of Possibility.md": "LiFlaskRound",
+  "D&D Sources/Explorer's Guide to Wildmount/Wondrous Items/Potion of Maximum Power.md": "LiFlaskRound",
+  "D&D Sources/Explorer's Guide to Wildmount/Wondrous Items/Orb of The Veil.md": "LiComponent",
+  "D&D Sources/Explorer's Guide to Wildmount/Wondrous Items/Nightfall Pearl.md": "LiComponent",
+  "D&D Sources/Explorer's Guide to Wildmount/Wondrous Items/Needle of Mending.md": "PaPlainDagger",
+  "D&D Sources/Explorer's Guide to Wildmount/Wondrous Items/Mace of The Black Crown.md": "LiSwords",
+  "D&D Sources/Explorer's Guide to Wildmount/Wondrous Items/Luxon Beacon.md": "LiComponent",
+  "D&D Sources/Explorer's Guide to Wildmount/Wondrous Items/Last Stand Armor.md": {
+    "iconName": "RaVest"
+  },
+  "D&D Sources/Explorer's Guide to Wildmount/Wondrous Items/Lash of Shadows.md": "LiSwords",
+  "D&D Sources/Explorer's Guide to Wildmount/Wondrous Items/Hunter's Coat.md": {
+    "iconName": "RaVest"
+  },
+  "D&D Sources/Explorer's Guide to Wildmount/Wondrous Items/Hide of The Feral Guardian.md": {
+    "iconName": "RaVest"
+  },
+  "D&D Sources/Explorer's Guide to Wildmount/Wondrous Items/Grovelthrash.md": "RaLargeHammer",
+  "D&D Sources/Explorer's Guide to Wildmount/Wondrous Items/Grimoire Infinitus.md": "LiComponent",
+  "D&D Sources/Explorer's Guide to Wildmount/Wondrous Items/Goggles of Object Reading.md": "LiGlasses",
+  "D&D Sources/Explorer's Guide to Wildmount/Wondrous Items/Dust of Deliciousness.md": "TiMoneybag",
+  "D&D Sources/Explorer's Guide to Wildmount/Wondrous Items/Duskcrusher.md": "RaLargeHammer",
+  "D&D Sources/Explorer's Guide to Wildmount/Wondrous Items/Dispelling Stone.md": "LiComponent",
+  "D&D Sources/Explorer's Guide to Wildmount/Wondrous Items/Danoth's Visor.md": "LiComponent",
+  "D&D Sources/Explorer's Guide to Wildmount/Wondrous Items/Corpse Slayer.md": "LiSwords",
+  "D&D Sources/Explorer's Guide to Wildmount/Wondrous Items/Coin of Delving.md": "LiComponent",
+  "D&D Sources/Explorer's Guide to Wildmount/Wondrous Items/Butcher's Bib.md": "LiComponent",
+  "D&D Sources/Explorer's Guide to Wildmount/Wondrous Items/Brooch of Living Essence.md": "LiComponent",
+  "D&D Sources/Explorer's Guide to Wildmount/Wondrous Items/Breathing Bubble.md": "LiComponent",
+  "D&D Sources/Explorer's Guide to Wildmount/Wondrous Items/Bloodaxe.md": "RaBatteredAxe",
+  "D&D Sources/Explorer's Guide to Wildmount/Wondrous Items/Battering Shield.md": "LiShield",
+  "D&D Sources/Explorer's Guide to Wildmount/Wondrous Items/Blade of Broken Mirrors.md": "PaPlainDagger",
+  "D&D Sources/Explorer's Guide to Wildmount/Wondrous Items/Amulet of The Drunkard.md": "RaGemPendant",
+  "D&D Sources/Explorer's Guide to Wildmount/Wondrous Items/Arcane Cannon.md": "RaCannonShot",
+  "D&D Sources/Explorer's Guide to Wildmount/Wondrous Items/Acheron Blade.md": "LiSwords",
+  "D&D Sources/Acquisitions Incorporated/Wondrous Items/Wheel of Stars.md": "LiComponent",
+  "D&D Sources/Acquisitions Incorporated/Wondrous Items/Timepiece of Travel.md": "LiComponent",
+  "D&D Sources/Acquisitions Incorporated/Wondrous Items/Rotor of Return.md": "LiComponent",
+  "D&D Sources/Acquisitions Incorporated/Wondrous Items/Orrery of The Wanderer.md": "LiComponent",
+  "D&D Sources/Acquisitions Incorporated/Wondrous Items/Far Gear.md": "LiComponent",
+  "D&D Sources/Acquisitions Incorporated/Wondrous Items/Dimensional Loop.md": "LiComponent",
+  "D&D Sources/Acquisitions Incorporated/Wondrous Items/Chronolometer.md": "LiComponent",
+  "z_Assets/Banners": "LiImage",
+  "z_Assets/Characters": "LiImage",
+  "z_Assets/Documents": "LiFormInput",
+  "z_Assets/Images": "LiImage",
+  "z_Assets/Items": "LiImage",
+  "z_Assets/Maps": "LiMap",
+  "z_Assets/Random Tables": "LiTable2",
+  "z_Assets/Schedules": "LiCalendar",
+  "z_Assets/Statblocks": "LiAlignStartVertical",
+  "z_Assets/Tarot": "RaDiamondsCard",
+  "z_Assets/Website": "LiGlobe",
+  "z_Assets/Generic": "LiImage",
+  "x_Website": "LiGlobe",
+  "Locations/The Alchemist's Home.md": {
+    "iconName": "LiHome"
+  },
+  "D&D Sources": "LiBookMarked",
+  "Maps": "LiMap",
+  "publish.css": "RaGears",
+  "Home Page.md": {
+    "iconName": "LiGlobe"
+  },
+  "House Rules.md": "LiGlobe",
+  "Player Resources.md": "LiGlobe",
+  "Home Page - Session.md": {
+    "iconName": "LiHome"
+  },
+  "z_Templates/Template - Island.md": {
+    "iconName": "LiPalmtree"
+  },
+  "Organizations/Pegging Pirates.md": "LiUsers",
+  "Locations/The Leap.md": {
+    "iconName": "LiMapPin"
+  },
+  "Locations/The Shadowfell Portal.md": "LiMapPin",
+  "Islands/The Isle of Cantus.md": "LiPalmtree",
+  "Creatures/False Hydra.md": {
+    "iconName": "RaHydra"
+  },
+  "z_Templates/Template - Creature.md": {
+    "iconName": "RaCat"
+  },
+  "z_Templates/Tamplate - Vessel.md": "LiSailboat",
+  "Locations/Marinthalis.md": {
+    "iconName": "LiGlobe2"
+  },
+  "Maps/Baldur's Gate Map.md": {
+    "iconName": "LiMap"
+  },
+  "Maps/Saltmarsh Map.md": {
+    "iconName": "LiMap"
+  },
+  "Home Page - Prepping.md": {
+    "iconName": "LiHome"
+  },
+  "Ship's Log.md": {
+    "iconName": "LiGlobe"
+  },
+  "x_Website/Filling Out a Character Sheet.md": {
+    "iconName": "LiGlobe"
+  },
+  "x_Website/Groups & Organizations.md": {
+    "iconName": "LiGlobe"
+  },
+  "x_Website/Lineages.md": {
+    "iconName": "LiGlobe"
+  },
+  "x_Website/NPCs.md": {
+    "iconName": "LiGlobe"
+  },
+  "x_Website/Testing.md": {
+    "iconName": "LiGlobe"
+  },
+  "x_Website/The World of Marinthalis.md": {
+    "iconName": "LiGlobe"
+  },
+  "x_Website/Vessels & Vehicles.md": {
+    "iconName": "LiGlobe"
+  },
+  "Deities/Oghma.md": {
+    "iconName": "LiScrollText"
+  },
+  "Deities/Savras.md": {
+    "iconName": "LiDices"
+  },
+  "Deities/Shar.md": {
+    "iconName": "LiLightbulbOff"
+  },
+  "Deities/Valkur.md": {
+    "iconName": "LiSailboat"
+  },
+  "Deities/Selûne.md": {
+    "iconName": "LiMoon"
+  },
+  "Deities/The Raven Queen.md": {
+    "iconName": "RaRaven"
+  },
+  "Deities/Talos.md": {
+    "iconName": "RaLightningStorm"
+  },
+  "z_Assets/Random Tables/Directions Tables.md": {
+    "iconName": "LiTable2"
+  },
+  "z_Assets/Random Tables/Name Tables.md": {
+    "iconName": "LiTable2"
+  },
+  "z_Assets/Random Tables/Lineage Tables.md": {
+    "iconName": "LiTable2"
+  },
+  "z_Tools": "LiWrench",
+  "z_Assets/Misc": "RiQuestionMark",
+  "z_Assets/Icons": "LiAperture",
+  "Daily Notes": "LiNotepadText",
+  "Daily Notes/2025-01-23.md": {
+    "iconName": "LiNotepadText"
+  },
+  "z_Templates/Template - Daily Note.md": {
+    "iconName": "LiNotepadText"
+  },
+  "z_Templates/Template - Deity.md": {
+    "iconName": "RiQuestionMark"
+  },
+  "z_Templates/Template - Vessel.md": {
+    "iconName": "LiSailboat"
+  },
+  "z_Templates/Insert - Centered Text.md": {
+    "iconName": "LiRightArrow"
+  },
+  "Islands/Cantus.md": {
+    "iconName": "LiPalmtree"
+  },
+  "z_Templates/Insert - Locations Query.md": {
+    "iconName": "LiRightArrow"
+  },
+  "x_Website/Full Tarot Deck.md": {
+    "iconName": "LiGlobe"
+  },
+  "Miscellaneous/Aethel’s Tarot Readings - GM Version.md": {
+    "iconName": "LiNotepadText"
+  },
+  "Groups": "LiUsers",
+  "Groups/Saltmarsh Town Guard.md": {
+    "iconName": "LiShield"
+  },
+  "Groups/Displacer Beast Gang.md": {
+    "iconName": "LiUsers"
+  },
+  "Groups/Clan Ylar.md": {
+    "iconName": "RaWolfHowl"
+  },
+  "Groups/Storm Wardens.md": {
+    "iconName": "RaLightningStorm"
+  },
+  "Groups/Storm Pirates.md": {
+    "iconName": "LiUsers"
+  },
+  "Groups/Saltmarsh City Council.md": {
+    "iconName": "LiGavel"
+  },
+  "Groups/Clerics of Ohgma.md": {
+    "iconName": "RaHealth"
+  },
+  "Groups/Gull Pirates.md": {
+    "iconName": "RaSeagull"
+  },
+  "Locations/The Lower City.md": {
+    "iconName": "RiCommunityLine"
+  },
+  "Locations/The Grey Harbor.md": {
+    "iconName": "LiSailboat"
+  },
+  "Locations/The Upper City.md": {
+    "iconName": "RiCommunityLine"
+  },
+  "Locations/Ylar Shadowfell Portal.md": {
+    "iconName": "LiDoorOpen"
+  },
+  "Creatures/Poe the Raven.md": {
+    "iconName": "LiBird"
+  },
+  "D&D Sources/The Griffon's Saddlebag/Wondrous Items/Marlin Lunger.md": {
+    "iconName": "LiSwords"
+  },
+  "Daily Notes/2025-01-24.md": {
+    "iconName": "LiNotepadText"
+  },
+  "Locations/Kletva Church of Selûne.md": {
+    "iconName": "LiChurch"
+  },
+  "Islands/Storm Warden Temple Island.md": {
+    "iconName": "LiPalmtree"
+  },
+  "Locations/Overgrown Storm Warden Temple.md": {
+    "iconName": "LiChurch"
+  },
+  "Daily Notes/2025-01-25.md": {
+    "iconName": "LiNotepadText"
+  },
+  "Vessels & Vehicles/Giant’s Wrath.md": {
+    "iconName": "LiSailboat"
+  },
+  "Groups/Brazen Bull Pirates.md": {
+    "iconName": "LiUsers"
+  },
+  "Creatures/Giants.md": {
+    "iconName": "RaLargeHammer"
+  },
+  "x_Website/Feedback Page.md": {
+    "iconName": "LiGlobe"
+  },
+  "Groups/The Council of Isles.md": {
+    "iconName": "LiUsers"
+  },
+  "Groups/The Strikers.md": {
+    "iconName": "LiUsers"
+  },
+  "x_Website/Timeline of Marinthalis.md": {
+    "iconName": "LiGlobe"
+  },
+  "Groups/The Tide Syndicate.md": {
+    "iconName": "LiUsers"
+  },
+  "Groups/The Whisper Pirates.md": {
+    "iconName": "LiUsers"
+  },
+  "Groups/The Pegging Pirates.md": {
+    "iconName": "LiUsers"
+  },
+  "Handouts/Calendar of Marinthalis.md": {
+    "iconName": "LiCalendar"
+  },
+  "Handouts/A Riddle in the Mines.md": {
+    "iconName": "RiQuestionMark"
+  },
+  "Handouts/Storm Warden's Prayer.md": {
+    "iconName": "LiHelpingHand"
+  },
+  "Handouts/Athair's Message to Gnar.md": {
+    "iconName": "LiMail"
+  },
+  "Handouts/Aethel’s Tarot Readings.md": {
+    "iconName": "RaHeartsCard"
+  },
+  "Handouts/Four Storms Puzzle.md": {
+    "iconName": "RiQuestionMark"
+  },
+  "Handouts/Shtepi Side Effects.md": {
+    "iconName": "LiFlaskRound"
+  },
+  "Miscellaneous/Gnar's Visions - GM Version.md": {
+    "iconName": "RiZzzFill"
+  },
+  "Brainstorming/Elephant Gun.md": {
+    "iconName": "LiBrain"
+  },
+  "Brainstorming/Giant Unwieldy Greatsword.md": {
+    "iconName": "LiBrain"
+  },
+  "z_Templates/Template - Idea.md": {
+    "iconName": "LiBrain"
+  },
+  "z_Templates/Template - Subclass.md": {
+    "iconName": "RiQuestionMark"
+  },
+  "z_Templates/Template - Group.md": {
+    "iconName": "LiUsers"
+  },
+  "Brainstorming/Custom FDM DM Screen.md": {
+    "iconName": "LiBrain"
+  },
+  "Daily Notes/2025-01-29.md": {
+    "iconName": "LiNotepadText"
+  },
+  "Handouts/Zephyr’s Note.md": {
+    "iconName": "LiNotepadText"
+  },
+  "Daily Notes/2025-01-30.md": {
+    "iconName": "LiNotepadText"
+  },
+  "Creatures/Displacer Beasts.md": {
+    "iconName": "RaCat"
+  },
+  "Creatures/Pseudodragons.md": {
+    "iconName": "RaDragon"
+  },
+  "Creatures/Manta-Pseudodragons.md": {
+    "iconName": "RaCat"
+  },
+  "Miscellaneous/Fonts & Styling.md": {
+    "iconName": "RiFontSize"
+  },
+  "Handouts": "RiHand",
+  "z_Templates/Insert - Island.md": "LiRightArrow",
+  "z_Templates/Template - Item.md": "LiComponent",
+  "z_Templates/Template - Random Femme NPC.md": "RaPerspectiveDiceRandom",
+  "z_Templates/Template - Random Masc NPC.md": "RaPerspectiveDiceRandom",
+  "z_Templates/Insert - WIP.md": "LiRightArrow",
+  "z_Templates/Insert - Dataview List.md": "LiRightArrow",
+  "z_Assets/Creatures": "RaDragon",
+  "D&D Sources/Baldur's Gate - Descent into Avernus/Wondrous Items/Hellfire Weapon.md": {
+    "iconName": "LiSwords"
+  },
+  "D&D Sources/Baldur's Gate - Descent into Avernus/Wondrous Items/Obsidian Flint Dragon Plate.md": {
+    "iconName": "RaVest"
+  },
+  "D&D Sources/Baldur's Gate - Descent into Avernus/Wondrous Items/Fane-Eater.md": {
+    "iconName": "RaBatteredAxe"
+  },
+  "D&D Sources/Baldur's Gate - Descent into Avernus/Wondrous Items/Gauntlets of Flaming Fury.md": {
+    "iconName": "LiComponent"
+  },
+  "D&D Sources/Baldur's Gate - Descent into Avernus/Wondrous Items/Infernal Tack.md": {
+    "iconName": "LiComponent"
+  },
+  "D&D Sources/Baldur's Gate - Descent into Avernus/Wondrous Items/Infernal Puzzle Box.md": {
+    "iconName": "LiComponent"
+  },
+  "D&D Sources/Baldur's Gate - Descent into Avernus/Wondrous Items/Battle Standard of Infernal Power.md": {
+    "iconName": "LiComponent"
+  },
+  "D&D Sources/Baldur's Gate - Descent into Avernus/Wondrous Items/Helm of Devil Command.md": {
+    "iconName": "RaHelmet"
+  },
+  "D&D Sources/Baldur's Gate - Descent into Avernus/Wondrous Items/Matalotok.md": {
+    "iconName": "RaLargeHammer"
+  },
+  "D&D Sources/Baldur's Gate - Descent into Avernus/Wondrous Items/Shield of The Hidden Lord.md": {
+    "iconName": "LiShield"
+  },
+  "D&D Sources/Baldur's Gate - Descent into Avernus/Wondrous Items/Soul Coin.md": {
+    "iconName": "LiComponent"
+  },
+  "D&D Sources/Baldur's Gate - Descent into Avernus/Wondrous Items/Sword of Zariel.md": {
+    "iconName": "LiSwords"
+  },
+  "D&D Sources/Mythic Odysseys of Theros/Wondrous Items/Akmon, Hammer of Purphoros.md": {
+    "iconName": "RaLargeHammer"
+  },
+  "D&D Sources/Mythic Odysseys of Theros/Wondrous Items/Dekella, Bident of Thassa.md": {
+    "iconName": "LiSwords"
+  },
+  "D&D Sources/Mythic Odysseys of Theros/Wondrous Items/Ephixis, Bow of Nyela.md": "LiSwords",
+  "D&D Sources/Mythic Odysseys of Theros/Wondrous Items/Flying Chariot.md": "LiComponent",
+  "D&D Sources/Mythic Odysseys of Theros/Wondrous Items/Helm of The Gods.md": "RaHelmet",
+  "D&D Sources/Mythic Odysseys of Theros/Wondrous Items/Khrusor, Spear of Heliod.md": "RaSpearHead",
+  "D&D Sources/Mythic Odysseys of Theros/Wondrous Items/Mastix, Whip of Erebos.md": "LiSwords",
+  "D&D Sources/Mythic Odysseys of Theros/Wondrous Items/Molten Bronze Skin.md": {
+    "iconName": "RaVest"
+  },
+  "D&D Sources/Mythic Odysseys of Theros/Wondrous Items/Potion of Aqueous Form.md": "LiFlaskRound",
+  "D&D Sources/Mythic Odysseys of Theros/Wondrous Items/Siren Song Lyre.md": "LiComponent",
+  "D&D Sources/Mythic Odysseys of Theros/Wondrous Items/Sling Bullets of Althemone.md": "LiSwords",
+  "D&D Sources/Mythic Odysseys of Theros/Wondrous Items/Two-Birds Sling.md": "LiSwords",
+  "D&D Sources/Mythic Odysseys of Theros/Wondrous Items/Pyxis of Pandemonium.md": {
+    "iconName": "LiComponent"
+  },
+  "Miscellaneous/Dice Statistics.md": {
+    "iconName": "LiDice"
+  },
+  "Miscellaneous/Monster Stat Calculation.md": {
+    "iconName": "LiPercent"
+  },
+  "Settlements/Citadel of Ten Thousand Pearls.md": {
+    "iconName": "LiBuilding2"
+  },
+  "Locations/Elemental Plane of Air.md": {
+    "iconName": "LiWind"
+  },
+  "Locations/Elemental Plane of Earth.md": {
+    "iconName": "LiGem"
+  },
+  "Locations/Elemental Plane of Fire.md": {
+    "iconName": "LiFlame"
+  },
+  "Locations/Elemental Plane of Water.md": {
+    "iconName": "LiDroplet"
+  },
+  "Locations/Para-Elemental Plane of Ice.md": {
+    "iconName": "RaIceCube"
+  },
+  "Locations/Elemental Planes.md": {
+    "iconName": "LiGlobe2"
+  },
+  "Locations/Quasi-Elemental Plane of Lightning.md": {
+    "iconName": "RaLightningStorm"
+  },
+  "Creatures/Blue Dragons.md": {
+    "iconName": "RaDragon"
+  },
+  "Daily Notes/2025-02-05.md": {
+    "iconName": "LiNotepadText"
+  },
+  "D&D Sources/The Griffon's Saddlebag/Wondrous Items/Shellguard Armor.md": {
+    "iconName": "RaVest"
+  },
+  "D&D Sources/The Griffon's Saddlebag/Wondrous Items/Mistwalker’s Armor.md": {
+    "iconName": "RaVest"
+  },
+  "D&D Sources/The Griffon's Saddlebag/Wondrous Items/Ring of Roses.md": {
+    "iconName": "LiTorus"
+  },
+  "D&D Sources/The Griffon's Saddlebag/Wondrous Items/Vial Ring.md": {
+    "iconName": "LiTorus"
+  },
+  "Creatures/Ice Elementals.md": {
+    "iconName": "RaIceCube"
+  },
+  "Creatures/Thunder Elementals.md": {
+    "iconName": "RaLightningStorm"
+  },
+  "Creatures/Water Elementals.md": {
+    "iconName": "LiDroplet"
+  },
+  "Locations/The Shadowfell.md": {
+    "iconName": "LiMapPin"
+  },
+  "x_Website/The Party.md": {
+    "iconName": "LiGlobe"
+  },
+  "Groups/The Barrel Pirates.md": {
+    "iconName": "LiUsers"
+  },
+  "Islands/Taormina.md": {
+    "iconName": "LiPalmtree"
+  },
+  "Creatures/Bulettes.md": {
+    "iconName": "RaCat"
+  },
+  "Campaign Planning": "LiNotepadText",
+  "Characters": "LiUser",
+  "Characters/Bel.md": {
+    "iconName": "RaHorns"
+  },
+  "Characters/Grizzlewort Oakenshank.md": {
+    "iconName": "LiUser"
+  },
+  "Characters/Gellan Primewater.md": {
+    "iconName": "LiUser"
+  },
+  "Characters/Olo Rosewater.md": {
+    "iconName": "LiUser"
+  },
+  "Characters/Eliander Fireborn.md": {
+    "iconName": "LiUser"
+  },
+  "Characters/Gnolak Rosewater.md": {
+    "iconName": "LiUser"
+  },
+  "Characters/Rem Ackes.md": {
+    "iconName": "LiUser"
+  },
+  "Characters/Grommet Payne.md": {
+    "iconName": "LiUser"
+  },
+  "Characters/Athair Ar Neamh Rosewater.md": {
+    "iconName": "LiUser"
+  },
+  "Characters/Umwin Hickleseed.md": {
+    "iconName": "LiUser"
+  },
+  "Characters/Elda Moonglade.md": {
+    "iconName": "LiUser"
+  },
+  "Characters/Aubreck Drallion.md": {
+    "iconName": "LiUser"
+  },
+  "Characters/Elenna Bloodhook.md": {
+    "iconName": "LiUser"
+  },
+  "Characters/Borgos Leon.md": {
+    "iconName": "LiUser"
+  },
+  "Characters/Elrikor Galanodel.md": {
+    "iconName": "LiUser"
+  },
+  "Characters/Jared Flint.md": {
+    "iconName": "LiUser"
+  },
+  "Characters/Sanbalet Corvix.md": {
+    "iconName": "LiUser"
+  },
+  "Characters/Ranbur the Red.md": {
+    "iconName": "LiUser"
+  },
+  "Characters/Wallace Payne.md": {
+    "iconName": "LiUser"
+  },
+  "Characters/Shirina.md": {
+    "iconName": "LiUser"
+  },
+  "Characters/Saorise Valryttare.md": {
+    "iconName": "LiUser"
+  },
+  "Characters/Weylan Ackes.md": {
+    "iconName": "LiUser"
+  },
+  "Characters/Christof Blacktide.md": {
+    "iconName": "LiUser"
+  },
+  "Characters/Lord Percival Maximilian Von Goldfellow.md": {
+    "iconName": "LiUser"
+  },
+  "Characters/Milsa Tresant.md": {
+    "iconName": "LiUser"
+  },
+  "Characters/Joan Thalassa.md": {
+    "iconName": "LiUser"
+  },
+  "Characters/The Alchemist.md": {
+    "iconName": "LiUser"
+  },
+  "Characters/Xavier Thalassa.md": {
+    "iconName": "LiUser"
+  },
+  "Characters/Alaric Thalassa.md": {
+    "iconName": "LiUser"
+  },
+  "Characters/Erik Sigurd.md": {
+    "iconName": "LiUser"
+  },
+  "Characters/Edina Drakkar.md": {
+    "iconName": "LiUser"
+  },
+  "Characters/Mavis Shira.md": {
+    "iconName": "LiUser"
+  },
+  "Characters/Storm of Ferocity.md": {
+    "iconName": "LiUser"
+  },
+  "Characters/Amarantine Rosewater.md": {
+    "iconName": "LiUser"
+  },
+  "Characters/Hanna Rist.md": {
+    "iconName": "LiUser"
+  },
+  "Characters/Cade Zaleman.md": {
+    "iconName": "LiUser"
+  },
+  "Characters/Vidya Faelith.md": {
+    "iconName": "LiUser"
+  },
+  "Characters/Eda Oweland.md": {
+    "iconName": "LiUser"
+  },
+  "Characters/Winston Richett.md": {
+    "iconName": "LiUser"
+  },
+  "Characters/Zephyr Kaelith.md": {
+    "iconName": "LiUser"
+  },
+  "Characters/Otto Higgins.md": {
+    "iconName": "LiUser"
+  },
+  "Characters/Nimly Hidespeaker.md": {
+    "iconName": "LiUser"
+  },
+  "Characters/Aethelflaed Seerclaw.md": {
+    "iconName": "LiUser"
+  },
+  "Characters/Yaw'goo Bhagar.md": {
+    "iconName": "LiUser"
+  },
+  "Characters/Laina Pebblegrace.md": {
+    "iconName": "LiUser"
+  },
+  "Characters/Arda Seaborne.md": {
+    "iconName": "LiUser"
+  },
+  "Characters/Keiran's Dad.md": {
+    "iconName": "LiUser"
+  },
+  "Characters/Randomized NPCs": "RaPerspectiveDiceRandom",
+  "Characters/Beatrice Higgins.md": {
+    "iconName": "LiUser"
+  },
+  "Characters/Vargen Ylar.md": {
+    "iconName": "LiUserCircle2"
+  },
+  "Characters/Irej Shtepi.md": {
+    "iconName": "LiUserCircle2"
+  },
+  "Characters/Izzy Hands.md": {
+    "iconName": "LiUserCircle2"
+  },
+  "Characters/Valyria Norfine.md": {
+    "iconName": "LiUserCircle2"
+  },
+  "Characters/Wendolene Payne.md": {
+    "iconName": "LiUserCircle2"
+  },
+  "Characters/Gnar Rosewater.md": {
+    "iconName": "LiUserCircle2"
+  },
+  "Characters/Kael Resnik.md": {
+    "iconName": "LiUserCircle2"
+  },
+  "Characters/Keiran Thalassa.md": {
+    "iconName": "LiUserCircle2"
+  },
+  "Characters/Lock on an Open Door.md": {
+    "iconName": "LiUserCircle2"
+  },
+  "Characters/Quinn Thalassa.md": {
+    "iconName": "LiUserCircle2"
+  },
+  "Characters/Teegs.md": {
+    "iconName": "LiUserCircle2"
+  },
+  "Characters/Maeryn Valryttare.md": {
+    "iconName": "LiUserCircle2"
+  },
+  "Vessels & Vehicles/The Sea Wraith.md": {
+    "iconName": "LiSailboat"
+  },
+  "Daily Notes/2025-02-10.md": {
+    "iconName": "LiNotepadText"
+  },
+  "NPCs/Valyria Norfine.md": "LiUser",
+  "NPCs/Quinn Thalassa.md": "LiUser",
+  "NPCs/Vargen Ylar.md": "LiUser",
+  "D&D Sources/Candlekeep Mysteries/Wondrous Items/Serpent Scale Armor.md": {
+    "iconName": "RaVest"
+  },
+  "Daily Notes/2025-02-12.md": {
+    "iconName": "LiNotepadText"
+  },
+  "Locations/Strixhaven University.md": {
+    "iconName": "LiMapPin"
+  },
+  "Brainstorming/Mystery Ideas.md": {
+    "iconName": "LiBrain"
+  },
+  "Groups/The Isleguard.md": {
+    "iconName": "LiShield"
+  },
+  "Islands/Strauss.md": {
+    "iconName": "LiPalmtree"
+  },
+  "Settlements/Morrow.md": {
+    "iconName": "LiBuilding2"
+  },
+  "Miscellaneous/Creating Cities & Towns.md": {
+    "iconName": "LiNotepadText"
+  },
+  "Campaign Planning/A Bulette-Proof Theory/A Bulette-Proof Theory - Planning.md": {
+    "iconName": "LiNotepadText"
+  },
+  "Campaign Planning/Gears of Morrow/Gears of Morrow - Planning.md": {
+    "iconName": "LiNotepadText"
+  },
+  "Shops & Services/Maiden In The Flask.md": {
+    "iconName": "LiBeer"
+  },
+  "Islands/Dragon Turtle’s Rest.md": {
+    "iconName": "LiPalmtree"
+  },
+  "Locations/Waterdeep Slums.md": {
+    "iconName": "LiMapPin"
+  },
+  "Campaign Planning/The Pegging Pirates/Session Planning 2024-11-05.md": {
+    "iconName": "LiPencilLine"
+  },
+  "Campaign Planning/The Pegging Pirates/Shattered Archipelago - 25.md": {
+    "iconName": "LiPencilLine"
+  },
+  "Campaign Planning/The Pegging Pirates/Session Notes 2024-01-26.md": {
+    "iconName": "LiPencilLine"
+  },
+  "Campaign Planning/The Pegging Pirates/Session Planning 2024-10-11.md": {
+    "iconName": "LiPencilLine"
+  },
+  "Campaign Planning/The Pegging Pirates/Session Notes 2023-10-22.md": {
+    "iconName": "LiPencilLine"
+  },
+  "Campaign Planning/The Pegging Pirates/Shattered Archipelago - 26.md": {
+    "iconName": "LiPencilLine"
+  },
+  "Campaign Planning/The Pegging Pirates/Session Notes 2024-01-05.md": {
+    "iconName": "LiPencilLine"
+  },
+  "Campaign Planning/The Pegging Pirates/Session Notes 2023-11-5.md": {
+    "iconName": "LiPencilLine"
+  },
+  "Campaign Planning/The Pegging Pirates/Session Planning 2024-11-22.md": {
+    "iconName": "LiPencilLine"
+  },
+  "Campaign Planning/The Pegging Pirates/Shattered Archipelago - 27.md": {
+    "iconName": "LiPencilLine"
+  },
+  "Locations/Lorehold College.md": {
+    "iconName": "LiBookMarked"
+  },
+  "Locations/Witherbloom College.md": {
+    "iconName": "LiLeaf"
+  },
+  "PCs/Previous Allies/Izzy Hands.md": {
+    "iconName": "LiUserCircle2"
+  },
+  "PCs/Previous Allies/Irej Shtepi.md": "LiUserCircle2",
+  "PCs/Previous Allies/Valyria Norfine.md": "LiUserCircle2",
+  "PCs/Previous Allies/Vargen Ylar.md": "LiUser",
+  "Campaign Planning/The Pegging Pirates/Shattered Archipelago - 28.md": {
+    "iconName": "LiPencilLine"
+  },
+  "Campaign Planning/The Pegging Pirates/Shattered Archipelago - 29.md": {
+    "iconName": "LiPencilLine"
+  },
+  "Campaign Planning/The Pegging Pirates/Shattered Archipelago - 30.md": {
+    "iconName": "LiPencilLine"
+  },
+  "Campaign Planning/The Pegging Pirates/Shattered Archipelago - 31.md": {
+    "iconName": "LiPencilLine"
+  },
+  "Maps/Siroccia Map.md": {
+    "iconName": "LiMap"
+  },
+  "Maps/Seaglass Map.md": {
+    "iconName": "LiMap"
+  },
+  "Settlements/Seaglass.md": {
+    "iconName": "LiBuilding2"
+  },
+  "Daily Notes/2025-05-18.md": {
+    "iconName": "LiNotepadText"
+  },
+  "Characters/Elvora Rend.md": {
+    "iconName": "LiUser"
+  },
+  "Campaign Planning/The Pegging Pirates/Shattered Archipelago - 32.md": {
+    "iconName": "LiPencilLine"
+  },
+  "Handouts/Isleguard Prison Blueprint.md": {
+    "iconName": "LiScrollText"
+  },
+  "Locations/Seaglass Detention Annex.md": {
+    "iconName": "LiBuilding"
+  },
+  "Character Options/Classes/Barbarian.md": {
+    "iconName": "RaAxe"
+  },
+  "Character Options/Classes/Bard.md": {
+    "iconName": "LiMusic"
+  },
+  "Character Options/Classes/Cleric.md": {
+    "iconName": "RiCrossLine"
+  },
+  "Character Options/Classes/Druid.md": {
+    "iconName": "LiLeaf"
+  },
+  "Character Options/Classes/Fighter.md": {
+    "iconName": "LiSwords"
+  },
+  "Character Options/Classes/Monk.md": {
+    "iconName": "LiHand"
+  },
+  "Character Options/Classes/Paladin.md": {
+    "iconName": "LiShield"
+  },
+  "Character Options/Classes/Ranger.md": {
+    "iconName": "RaArrowFlights"
+  },
+  "Character Options/Classes/Sorcerer.md": {
+    "iconName": "LiWand"
+  },
+  "Character Options/Classes/Rogue.md": {
+    "iconName": "RaKnife"
+  },
+  "Character Options/Classes/Warlock.md": {
+    "iconName": "RiSkull2Line"
+  },
+  "Character Options/Classes/Wizard.md": {
+    "iconName": "LiScroll"
+  },
+  "Spells": "LiWand",
+  "Spells/Dark Star.md": "LiWand2",
+  "Spells/Decompose.md": "LiWand2",
+  "Spells/Distort Value.md": "LiWand2",
+  "Spells/Encode Thoughts.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Fast Friends.md": "LiWand2",
+  "Spells/Fortune's Favor.md": "LiWand2",
+  "Spells/Gift of Alacrity.md": "LiWand2",
+  "Spells/Gift of Gab.md": "LiWand2",
+  "Spells/Gravity Fissure.md": "LiWand2",
+  "Spells/Gravity Sinkhole.md": "LiWand2",
+  "Spells/Immovable Object.md": "LiWand2",
+  "Spells/Incite Greed.md": "LiWand2",
+  "Spells/Jim's Glowing Coin.md": "LiWand2",
+  "Spells/Jim's Magic Missile.md": "LiWand2",
+  "Spells/Magnify Gravity.md": "LiWand2",
+  "Spells/Motivational Speech.md": "LiWand2",
+  "Spells/Pulse Wave.md": "LiWand2",
+  "Spells/Ravenous Void.md": "LiWand2",
+  "Spells/Reality Break.md": "LiWand2",
+  "Spells/Sapping Sting.md": "LiWand2",
+  "Spells/Temporal Shunt.md": "LiWand2",
+  "Spells/Tether Essence.md": "LiWand2",
+  "Spells/Time Ravage.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Widogast's Transmogrification.md": "LiWand2",
+  "Spells/Widogast's Vault of Amber.md": "LiWand2",
+  "Spells/Widogast's Web of Fire.md": "LiWand2",
+  "Spells/Wristpocket.md": "LiWand2",
+  "Spells/Zone of Truth.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Abi-Dalzim's Horrid Wilting.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Absorb Elements.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Acid Splash.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Acid Stream (UA).md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Aganazzar's Scorcher.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Aid.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Air Bubble.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Alarm.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Alter Self.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Animal Friendship.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Animal Messenger.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Animal Shapes.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Animate Dead.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Animate Objects.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Antagonize (UA).md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Antilife Shell.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Antimagic Field.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Antipathy-Sympathy.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Arcane Eye.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Arcane Gate.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Arcane Hacking (UA).md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Arcane Lock.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Arcane Vigor.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Arcane Weapon (UA).md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Armor of Agathys.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Arms of Hadar.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Ashardalon's Stride.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Astral Projection.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Augury.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Aura of Life.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Aura of Purity.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Aura of Vitality.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Awaken.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Bane.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Banishing Smite.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Banishment.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Barkskin.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Beacon of Hope.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Beast Bond.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Beast Sense.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Befuddlement.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Bestow Curse.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Bigby's Hand.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Blade Barrier.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Blade of Disaster.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Blade Ward.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Bless.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Blight.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Blinding Smite.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Blindness-Deafness.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Blink.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Blur.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Bones of The Earth.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Booming Blade.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Branding Smite.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Burning Hands.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Call Lightning.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Calm Emotions.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Catapult.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Catnap.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Cause Fear.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Ceremony.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Chain Lightning.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Chaos Bolt.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Charm Monster.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Charm Person.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Chill Touch.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Chromatic Orb.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Circle of Death.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Circle of Power.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Clairvoyance.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Clone.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Cloud of Daggers.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Cloudkill.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Color Spray.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Command.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Commune.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Commune With City (UA).md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Commune with Nature.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Compelled Duel.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Comprehend Languages.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Compulsion.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Cone of Cold.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Confusion.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Conjure Animals.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Conjure Barlgura (UA).md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Conjure Barrage.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Conjure Celestial.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Conjure Elemental.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Conjure Fey.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Conjure Hezrou (UA).md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Conjure Knowbot (UA).md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Conjure Lesser Demon (UA).md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Conjure Minor Elementals.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Conjure Shadow Demon (UA).md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Conjure Volley.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Conjure Vrock (UA).md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Conjure Woodland Beings.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Contact Other Plane.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Contagion.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Contingency.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Continual Flame.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Control Flames.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Control Water.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Control Weather.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Control Winds.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Cordon of Arrows.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Counterspell.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Create Bonfire.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Create Food and Water.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Create Homunculus.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Create Magen.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Create or Destroy Water.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Create Spelljamming Helm.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Create Undead.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Creation.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Crown of Madness.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Crown of Stars.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Crusader's Mantle.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Cure Wounds.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Dancing Lights.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Danse Macabre.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Darkness.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Darkvision.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Dawn.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Daylight.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Death Ward.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Delayed Blast Fireball.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Demiplane.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Destructive Wave.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Detect Evil and Good.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Detect Magic.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Detect Poison and Disease.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Detect Thoughts.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Digital Phantom (UA).md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Dimension Door.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Disguise Self.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Disintegrate.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Dispel Evil and Good.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Dispel Magic.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Dissonant Whispers.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Divination.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Divine Favor.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Divine Smite.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Divine Word.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Dominate Beast.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Dominate Monster.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Dominate Person.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Draconic Transformation.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Draconic Transformation (UA).md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Dragon's Breath.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Dragon’s Breath.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Drawmij's Instant Summons.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Dream.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Dream of The Blue Veil.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Druid Grove.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Druidcraft.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Dust Devil.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Earthbind.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Earthquake.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Ego Whip (UA).md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Eldritch Blast.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Elemental Bane.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Elemental Weapon.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Elementalism.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Enemies Abound.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Enervation.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Enhance Ability.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Enlarge-Reduce.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Ensnaring Strike.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Entangle.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Enthrall.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Erupting Earth.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Etherealness.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Evard's Black Tentacles.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Expeditious Retreat.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Eyebite.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Fabricate.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Faerie Fire.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/False Life.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Far Step.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Fear.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Feather Fall.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Feeblemind.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Feign Death.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Find Familiar.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Find Greater Steed.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Find Steed.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Find the Path.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Find Traps.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Find Vehicle (UA).md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Finger of Death.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Fire Bolt.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Fire Shield.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Fire Storm.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Fireball.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Fizban's Platinum Shield.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Fizban's Platinum Shield (UA).md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Flame Arrows.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Flame Blade.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Flame Stride (UA).md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Flame Strike.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Flaming Sphere.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Flesh to Stone.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Flock of Familiars.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Fly.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Fog Cloud.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Forbiddance.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Forcecage.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Foresight.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Fount of Moonlight.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Freedom of Movement.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Freedom of The Waves.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Freedom of The Winds.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Friends.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Frost Fingers.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Frostbite.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Galder's Speedy Courier.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Galder's Tower.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Gaseous Form.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Gate.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Geas.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Gentle Repose.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Giant Insect.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Glibness.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Globe of Invulnerability.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Glyph of Warding.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Goodberry.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Grasping Vine.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Grease.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Greater Invisibility.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Greater Restoration.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Green-Flame Blade.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Guardian of Faith.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Guardian of Nature.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Guards and Wards.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Guidance.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Guiding Bolt.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Guiding Hand (UA).md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Gust.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Gust of Wind.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Hail of Thorns.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Hallow.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Hallucinatory Terrain.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Hand of Radiance (UA).md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Harm.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Haste.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Haywire (UA).md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Heal.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Healing Elixir (UA).md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Healing Spirit.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Healing Word.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Heat Metal.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Hellish Rebuke.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Heroes' Feast.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Heroism.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Hex.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Hold Monster.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Hold Person.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Holy Aura.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Holy Weapon.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/House of Cards (UA).md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Hunger of Hadar.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Hunter’s Mark.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Hypnotic Pattern.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Ice Knife.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Ice Storm.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Icingdeath's Frost (UA).md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Id Insinuation (UA).md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Identify.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Illusory Dragon.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Illusory Script.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Immolation.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Imprisonment.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Incendiary Cloud.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Infallible Relay (UA).md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Infernal Calling.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Infestation.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Inflict Wounds.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Insect Plague.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Intellect Fortress.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Invisibility.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Invisibility To Cameras (UA).md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Invulnerability.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Jallarzi's Storm of Radiance.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Jump.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Knock.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Legend Lore.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Leomund's Secret Chest.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Leomund’s Secret Chest.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Leomund's Tiny Hut.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Leomund’s Tiny Hut.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Lesser Restoration.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Levitate.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Life Transference.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Light.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Lightning Arrow.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Lightning Bolt.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Lightning Lure.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Locate Animals or Plants.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Locate Creature.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Locate Object.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Longstrider.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Maddening Darkness.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Maelstrom.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Mage Armor.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Mage Hand.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Magic Circle.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Magic Jar.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Magic Missile.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Magic Mouth.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Magic Stone.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Magic Weapon.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Major Image.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Mass Cure Wounds.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Mass Heal.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Mass Healing Word.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Mass Polymorph.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Mass Suggestion.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Maximillian's Earthen Grasp.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Maze.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Meld into Stone.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Melf's Acid Arrow.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Melf's Minute Meteors.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Mending.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Mental Barrier (UA).md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Mental Prison.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Message.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Meteor Swarm.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Mighty Fortress.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Mind Blank.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Mind Sliver.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Mind Spike.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Mind Thrust (UA).md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Minor Illusion.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Mirage Arcane.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Mirror Image.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Mislead.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Misty Step.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Modify Memory.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Mold Earth.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Moonbeam.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Mordenkainen's Faithful Hound.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Mordenkainen's Magnificent Mansion.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Mordenkainen's Private Sanctum.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Mordenkainen's Sword.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Move Earth.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Nathair's Mischief.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Nathair's Mischief (UA).md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Negative Energy Flood.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Nondetection.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Nystul's Magic Aura.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Nystul’s Magic Aura.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/On Off (UA).md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Otherworldly Form (UA).md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Otiluke's Freezing Sphere.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Otiluke’s Freezing Sphere.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Otiluke's Resilient Sphere.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Otiluke’s Resilient Sphere.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Otto's Irresistible Dance.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Otto’s Irresistible Dance.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Pass without Trace.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Passwall.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Phantasmal Force.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Phantasmal Killer.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Phantom Steed.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Planar Ally.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Planar Binding.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Plane Shift.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Plant Growth.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Poison Spray.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Polymorph.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Power Word Fortify.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Power Word Heal.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Power Word Kill.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Power Word Pain.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Power Word Stun.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Prayer of Healing.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Prestidigitation.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Primal Savagery.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Primordial Ward.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Prismatic Spray.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Prismatic Wall.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Produce Flame.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Programmed Illusion.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Project Image.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Protection From Ballistics (UA).md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Protection From Energy.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Protection from Evil and Good.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Protection From Poison.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Psionic Blast (UA).md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Psychic Crush (UA).md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Psychic Scream.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Puppet (UA).md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Purify Food and Drink.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Pyrotechnics.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Raise Dead.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Rary's Telepathic Bond.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Rary’s Telepathic Bond.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Raulothim's Psychic Lance.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Raulothim's Psychic Lance (UA).md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Ray of Enfeeblement.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Ray of Frost.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Ray of Sickness.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Regenerate.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Reincarnate.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Remote Access (UA).md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Remove Curse.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Resistance.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Resurrection.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Reverse Gravity.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Revivify.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Rime's Binding Ice.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Rope Trick.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Sacred Flame.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Sanctuary.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Scatter.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Scorching Ray.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Scrying.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Searing Smite.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/See Invisibility.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Seeming.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Sending.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Sense Emotion (UA).md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Sequester.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Shadow Blade.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Shadow of Moil.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Shapechange.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Shatter.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Shield.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Shield of Faith.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Shillelagh.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Shining Smite.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Shocking Grasp.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Shutdown (UA).md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Sickening Radiance.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Silence.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Silent Image.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Simulacrum.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Skill Empowerment.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Skywrite.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Sleep.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Sleet Storm.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Slow.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Snare.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Snilloc's Snowball Storm.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Sorcerous Burst.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Soul Cage.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Spare the Dying.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Speak with Animals.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Speak with Dead.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Speak with Plants.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Spider Climb.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Spike Growth.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Spirit Guardians.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Spirit of Death (UA).md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Spirit Shroud.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Spiritual Weapon.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Spray of Cards (UA).md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Staggering Smite.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Starry Wisp.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Steel Wind Strike.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Stinking Cloud.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Stone Shape.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Stoneskin.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Storm of Vengeance.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Storm Sphere.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Sudden Awakening (UA).md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Suggestion.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Summon Aberration.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Summon Beast.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Summon Celestial.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Summon Construct.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Summon Draconic Spirit.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Summon Draconic Spirit (UA).md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Summon Dragon.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Summon Elemental.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Summon Fey.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Summon Fiend.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Summon Greater Demon.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Summon Lesser Demons.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Summon Shadowspawn.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Summon Undead.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Summon Warrior Spirit (UA).md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Sunbeam.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Sunburst.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Swift Quiver.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Sword Burst.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Symbol.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Synaptic Static.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Synchronicity (UA).md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/System Backdoor (UA).md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Tasha's Bubbling Cauldron.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Tasha's Caustic Brew.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Tasha's Hideous Laughter.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Tasha's Mind Whip.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Tasha's Otherworldly Guise.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Telekinesis.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Telepathy.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Teleport.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Teleportation Circle.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Temple of The Gods.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Tenser's Floating Disk.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Tenser's Transformation.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Thaumaturgy.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Thorn Whip.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Thought Shield (UA).md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Thunder Step.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Thunderclap.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Thunderous Smite.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Thunderwave.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Tidal Wave.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Time Stop.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Tiny Servant.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Toll The Dead.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Tongues.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Transmute Rock.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Transport via Plants.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Tree Stride.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/True Polymorph.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/True Resurrection.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/True Seeing.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/True Strike.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Tsunami.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Unearthly Chorus (UA).md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Unseen Servant.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Vampiric Touch.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Vicious Mockery.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Virtue (UA).md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Vitriolic Sphere.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Wall of Fire.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Wall of Force.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Wall of Ice.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Wall of Light.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Wall of Sand.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Wall of Stone.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Wall of Thorns.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Wall of Water.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Warding Bond.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Warding Wind.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Water Breathing.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Water Walk.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Watery Sphere.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Web.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Weird.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Whirlwind.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Wild Cunning (UA).md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Wind Walk.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Wind Wall.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Wish.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Witch Bolt.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Word of Radiance.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Word of Recall.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Wrath of Nature.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Wrathful Smite.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Yolande's Regal Presence.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Yolande’s Regal Presence.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Zephyr Strike.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Oragami.md": {
+    "iconName": "LiWand2"
+  },
+  "Character Options/Subclasses/Barbarian/Path of the Berserker.md": {
+    "iconName": "RaBatteredAxe"
+  },
+  "Character Options/Subclasses/Barbarian/Path of the Wild Heart.md": {
+    "iconName": "RaLion"
+  },
+  "Character Options/Subclasses/Barbarian/Path of the World Tree.md": {
+    "iconName": "LiTreePine"
+  },
+  "Character Options/Subclasses/Barbarian/Path of the Depths.md": {
+    "iconName": "RaOceanEmblem"
+  },
+  "Character Options/Subclasses/Barbarian/Path of the Zealot.md": {
+    "iconName": "RiCrossLine"
+  },
+  "Character Options/Subclasses/Cleric/Life Domain.md": {
+    "iconName": "LiLeaf"
+  },
+  "Character Options/Subclasses/Cleric/Light Domain.md": {
+    "iconName": "LiSun"
+  },
+  "Character Options/Subclasses/Cleric/Tempest Domain.md": {
+    "iconName": "LiCloudRainWind"
+  },
+  "Character Options/Subclasses/Cleric/War Domain.md": {
+    "iconName": "RaLargeHammer"
+  },
+  "Character Options/Subclasses/Cleric/Trickery Domain.md": {
+    "iconName": "LiWand"
+  },
+  "Character Options/Subclasses/Bard/College of Glamour.md": {
+    "iconName": "LiSparkles"
+  },
+  "Character Options/Subclasses/Bard/College of Dance.md": {
+    "iconName": "LiMusic"
+  },
+  "Character Options/Subclasses/Bard/College of Lore.md": {
+    "iconName": "LiBookMarked"
+  },
+  "Character Options/Subclasses/Bard/College of Valor.md": {
+    "iconName": "LiSword"
+  },
+  "Character Options/Subclasses/Druid/Circle of the Land.md": {
+    "iconName": "RiLandscapeLine"
+  },
+  "Character Options/Subclasses/Druid/Circle of the Moon.md": {
+    "iconName": "LiMoon"
+  },
+  "Character Options/Subclasses/Druid/Circle of the Sea.md": {
+    "iconName": "RaOceanEmblem"
+  },
+  "Character Options/Subclasses/Druid/Circle of the Stars.md": {
+    "iconName": "LiStars"
+  },
+  "Character Options/Subclasses/Fighter/Battle Master.md": {
+    "iconName": "LiSwords"
+  },
+  "Character Options/Subclasses/Fighter/Champion.md": {
+    "iconName": "LiMedal"
+  },
+  "Character Options/Subclasses/Fighter/Psi Warrior.md": {
+    "iconName": "LiBrain"
+  },
+  "Character Options/Subclasses/Fighter/Eldritch Knight.md": {
+    "iconName": "LiWand"
+  },
+  "Character Options/Subclasses/Monk/Warrior of Mercy.md": {
+    "iconName": "LiHelpingHand"
+  },
+  "Character Options/Subclasses/Monk/Warrior of Shadow.md": {
+    "iconName": "LiEclipse"
+  },
+  "Character Options/Subclasses/Monk/Warrior of the Elements.md": {
+    "iconName": "RiFireLine"
+  },
+  "Character Options/Subclasses/Monk/Warrior of the Open Hand.md": {
+    "iconName": "LiHand"
+  },
+  "Character Options/Subclasses/Paladin/Oath of Devotion.md": {
+    "iconName": "LiScale"
+  },
+  "Character Options/Subclasses/Paladin/Oath of Glory.md": {
+    "iconName": "RaSunBeams"
+  },
+  "Character Options/Subclasses/Paladin/Oath of the Ancients.md": {
+    "iconName": "LiLeaf"
+  },
+  "Character Options/Subclasses/Paladin/Oath of Vengance.md": {
+    "iconName": "RiKnifeBloodLine"
+  },
+  "Character Options/Subclasses/Paladin/Oath of the Open Sea.md": {
+    "iconName": "LiSailboat"
+  },
+  "Character Options/Subclasses/Ranger/Beast Master.md": {
+    "iconName": "RaLion"
+  },
+  "Character Options/Subclasses/Ranger/Fey Wanderer.md": {
+    "iconName": "LiSparkles"
+  },
+  "Character Options/Subclasses/Ranger/Gloom Stalker.md": {
+    "iconName": "RaSuperMushroom"
+  },
+  "Character Options/Subclasses/Ranger/Hunter.md": {
+    "iconName": "LiFootprints"
+  },
+  "Character Options/Subclasses/Rogue/Arcane Trickster.md": {
+    "iconName": "LiWand"
+  },
+  "Character Options/Subclasses/Rogue/Assassin.md": {
+    "iconName": "RiKnifeBloodLine"
+  },
+  "Character Options/Subclasses/Rogue/Soulknife.md": {
+    "iconName": "LiGhost"
+  },
+  "Character Options/Subclasses/Rogue/Thief.md": {
+    "iconName": "RaHood"
+  },
+  "Character Options/Subclasses/Warlock/Archfey Patron.md": {
+    "iconName": "LiSparkles"
+  },
+  "Character Options/Subclasses/Warlock/Fiend Patron.md": {
+    "iconName": "RaHorns"
+  },
+  "Character Options/Subclasses/Warlock/Celestial Patron.md": {
+    "iconName": "RaAngelWings"
+  },
+  "Character Options/Subclasses/Warlock/Great Old One Patron.md": {
+    "iconName": "RaTentacle"
+  },
+  "Character Options/Subclasses/Warlock/The Kraken Patron.md": {
+    "iconName": "RaOctopus"
+  },
+  "Character Options/Subclasses/Sorcerer/Aberrant Sorcery.md": {
+    "iconName": "RiAliensLine"
+  },
+  "Character Options/Subclasses/Sorcerer/Clockwork Sorcery.md": {
+    "iconName": "LiClock"
+  },
+  "Character Options/Subclasses/Sorcerer/Draconic Sorcery.md": {
+    "iconName": "RaDragon"
+  },
+  "Character Options/Subclasses/Sorcerer/Wild Magic Sorcery.md": {
+    "iconName": "LiDices"
+  },
+  "Character Options/Subclasses/Wizard/Abjurer.md": {
+    "iconName": "LiShield"
+  },
+  "Character Options/Subclasses/Wizard/Diviner.md": {
+    "iconName": "RaHeartsCard"
+  },
+  "Character Options/Subclasses/Wizard/Evoker.md": {
+    "iconName": "RaSmallFire"
+  },
+  "Character Options/Subclasses/Wizard/Illusionist.md": {
+    "iconName": "RiMistLine"
+  },
+  "Character Options/Subclasses/Cleric/Suffering Domain.md": {
+    "iconName": "RaPlainDagger"
+  },
+  "Character Options/Subclasses/Wizard/Mathemagician.md": {
+    "iconName": "LiFormula"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Abracadabrus.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Absorbing Tattoo.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Adamantine Weapon.md": {
+    "iconName": "LiSwords"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Adamantine Armor.md": {
+    "iconName": "RaVest"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Adaptive Helm.md": {
+    "iconName": "RaHelmet"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Alchemical Compendium.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Alchemy Jug (Blue).md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Agony.md": {
+    "iconName": "LiSwords"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Alchemy Jug (Orange).md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Alchemy Jug.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/All-Purpose Tool.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Amethyst Lodestone.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Ammunition of Slaying.md": {
+    "iconName": "LiSwords"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Ammunition, +1, +2, or +3.md": {
+    "iconName": "LiSwords"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Amulet of Health.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Amulet of Protection From Turning.md": {
+    "iconName": "RaGemPendant"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Amulet of Proof against Detection and Location.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Amulet of The Shield.md": {
+    "iconName": "RaGemPendant"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Amulet of The Black Skull.md": {
+    "iconName": "RaGemPendant"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Animated Shield.md": {
+    "iconName": "LiShield"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Apparatus of Kwalish.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Arcane Grimoire.md": {
+    "iconName": "LiBookMarked"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Arcane Propulsion Arm.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Amulet of the Planes.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Armblade.md": {
+    "iconName": "LiSwords"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Armor of Gleaming.md": {
+    "iconName": "RaVest"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Armor of Invulnerability.md": {
+    "iconName": "RaVest"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Armor of Resistance.md": {
+    "iconName": "RaVest"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Armor of Vulnerability.md": {
+    "iconName": "RaVest"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Armor of The Valiant Soul.md": {
+    "iconName": "RaVest"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Armor, +1, +2, or +3.md": {
+    "iconName": "LiShield"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Arrow of Slaying.md": {
+    "iconName": "LiSwords"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Arrow-Catching Shield.md": {
+    "iconName": "LiShield"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Astral Shard.md": {
+    "iconName": "RaCrystals"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Astromancy Archive.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Atlas of Endless Horizons.md": {
+    "iconName": "LiBookMarked"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Axe of the Dwarvish Lords.md": {
+    "iconName": "LiSwords"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Azuredge.md": {
+    "iconName": "RaBatteredAxe"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Baba Yaga's Dancing Broom.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Baba Yaga's Mortar And Pestle.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Badge of The Watch.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Bag of Devouring.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Bag of Beans.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Bag of Tricks.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Balance of Harmony.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Bag of Holding.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Balloon Pack.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Band of Shrouds.md": {
+    "iconName": "LiTorus"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Banner of The Krig Rune.md": {
+    "iconName": "LiFlag"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Banshee's Veil.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Barrier Tattoo.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Bead of Force.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Bead of Nourishment.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Belabor.md": {
+    "iconName": "LiSwords"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Bead of Refreshment.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Belashyrra's Beholder Crown.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Bell Branch.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Belt of Cloud Giant Strength.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Belt of Dwarvenkind.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Belt of Giant Strength.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Belt of Fire Giant Strength.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Belt of Frost Giant Strength.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Belt of Stone Giant Strength.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Belt of Storm Giant Strength.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Belt of Hill Giant Strength.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Berserker Axe.md": {
+    "iconName": "LiSwords"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Bilgewater Cutlass.md": {
+    "iconName": "LiSwords"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Blade of Ledros.md": {
+    "iconName": "LiSwords"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Blackstaff.md": {
+    "iconName": "RaCrystalWand"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Blackrazor.md": {
+    "iconName": "LiSwords"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Blazing Bowstring.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Blade of The Medusa.md": {
+    "iconName": "LiSwords"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Blightstaff.md": {
+    "iconName": "RaCrystalWand"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Blinkback Belt.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Blood Fury Tattoo.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Blood of The Lycanthrope Antidote.md": {
+    "iconName": "LiFlaskRound"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Blood Spear.md": {
+    "iconName": "RaSpearHead"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Blood Stone.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Bloodwell Vial.md": {
+    "iconName": "RaVial"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Bobbing Lily Pad.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Bloodrage Greataxe.md": {
+    "iconName": "LiSwords"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Book of Exalted Deeds.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Bonecounter.md": {
+    "iconName": "LiSwords"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Book of Vile Darkness (Variant).md": {
+    "iconName": "LiBookMarked"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Book of Vile Darkness.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Bookmark.md": {
+    "iconName": "LiBookMarked"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Boots of Elvenkind.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Boots of Levitation.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Boots of False Tracks.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Boots of Speed.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Boots of Haste.md": {
+    "iconName": "RaBootStomp"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Boots of Striding and Springing.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Boots of Swiftness.md": {
+    "iconName": "RaBootStomp"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Boots of the Vigilant.md": {
+    "iconName": "RaBootStomp"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Boots of the Winterlands.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Bottled Breath.md": {
+    "iconName": "LiFlaskRound"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Bowl of Commanding Water Elementals.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Bracelet of Rock Magic.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Bracer of Flying Daggers.md": "PaPlainDagger",
+  "Dungeon Master's Guide 2024/Wondrous Items/Bracers of Archery.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Bracers of Defense.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Brazier of Commanding Fire Elementals.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Bridle of Capturing.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Brooch of Shielding.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Broom of Flying.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Cabal's Ruin.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Candle of Invocation.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Candle of the Deep.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Cap of Water Breathing.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Cape of the Mountebank.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Carpet of Flying.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Cast-Off Armor.md": {
+    "iconName": "RaVest"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Cataclysm Bolts.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Cauldron of Plenty.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Cauldron of Rebirth.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Censer of Controlling Air Elementals.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Chain of Returning.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Chime of Opening.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Charlatan's Die.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Chromatic Rose.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Cincture of The Stone King.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Circlet of Blasting.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Circlet of Barbed Vision.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Circlet of Wisdom.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Clarota's Helmet.md": {
+    "iconName": "RaHelmet"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Claw of The Wyrm Rune.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Cleansing Stone.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Claws of The Umber Hulk.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Cloak of Billowing.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Cloak of Arachnida.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Cloak of Displacement.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Cloak of Invisibility.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Cloak of Elvenkind.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Cloak of Many Fashions.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Cloak of Protection.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Cloak of the Bat.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Cloak of the Manta Ray.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Clockwork Amulet.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Clothes of Mending.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Coat of The Crest.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Coiling Grasp Tattoo.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Conch of Teleportation.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Condemner.md": {
+    "iconName": "LiSwords"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Constantori's Portrait.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Corecut Dagger.md": "PaPlainDagger",
+  "Dungeon Master's Guide 2024/Wondrous Items/Cracked Driftglobe.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Craven Edge.md": {
+    "iconName": "LiSwords"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Crook of Rao.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Crystal Blade.md": {
+    "iconName": "LiSwords"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Crystal Ball.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Crystalline Chronicle.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Cube of Force.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Cube of Summoning.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Cubic Gate.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Daern's Instant Fortress.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Dagger of Denial.md": "PaPlainDagger",
+  "Dungeon Master's Guide 2024/Wondrous Items/Dagger of Blindsight.md": "PaPlainDagger",
+  "Dungeon Master's Guide 2024/Wondrous Items/Dagger of Venom.md": {
+    "iconName": "LiSwords"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Dancing Sword.md": {
+    "iconName": "LiSwords"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Dark Shard Amulet.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Dawnbringer.md": {
+    "iconName": "LiSwords"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Dead Man's Plate.md": {
+    "iconName": "RaVest"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Deathwalker's Ward.md": {
+    "iconName": "RaVest"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Deck of Illusions.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Decanter of Endless Water.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Deck of Many Things.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Deck of Several Things.md": {
+    "iconName": "RaHeartsCard"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Defender.md": {
+    "iconName": "LiSwords"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Demon Armor.md": {
+    "iconName": "RaVest"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Demonomicon of Iggwilv.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Devastation Orb.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Devotee's Censer.md": {
+    "iconName": "LiSwords"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Docent.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Dimensional Shackles.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Doublet of Dramatic Demise.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Draakhorn.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Dragon Mask.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Dragon Scale Mail.md": {
+    "iconName": "RaVest"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Dragon Slayer.md": {
+    "iconName": "LiSwords"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Dragon Vessel.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Dragon Wing Bow.md": {
+    "iconName": "LiSwords"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Dragon's Wrath Weapon.md": {
+    "iconName": "LiSwords"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Dragon-Touched Focus.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Dragonhide Belt.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Dragonlance.md": {
+    "iconName": "LiSwords"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Dragonstaff of Ahghairon.md": {
+    "iconName": "RaCrystalWand"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Dragontooth Dagger.md": "PaPlainDagger",
+  "Dungeon Master's Guide 2024/Wondrous Items/Dread Helm.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Driftglobe.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Drown.md": {
+    "iconName": "RaTrident"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Duplicitous Manuscript.md": {
+    "iconName": "LiBookMarked"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Dust of Corrosion.md": "TiMoneybag",
+  "Dungeon Master's Guide 2024/Wondrous Items/Dust of Disappearance.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Dust of Sneezing and Choking.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Dust of Dryness.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Dwarven Plate.md": {
+    "iconName": "RaVest"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Dwarven Thrower.md": {
+    "iconName": "LiSwords"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Dyrrn's Tentacle Whip.md": {
+    "iconName": "LiSwords"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Ear Horn of Hearing.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Eagle Whistle.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Earring of Message.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Earthboard.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Earworm.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Echo Stone.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Efreeti Bottle.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Eldritch Claw Tattoo.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Efreeti Chain.md": {
+    "iconName": "RaVest"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Eldritch Staff.md": {
+    "iconName": "RaCrystalWand"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Elemental Essence Shard.md": {
+    "iconName": "RaCrystals"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Elemental Gem.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Elixir of Health.md": {
+    "iconName": "LiFlaskRound"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Emerald Pen.md": {
+    "iconName": "LiPenTool"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Elven Chain.md": {
+    "iconName": "RaVest"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Enduring Spellbook.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Energy Bow.md": {
+    "iconName": "LiSwords"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Enspelled Armor.md": {
+    "iconName": "RaVest"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Enspelled Staff.md": {
+    "iconName": "RaCrystalWand"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Enspelled Weapon.md": {
+    "iconName": "LiSwords"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Ersatz Eye.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Everbright Lantern.md": {
+    "iconName": "RaLanternFlame"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Eversmoking Bottle.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Executioner's Axe.md": {
+    "iconName": "LiSwords"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Eye and Hand of Vecna.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Eyes of Charming.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Eyes of Minute Seeing.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Far Realm Shard.md": {
+    "iconName": "RaCrystals"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Eyes of the Eagle.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Feather of Diatryma Summoning.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Feather Token.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Fenthras.md": "TiBow",
+  "Dungeon Master's Guide 2024/Wondrous Items/Feywild Shard.md": {
+    "iconName": "RaCrystals"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Figurine of Wondrous Power (Bronze Griffon).md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Figurine of Wondrous Power (Ebony Fly).md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Figurine of Wondrous Power (Gold Canary).md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Figurine of Wondrous Power (Golden Lions).md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Figurine of Wondrous Power (Ivory Goats).md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Figurine of Wondrous Power (Marble Elephant).md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Figurine of Wondrous Power (Obsidian Steed).md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Figurine of Wondrous Power (Onyx Dog).md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Figurine of Wondrous Power (Serpentine Owl).md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Figurine of Wondrous Power (Silver Raven).md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Figurine of Wondrous Power.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Finder's Goggles.md": {
+    "iconName": "LiGlasses"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Firebrand Warhammer.md": {
+    "iconName": "RaLargeHammer"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Fish Suit.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Flail of Tiamat.md": {
+    "iconName": "LiSwords"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Flamefriend Lantern.md": {
+    "iconName": "RaLanternFlame"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Flame Tongue.md": {
+    "iconName": "LiSwords"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Flying Citadel Helm.md": {
+    "iconName": "RaHelmet"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Flask of Perpetual Booze.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Frost Brand.md": {
+    "iconName": "LiSwords"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Folding Boat.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Fulminating Treatise.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Galder's Bubble Pipe.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Gambler's Blade.md": {
+    "iconName": "LiSwords"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Gate Stone.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Gauntlets of Ogre Power.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Gavel of The Venn Rune.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Gem of Brightness.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Ghost Lantern.md": {
+    "iconName": "RaLanternFlame"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Gem of Seeing.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Ghost Step Tattoo.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Giant Slayer.md": {
+    "iconName": "LiSwords"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Glamerweave.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Glamoured Studded Leather.md": {
+    "iconName": "LiShield"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Glove of Blasting.md": {
+    "iconName": "RaHand"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Gloves of Missile Snaring.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Gloves of Swimming and Climbing.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Gloves of Soul Catching.md": {
+    "iconName": "RaHand"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Gloves of Thievery.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Goggles of Night.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Graz'tchar, The Decadent End.md": {
+    "iconName": "LiSwords"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Guardian Emblem.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Gulthias Staff.md": {
+    "iconName": "RaCrystalWand"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Gurt's Greataxe.md": {
+    "iconName": "RaAxe"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Hag Eye.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Hammer of Thunderbolts.md": {
+    "iconName": "LiSwords"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Hammock of Worlds.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Hand Cone of Clarity.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Harkon's Bite.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Hat of Disguise.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Hat of Many Spells.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Hat of Vermin.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Hat of Wizardry.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Hazirawn.md": {
+    "iconName": "LiSwords"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Headband of Intellect.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Heart Weaver's Primer.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Helm of Brilliance.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Hell Hound Cloak.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Helm of Comprehending Languages.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Helm of Telepathy.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Helm of Teleportation.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Heward's Handy Haversack.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Heward's Handy Spice Pouch.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Heward's Hireling Armor.md": {
+    "iconName": "RaVest"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Holy Avenger.md": {
+    "iconName": "LiSwords"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Holy Symbol of Ravenkind.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Honor's Last Stand.md": {
+    "iconName": "LiShield"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Hook of Fisher's Delight.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Horn of Blasting.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Horn of Silent Alarm.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Horn of Valhalla.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Horseshoes of a Zephyr.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Horseshoes of Speed.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Icon of Ravenloft.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Illuminator's Tattoo.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Iggwilv's Cauldron.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Imbued Wood Focus.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Immovable Rod.md": {
+    "iconName": "LiWand2"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Inescapable Lash.md": {
+    "iconName": "LiSwords"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Infiltrator's Key.md": {
+    "iconName": "RaKey"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Ingot of The Skold Rune.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Insignia of Claws.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Instrument of Scribing.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Instrument of Illusions.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Instrument of the Bards.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Ioun Stone.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Iron Bands of Bilarro.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Iron Flask.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Ironfang.md": {
+    "iconName": "LiSwords"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Javelin of Lightning.md": {
+    "iconName": "LiSwords"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Jewel of Three Prayers.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Kagonesti Forest Shroud.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Keen Dagger.md": "PaPlainDagger",
+  "Dungeon Master's Guide 2024/Wondrous Items/Keoghtom's Ointment.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Keycharm.md": {
+    "iconName": "RaKey"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Kiss of The Changebringer.md": {
+    "iconName": "RaGemPendant"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Knave's Eye Patch.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Korolnor Scepter.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Kyrzin's Ooze.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Lantern of Revealing.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Lantern of Tracking.md": {
+    "iconName": "RaLanternFlame"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Leather Golem Armor.md": {
+    "iconName": "RaVest"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Libram of Souls And Flesh.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Lifewell Tattoo.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Living Armor.md": {
+    "iconName": "RaVest"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Living Gloves.md": {
+    "iconName": "RaHand"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Lock of Trickery.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Longbow of The Sky Sentinel.md": "TiBow",
+  "Dungeon Master's Guide 2024/Wondrous Items/Lord's Ensemble.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Lost Crown of Besilmer.md": {
+    "iconName": "RaHelmet"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Luba's Tarokka of Souls.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Luck Blade.md": {
+    "iconName": "LiSwords"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Lute of Thunderous Thumping.md": {
+    "iconName": "LiSwords"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Lyre of Building.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Mace of Disruption.md": {
+    "iconName": "LiSwords"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Mace of Smiting.md": {
+    "iconName": "LiSwords"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Mace of Terror.md": {
+    "iconName": "LiSwords"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Maelstrom Gloves.md": {
+    "iconName": "RaHand"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Magician's Judge.md": {
+    "iconName": "LiSwords"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Mantle of Spell Resistance.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Mantle of The Tempest.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Manual of Bodily Health.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Manual of Gainful Exercise.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Manual of Golems.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Manual of Quickness of Action.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Mariner's Armor.md": {
+    "iconName": "RaVest"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Mariner's Scale Mail.md": {
+    "iconName": "RaVest"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Mask of The Beast.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Mask of The Dragon Queen.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Masquerade Tattoo.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Medal of Muscle.md": {
+    "iconName": "LiMedal"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Medal of The Conch.md": {
+    "iconName": "LiMedal"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Medal of The Horizonback.md": {
+    "iconName": "LiMedal"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Medal of The Maze.md": {
+    "iconName": "LiMedal"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Medal of The Meat Pie.md": {
+    "iconName": "LiMedal"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Medal of Wit.md": {
+    "iconName": "LiMedal"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Medal of The Wetlands.md": {
+    "iconName": "LiMedal"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Medallion of Thoughts.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Mighty Servant of Leuk-O.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Mind Blade.md": {
+    "iconName": "LiSwords"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Mind Carapace Armor.md": {
+    "iconName": "RaVest"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Mind Lash.md": {
+    "iconName": "LiSwords"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Mirror of Infinite Transpondence.md": {
+    "iconName": "RaMirror"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Mirror of Life Trapping.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Mirror of Reflected Pasts.md": {
+    "iconName": "RaMirror"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Mirror of The Past.md": {
+    "iconName": "RaMirror"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Mithral Armor.md": {
+    "iconName": "RaVest"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Moon Sickle.md": {
+    "iconName": "LiSwords"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Moon-Touched Sword.md": {
+    "iconName": "LiSwords"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Moonhammer.md": {
+    "iconName": "RaLargeHammer"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Moonblade.md": {
+    "iconName": "LiSwords"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Mummy Rot Antidote.md": {
+    "iconName": "LiFlaskRound"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Mystery Key.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Mythcarver.md": {
+    "iconName": "LiSwords"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Nature's Mantle.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Navigation Orb.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Necklace of Adaptation.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Necklace of Fireballs.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Necklace of Prayer Beads.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Nepenthe.md": {
+    "iconName": "LiSwords"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Nether Scroll of Azumar.md": {
+    "iconName": "LiScrollText"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Night Caller.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Nine Lives Stealer.md": {
+    "iconName": "LiSwords"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Nolzur's Marvelous Pigments.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Oathbow.md": {
+    "iconName": "LiSwords"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Oceanic Weapon.md": {
+    "iconName": "LiSwords"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Oil of Etherealness.md": {
+    "iconName": "LiFlaskRound"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Oil of Sharpness.md": {
+    "iconName": "LiFlaskRound"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Oil of Slipperiness.md": {
+    "iconName": "LiFlaskRound"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Opal of The Ild Rune.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Orb of Direction.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Orb of Dragonkind.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Orb of Shielding.md": {
+    "iconName": "LiShield"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Orb of The Stein Rune.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Orb of Time.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Orcsplitter.md": {
+    "iconName": "RaAxe"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Orcus Figurine.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Ornithopter of Flying.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Outer Essence Shard.md": {
+    "iconName": "RaCrystals"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Paper Bird.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Pearl of Power.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Pennant of The Vind Rune.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Perfume of Bewitching.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Periapt of Health.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Periapt of Proof against Poison.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Periapt of Wound Closure.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Philter of Love.md": {
+    "iconName": "LiFlaskRound"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Pipe of Smoke Monsters.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Pipes of Haunting.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Pipes of the Sewers.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Piwafwi of Fire Resistance.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Piwafwi.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Pixie Dust.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Planecaller's Codex.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Plate Armor of Etherealness.md": {
+    "iconName": "RaVest"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Plate of The Dawnmartyr.md": {
+    "iconName": "RaVest"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Platinum Scarf.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Pole of Angling.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Pole of Collapsing.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Polymorph Blade.md": {
+    "iconName": "LiSwords"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Portable Hole.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Pot of Awakening.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Potion of Advantage.md": {
+    "iconName": "LiFlaskRound"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Potion of Animal Friendship.md": {
+    "iconName": "LiFlaskRound"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Potion of Clairvoyance.md": {
+    "iconName": "LiFlaskRound"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Potion of Climbing.md": {
+    "iconName": "LiFlaskRound"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Potion of Comprehension.md": {
+    "iconName": "LiFlaskRound"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Potion of Diminution.md": {
+    "iconName": "LiFlaskRound"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Potion of Dragon's Majesty.md": {
+    "iconName": "LiFlaskRound"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Potion of Fire Breath.md": {
+    "iconName": "LiFlaskRound"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Potion of Gaseous Form.md": {
+    "iconName": "LiFlaskRound"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Potion of Flying.md": {
+    "iconName": "LiFlaskRound"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Potion of Giant Size.md": {
+    "iconName": "LiFlaskRound"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Potion of Greater Healing.md": {
+    "iconName": "LiFlaskRound"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Potion of Greater Invisibility.md": {
+    "iconName": "LiFlaskRound"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Potion of Giant Strength.md": {
+    "iconName": "LiFlaskRound"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Potion of Growth.md": {
+    "iconName": "LiFlaskRound"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Potion of Healing.md": {
+    "iconName": "LiFlaskRound"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Potion of Heroism.md": {
+    "iconName": "LiFlaskRound"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Potion of Invisibility.md": {
+    "iconName": "LiFlaskRound"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Potion of Invulnerability.md": {
+    "iconName": "LiFlaskRound"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Potion of Longevity.md": {
+    "iconName": "LiFlaskRound"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Potion of Mind Control.md": {
+    "iconName": "LiFlaskRound"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Potion of Mind Reading.md": {
+    "iconName": "LiFlaskRound"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Potion of Poison.md": {
+    "iconName": "LiFlaskRound"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Potion of Pugilism.md": {
+    "iconName": "LiFlaskRound"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Potion of Resistance.md": {
+    "iconName": "LiFlaskRound"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Potion of Speed.md": {
+    "iconName": "LiFlaskRound"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Potion of Superior Healing.md": {
+    "iconName": "LiFlaskRound"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Potion of Vitality.md": {
+    "iconName": "LiFlaskRound"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Potion of Supreme Healing.md": {
+    "iconName": "LiFlaskRound"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Potions of Healing.md": {
+    "iconName": "LiFlaskRound"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Potion of Water Breathing.md": {
+    "iconName": "LiFlaskRound"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Powder Keg.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Powered Armor.md": {
+    "iconName": "RaVest"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Professor Orb.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Prosthetic Limb.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Protective Verses.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Psi Crystal.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Pyremaul.md": {
+    "iconName": "LiSwords"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Quaal's Feather Token.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Quarterstaff of the Acrobat.md": {
+    "iconName": "LiSwords"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Quiver of Ehlonna.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Radiance.md": {
+    "iconName": "LiWand"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Raven's Slumber.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Reveler's Concertina.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Rhythm Maker's Drum.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Ring of Animal Influence.md": {
+    "iconName": "LiTorus"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Ring of Djinni Summoning.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Ring of Elemental Command.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Ring of Evasion.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Ring of Free Action.md": {
+    "iconName": "LiTorus"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Ring of Feather Falling.md": {
+    "iconName": "LiTorus"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Ring of Invisibility.md": {
+    "iconName": "LiTorus"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Ring of Jumping.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Ring of Mind Shielding.md": {
+    "iconName": "LiTorus"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Ring of Protection.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Ring of Red Fury.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Ring of Resistance.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Ring of Regeneration.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Ring of Spell Splitting.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Ring of Shooting Stars.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Ring of Spell Turning.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Ring of Spell Storing.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Ring of Swimming.md": {
+    "iconName": "LiTorus"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Ring of Telekinesis.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Ring of the Ram.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Ring of Three Wishes.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Ring of Warmth.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Ring of Truth Telling.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Ring of Water Walking.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Ring of Winter.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Ring of X-ray Vision.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Rings of Shared Suffering.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Rival Coin.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Robe of Eyes.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Robe of Flaying.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Robe of Scintillating Colors.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Robe of Serpents.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Robe of Stars.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Robe of Summer.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Robe of the Archmagi.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Robe of Useful Items.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Rod of Absorption.md": {
+    "iconName": "LiWand2"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Rod of Alertness.md": {
+    "iconName": "LiWand2"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Rod of Hand Warming.md": {
+    "iconName": "LiWand2"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Rod of Lordly Might.md": {
+    "iconName": "LiWand2"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Rod of Mercurial Form.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Rod of Resurrection.md": {
+    "iconName": "LiWand2"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Rod of Rulership.md": {
+    "iconName": "LiWand2"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Rod of Security.md": {
+    "iconName": "LiWand2"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Rod of The Pact Keeper, +1, +2, +3.md": {
+    "iconName": "LiWand2"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Rod of the Pact Keeper.md": {
+    "iconName": "LiWand2"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Rod of The Solitary Scout.md": {
+    "iconName": "LiWand2"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Rod of The Vonindod.md": {
+    "iconName": "LiWand2"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Rope of Climbing.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Rope of Entanglement.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Rope of Mending.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Ruby of the War Mage.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Ruidium Armor.md": {
+    "iconName": "RaVest"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Ruby Weave Gem.md": {
+    "iconName": "RaGem"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Ruidium Weapon.md": {
+    "iconName": "LiSwords"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Ruidium Shield.md": {
+    "iconName": "LiShield"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Ruinblade.md": {
+    "iconName": "LiSwords"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Ruinstone.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Saddle of the Cavalier.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Saint Markovia's Thighbone.md": {
+    "iconName": "LiSwords"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Sapphire Buckler.md": {
+    "iconName": "LiShield"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Scarab of Protection.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Scaled Ornament.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Scimitar of Speed.md": {
+    "iconName": "LiSwords"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Scissors of Shadow Snipping.md": {
+    "iconName": "LiScissors"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Scorpion Armor.md": {
+    "iconName": "RaVest"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Scribe's Pen.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Scroll of Protection.md": {
+    "iconName": "LiScrollText"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Scroll of Tarrasque Summoning.md": {
+    "iconName": "LiScrollText"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Scroll of The Comet.md": {
+    "iconName": "LiScrollText"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Scroll of Titan Summoning.md": {
+    "iconName": "LiScrollText"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Seeker Dart.md": {
+    "iconName": "LiSwords"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Sending Stones.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Sentinel Shield.md": {
+    "iconName": "LiShield"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Serpent Belt.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Serpent's Fang.md": {
+    "iconName": "LiSwords"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Shadowfell Brand Tattoo.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Shadowfell Shard.md": {
+    "iconName": "RaCrystals"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Shard of The Ise Rune.md": {
+    "iconName": "RaCrystals"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Shard of Xeluan.md": {
+    "iconName": "RaCrystals"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Shatterspike.md": {
+    "iconName": "LiSwords"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Shard Solitaire.md": {
+    "iconName": "RaCrystals"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Shield of Expression.md": {
+    "iconName": "LiShield"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Shield of Far Sight.md": {
+    "iconName": "LiShield"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Shield of Missile Attraction.md": {
+    "iconName": "LiShield"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Shield of Retribution.md": {
+    "iconName": "LiShield"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Shield of the Cavalier.md": {
+    "iconName": "LiShield"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Shield, +1, +2, +3.md": {
+    "iconName": "LiShield"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Shield, +1, +2, or +3.md": {
+    "iconName": "LiShield"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Shiftweave.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Silvered Weapon.md": {
+    "iconName": "LiSwords"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Skingorger.md": {
+    "iconName": "LiSwords"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Skysail.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Slippers of Spider Climbing.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Smokepowder.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Smoldering Armor.md": {
+    "iconName": "RaVest"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Snicker-Snack.md": {
+    "iconName": "LiSwords"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Sovereign Glue.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Speaking Stone.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Spear of Backbiting.md": {
+    "iconName": "RaSpearHead"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Spell Gem.md": {
+    "iconName": "RaGem"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Spell Scroll.md": {
+    "iconName": "LiScrollText"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Spellguard Shield.md": {
+    "iconName": "LiShield"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Spelljamming Helm.md": {
+    "iconName": "RaHelmet"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Spellshard.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Spellwrought Tattoo.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Sphere of Annihilation.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Spider Staff.md": {
+    "iconName": "RaCrystalWand"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Spire of Conflux.md": {
+    "iconName": "RaCrystalWand"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Spirit Board.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Staff of Adornment.md": {
+    "iconName": "RaCrystalWand"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Staff of Birdcalls.md": {
+    "iconName": "RaCrystalWand"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Staff of Charming.md": {
+    "iconName": "RaCrystalWand"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Staff of Defense.md": {
+    "iconName": "RaCrystalWand"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Staff of Fate.md": {
+    "iconName": "RaCrystalWand"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Staff of Fire.md": {
+    "iconName": "RaCrystalWand"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Staff of Flowers.md": {
+    "iconName": "RaCrystalWand"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Staff of Frost.md": {
+    "iconName": "RaCrystalWand"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Staff of Power.md": {
+    "iconName": "RaCrystalWand"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Staff of Healing.md": {
+    "iconName": "RaCrystalWand"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Staff of Swarming Insects.md": {
+    "iconName": "RaCrystalWand"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Staff of Striking.md": {
+    "iconName": "RaCrystalWand"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Staff of the Adder.md": {
+    "iconName": "RaCrystalWand"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Staff of The Forgotten One.md": {
+    "iconName": "RaCrystalWand"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Staff of the Magi.md": {
+    "iconName": "RaCrystalWand"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Staff of the Python.md": {
+    "iconName": "RaCrystalWand"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Staff of the Woodlands.md": {
+    "iconName": "RaCrystalWand"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Staff of Withering.md": {
+    "iconName": "RaCrystalWand"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Staff of Thunder and Lightning.md": {
+    "iconName": "RaCrystalWand"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Star Razor.md": {
+    "iconName": "LiSwords"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Steel.md": {
+    "iconName": "LiSwords"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Stone of Golorr.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Stone of Good Luck (Luckstone).md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Stone of Controlling Earth Elementals.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Stone of Ill Luck.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Stone of Good Luck.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Stonespeaker Crystal.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Stonky's Ring.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Storm Boomerang.md": {
+    "iconName": "LiSwords"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Summer's Dance.md": {
+    "iconName": "LiSwords"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Stormrider Boots.md": {
+    "iconName": "RaBootStomp"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Sunsword.md": {
+    "iconName": "LiSwords"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Sun Blade.md": {
+    "iconName": "LiSwords"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Sword of Answering.md": {
+    "iconName": "LiSwords"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Sword of Kas.md": {
+    "iconName": "LiSwords"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Sword of Life Stealing.md": {
+    "iconName": "LiSwords"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Sword of Sharpness.md": {
+    "iconName": "LiSwords"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Sword of Vengeance.md": {
+    "iconName": "LiSwords"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Sword of Wounding.md": {
+    "iconName": "LiSwords"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Talarith.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Sylvan Talon.md": {
+    "iconName": "LiSwords"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Talisman of the Sphere.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Talisman of Pure Good.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Talisman of Ultimate Evil.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Talking Doll.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Tankard of Sobriety.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Teeth of Dahlver-Nar.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Teleportation Tablet.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Tentacle Rod.md": {
+    "iconName": "LiWand2"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/The Infernal Machine of Lum The Mad.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Thermal Cube.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Thessaltoxin Antidote.md": {
+    "iconName": "LiFlaskRound"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Thunderous Greatclub.md": {
+    "iconName": "LiSwords"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Tinderstrike.md": "PaPlainDagger",
+  "Dungeon Master's Guide 2024/Wondrous Items/Tinkertop Bolt Blaster 1000.md": {
+    "iconName": "LiSwords"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Titanstone Knuckles.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Tome of Clear Thought.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Tome of Leadership and Influence.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Tome of the Stilled Tongue.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Tome of Understanding.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Topaz Annihilator.md": {
+    "iconName": "LiSwords"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Trident of Fish Command.md": {
+    "iconName": "LiSwords"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Universal Solvent.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Ventilating Lungs.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Veteran's Cane.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Vicious Weapon.md": {
+    "iconName": "LiSwords"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Vorpal Sword.md": {
+    "iconName": "LiSwords"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Walloping Ammunition.md": {
+    "iconName": "LiSwords"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Wand of Binding.md": {
+    "iconName": "LiWand"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Wand of Conducting.md": {
+    "iconName": "LiWand"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Wand of Enemy Detection.md": {
+    "iconName": "LiWand"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Wand of Entangle.md": {
+    "iconName": "LiWand"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Wand of Fear.md": {
+    "iconName": "LiWand"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Wand of Fireballs.md": {
+    "iconName": "LiWand"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Wand of Lightning Bolts.md": {
+    "iconName": "LiWand"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Wand of Magic Detection.md": {
+    "iconName": "LiWand"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Wand of Magic Missiles.md": {
+    "iconName": "LiWand"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Wand of Orcus.md": {
+    "iconName": "LiWand"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Wand of Paralysis.md": {
+    "iconName": "LiWand"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Wand of Polymorph.md": {
+    "iconName": "LiWand"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Wand of Pyrotechnics.md": {
+    "iconName": "LiWand"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Wand of Secrets.md": {
+    "iconName": "LiWand"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Wand of the War Mage, +1, +2, or +3.md": {
+    "iconName": "LiWand"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Wand of The War Mage.md": {
+    "iconName": "LiWand"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Wand of Viscid Globs.md": {
+    "iconName": "LiWand"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Wand of Web.md": {
+    "iconName": "LiWand"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Wand of Winter.md": {
+    "iconName": "LiWand"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Wand of Wonder.md": {
+    "iconName": "LiWand"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Wand Sheath.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Waste Hunter Blade.md": {
+    "iconName": "LiSwords"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Watchful Helm.md": {
+    "iconName": "RaHelmet"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Wave.md": {
+    "iconName": "LiSwords"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Waythe.md": {
+    "iconName": "LiSwords"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Weapon, +1, +2, or +3.md": {
+    "iconName": "LiSwords"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Weapon of Warning.md": {
+    "iconName": "LiSwords"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Weird Tank.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Well of Many Worlds.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Wheel of Wind And Water.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Whisper.md": "PaPlainDagger",
+  "Dungeon Master's Guide 2024/Wondrous Items/Whelm.md": {
+    "iconName": "LiSwords"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Wildspace Orrery.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Wind Fan.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Windvane.md": {
+    "iconName": "RaSpearHead"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Winged Boots.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Wingwear.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Wings of Flying.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Witchlight Vane.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Woodcutter's Axe.md": {
+    "iconName": "RaAxe"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Witchlight Watch.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Wraps of Dyamak.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Wraps of Unarmed Power.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Wyrmskull Throne.md": {
+    "iconName": "LiComponent"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Ythryn Mythallar.md": {
+    "iconName": "LiComponent"
+  },
+  "Character Options/Subclasses/Fighter/Gunslinger.md": {
+    "iconName": "RaCrossedPistols"
+  },
+  "Spells/Wither And Bloom.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Borrowed Knowledge.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Kinetic Jaunt.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Silvery Barbs.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Vortex Warp.md": {
+    "iconName": "LiWand2"
+  },
+  "Character Options/Subclasses/Barbarian/Path of the Infernal.md": {
+    "iconName": "RaHorns"
+  },
+  "Spells/Shape Water.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Earth Tremor.md": {
+    "iconName": "LiWand2"
+  },
+  "Character Options/Subclasses/Barbarian/Path of the Storm Herald.md": {
+    "iconName": "RaLightningStorm"
+  },
+  "Character Options/Subclasses/Sorcerer/Storm Sorcery.md": {
+    "iconName": "RaLightningStorm"
+  },
+  "Wondrous Items": "LiEdit",
+  "Wondrous Items/Ylar Family Crest Medallion.md": {
+    "iconName": "LiMedal"
+  },
+  "Wondrous Items/Captain's Cutlass.md": {
+    "iconName": "LiSword"
+  },
+  "Wondrous Items/Chain Sword.md": {
+    "iconName": "LiSwords"
+  },
+  "Wondrous Items/Dagger of Poison.md": {
+    "iconName": "RaPlainDagger"
+  },
+  "Wondrous Items/Darksight Tattoo.md": {
+    "iconName": "RiSyringeLine"
+  },
+  "Wondrous Items/Flask of Perpetual Rum.md": {
+    "iconName": "LiComponent"
+  },
+  "Wondrous Items/Guardian Token.md": {
+    "iconName": "LiComponent"
+  },
+  "Wondrous Items/Keiran's Enspelled Flintlock.md": {
+    "iconName": "LiSwords"
+  },
+  "Wondrous Items/Kraken's Maw Tattoo.md": {
+    "iconName": "RiSyringeLine"
+  },
+  "Wondrous Items/Lock's Robe of Useful Items.md": {
+    "iconName": "LiComponent"
+  },
+  "Wondrous Items/Lucky Sparrow Tattoo.md": {
+    "iconName": "RiSyringeLine"
+  },
+  "Wondrous Items/Meteoric Amulet.md": {
+    "iconName": "LiMedal"
+  },
+  "Wondrous Items/Node Compass.md": {
+    "iconName": "LiCompass"
+  },
+  "Wondrous Items/Potion of Darkvision.md": {
+    "iconName": "LiFlaskRound"
+  },
+  "Wondrous Items/Potion of Sleep.md": {
+    "iconName": "LiFlaskRound"
+  },
+  "Wondrous Items/Red Draconic Whiskey.md": {
+    "iconName": "LiBeer"
+  },
+  "Wondrous Items/Ring of Prestidigitation.md": {
+    "iconName": "RaDiamondRingLine"
+  },
+  "Wondrous Items/Ring of Reverse Polymorph.md": {
+    "iconName": "RaDiamondRingLine"
+  },
+  "Wondrous Items/Ring of Shifting Fates.md": {
+    "iconName": "RaDiamondRingLine"
+  },
+  "Wondrous Items/Rod of Reincarnation.md": {
+    "iconName": "LiWand2"
+  },
+  "Wondrous Items/Softstep Potion.md": {
+    "iconName": "LiFlaskRound"
+  },
+  "Wondrous Items/Soulreaver’s Lash.md": {
+    "iconName": "LiSwords"
+  },
+  "Wondrous Items/Spectacles of Night.md": {
+    "iconName": "LiGlasses"
+  },
+  "Wondrous Items/Timestopper.md": {
+    "iconName": "RaCrossedPistols"
+  },
+  "Wondrous Items/Toothy - The Trusty Mimic.md": {
+    "iconName": "LiComponent"
+  },
+  "Wondrous Items/Vargen’s Greataxe.md": {
+    "iconName": "RaAxe"
+  },
+  "Wondrous Items/Vargen’s Spiked Armor.md": {
+    "iconName": "RaVest"
+  },
+  "Wondrous Items/Wayfinding Oracle Relics.md": {
+    "iconName": "LiCompass"
+  },
+  "_Sources": "LiList",
+  "_Sources/Acquisitions Incorporated.md": {
+    "iconName": "LiBookMarked"
+  },
+  "_Sources/Baldur's Gate - Descent into Avernus.md": {
+    "iconName": "LiBookMarked"
+  },
+  "_Sources/Bigby Presents - Glory of the Giants.md": {
+    "iconName": "LiBookMarked"
+  },
+  "_Sources/Candlekeep Mysteries.md": {
+    "iconName": "LiBookMarked"
+  },
+  "_Sources/Critical Role - Call of the Netherdeep.md": {
+    "iconName": "LiBookMarked"
+  },
+  "_Sources/Critical Role.md": {
+    "iconName": "LiBookMarked"
+  },
+  "_Sources/Curse of Strahd.md": {
+    "iconName": "LiBookMarked"
+  },
+  "_Sources/Divine Contention.md": {
+    "iconName": "LiBookMarked"
+  },
+  "_Sources/Dragonlance - Shadow of the Dragon Queen.md": {
+    "iconName": "LiBookMarked"
+  },
+  "_Sources/Dungeon Master's Guide 2024.md": {
+    "iconName": "LiBookMarked"
+  },
+  "_Sources/Eberron - Rising from the Last War.md": {
+    "iconName": "LiBookMarked"
+  },
+  "_Sources/Dungeon Master's Guide.md": {
+    "iconName": "LiBookMarked"
+  },
+  "_Sources/Explorer's Guide to Wildemount.md": {
+    "iconName": "LiBookMarked"
+  },
+  "_Sources/Elemental Evil Player's Companion.md": {
+    "iconName": "LiBookMarked"
+  },
+  "_Sources/Fizban's Treasury of Dragons.md": {
+    "iconName": "LiBookMarked"
+  },
+  "_Sources/Ghosts of Saltmarsh.md": {
+    "iconName": "LiBookMarked"
+  },
+  "_Sources/Homebrew.md": {
+    "iconName": "LiBookMarked"
+  },
+  "_Sources/Guildmaster's Guide to Ravnica.md": {
+    "iconName": "LiBookMarked"
+  },
+  "_Sources/Icewind Dale - Rime of the Frostmaiden.md": {
+    "iconName": "LiBookMarked"
+  },
+  "_Sources/Infernal Machine Rebuild.md": {
+    "iconName": "LiBookMarked"
+  },
+  "_Sources/Journeys through the Radiant Citadel.md": {
+    "iconName": "LiBookMarked"
+  },
+  "_Sources/Keys from the Golden Vault.md": {
+    "iconName": "LiBookMarked"
+  },
+  "_Sources/Legends of Runeterra - Dark Tides of Bilgewater.md": {
+    "iconName": "LiBookMarked"
+  },
+  "_Sources/Lost Mine of Phandelver.md": {
+    "iconName": "LiBookMarked"
+  },
+  "_Sources/Lost Laboratory of Kwalish.md": {
+    "iconName": "LiBookMarked"
+  },
+  "_Sources/Mordenkainen Presents - Monsters of the Multiverse.md": {
+    "iconName": "LiBookMarked"
+  },
+  "_Sources/Mythic Odysseys of Theros.md": {
+    "iconName": "LiBookMarked"
+  },
+  "_Sources/Out of the Abyss.md": {
+    "iconName": "LiBookMarked"
+  },
+  "_Sources/Princes of the Apocalypse.md": {
+    "iconName": "LiBookMarked"
+  },
+  "_Sources/Sleeping Dragon's Wake.md": {
+    "iconName": "LiBookMarked"
+  },
+  "_Sources/Strixhaven - A Curriculum of Chaos.md": {
+    "iconName": "LiBookMarked"
+  },
+  "_Sources/Storm King's Thunder.md": {
+    "iconName": "LiBookMarked"
+  },
+  "_Sources/Tal'Dorei Campaign Setting Reborn.md": {
+    "iconName": "LiBookMarked"
+  },
+  "_Sources/Sword Coast Adventurer's Guide.md": {
+    "iconName": "LiBookMarked"
+  },
+  "_Sources/Tales from the Yawning Portal.md": {
+    "iconName": "LiBookMarked"
+  },
+  "_Sources/Tasha's Cauldron of Everything.md": {
+    "iconName": "LiBookMarked"
+  },
+  "_Sources/The Book of Many Things.md": {
+    "iconName": "LiBookMarked"
+  },
+  "_Sources/The Griffon's Saddlebag.md": {
+    "iconName": "LiBookMarked"
+  },
+  "_Sources/The Rise of Tiamat.md": {
+    "iconName": "LiBookMarked"
+  },
+  "_Sources/The Wild Beyond the Witchlight.md": {
+    "iconName": "LiBookMarked"
+  },
+  "_Sources/Think DM.md": {
+    "iconName": "LiBookMarked"
+  },
+  "_Sources/Tomb of Annihilation.md": {
+    "iconName": "LiBookMarked"
+  },
+  "_Sources/Unearthed Arcana 11 - That Old Black Magic.md": {
+    "iconName": "LiBookMarked"
+  },
+  "_Sources/Tyranny of Dragons.md": {
+    "iconName": "LiBookMarked"
+  },
+  "_Sources/Unearthed Arcana 60 - The Artificer Returns.md": {
+    "iconName": "LiBookMarked"
+  },
+  "_Sources/Unearthed Arcana 36 - Starter Spells.md": {
+    "iconName": "LiBookMarked"
+  },
+  "_Sources/Unearthed Arcana 66 - Fighter, Rogue, And Wizard.md": {
+    "iconName": "LiBookMarked"
+  },
+  "_Sources/Unearthed Arcana 7 - Modern Magic.md": {
+    "iconName": "LiBookMarked"
+  },
+  "_Sources/Unearthed Arcana 71 - Psionic Options Revisited.md": {
+    "iconName": "LiBookMarked"
+  },
+  "_Sources/Unearthed Arcana 70 - Spells And Magic Tattoos.md": {
+    "iconName": "LiBookMarked"
+  },
+  "_Sources/Unearthed Arcana 85 - Wonders of The Multiverse.md": {
+    "iconName": "LiBookMarked"
+  },
+  "_Sources/Unearthed Arcana 78 - Draconic Options.md": {
+    "iconName": "LiBookMarked"
+  },
+  "_Sources/Van Richten's Guide to Ravenloft.md": {
+    "iconName": "LiBookMarked"
+  },
+  "_Sources/Volo's Guide to Monsters.md": {
+    "iconName": "LiBookMarked"
+  },
+  "_Sources/Wayfinder's Guide To Eberron.md": {
+    "iconName": "LiBookMarked"
+  },
+  "_Sources/Xanathar's Guide to Everything.md": {
+    "iconName": "LiBookMarked"
+  },
+  "Character Options/Ancestries": "RiNodeTree",
+  "Character Options/Ancestries/Aarakocra.md": {
+    "iconName": "RaFeatherWing"
+  },
+  "Character Options/Ancestries/Air Genasi.md": {
+    "iconName": "LiWind"
+  },
+  "Character Options/Ancestries/Shadar-Kai.md": {
+    "iconName": "LiEclipse"
+  },
+  "Character Options/Ancestries/Changeling.md": {
+    "iconName": "LiVenetianMask"
+  },
+  "Character Options/Ancestries/Tiefling.md": {
+    "iconName": "RaHorns"
+  },
+  "Character Options/Ancestries/Aasimar.md": {
+    "iconName": "RaAngelWings"
+  },
+  "Character Options/Ancestries/Dragonborn.md": {
+    "iconName": "RaDragon"
+  },
+  "Character Options/Ancestries/Goliath.md": {
+    "iconName": "LiBicepsFlexed"
+  },
+  "Character Options/Ancestries/Human.md": {
+    "iconName": "LiPersonStanding"
+  },
+  "Character Options/Ancestries/Dragon Tortle.md": {
+    "iconName": "LiTurtle"
+  },
+  "Character Options/Ancestries/Water Genasi.md": {
+    "iconName": "LiDroplet"
+  },
+  "Character Options/Ancestries/Fire Genasi.md": {
+    "iconName": "RiFireLine"
+  },
+  "Character Options/Ancestries/Harengon.md": {
+    "iconName": "LiRabbit"
+  },
+  "Character Options/Ancestries/Minotaur.md": {
+    "iconName": "RaHorns"
+  },
+  "Character Options/Ancestries/Satyr.md": {
+    "iconName": "RaSheep"
+  },
+  "Character Options/Ancestries/Tabaxi.md": {
+    "iconName": "LiCat"
+  },
+  "Character Options/Ancestries/Tortle.md": {
+    "iconName": "LiTurtle"
+  },
+  "Character Options/Ancestries/Triton.md": {
+    "iconName": "RaTrident"
+  },
+  "Bases": "LiDatabase",
+  "Spells/Investiture of Flame.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Investiture of Ice.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Investiture of Stone.md": {
+    "iconName": "LiWand2"
+  },
+  "Spells/Investiture of Wind.md": {
+    "iconName": "LiWand2"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Investiture of Flame.md": {
+    "iconName": "LiWand2"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Investiture of Ice.md": {
+    "iconName": "LiWand2"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Investiture of Stone.md": {
+    "iconName": "LiWand2"
+  },
+  "Dungeon Master's Guide 2024/Wondrous Items/Investiture of Wind.md": {
+    "iconName": "LiWand2"
+  }
+}

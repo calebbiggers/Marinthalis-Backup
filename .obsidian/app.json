@@ -1,0 +1,43 @@
+{
+  "alwaysUpdateLinks": true,
+  "propertiesInDocument": "hidden",
+  "attachmentFolderPath": "z_Assets",
+  "livePreview": false,
+  "showInlineTitle": false,
+  "userIgnoreFilters": [
+    "z_Backups/",
+    "z_Templates/",
+    "z_Scripts/",
+    "z_Testing/",
+    "z_Logs/",
+    "x_Tools/",
+    "z_Chats/"
+  ],
+  "defaultViewMode": "preview",
+  "mobileToolbarCommands": [
+    "editor:insert-wikilink",
+    "editor:insert-embed",
+    "editor:insert-tag",
+    "editor:attach-file",
+    "editor:set-heading",
+    "editor:toggle-bold",
+    "editor:toggle-italics",
+    "editor:toggle-strikethrough",
+    "editor:toggle-highlight",
+    "editor:toggle-code",
+    "editor:toggle-blockquote",
+    "editor:insert-link",
+    "editor:toggle-bullet-list",
+    "editor:toggle-numbered-list",
+    "editor:toggle-checklist-status",
+    "editor:indent-list",
+    "editor:unindent-list",
+    "editor:undo",
+    "editor:redo",
+    "editor:configure-toolbar",
+    "command-palette:open"
+  ],
+  "showUnsupportedFiles": true,
+  "readableLineLength": true,
+  "promptDelete": false
+}

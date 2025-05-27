@@ -1,0 +1,47 @@
+.markdown-source-view:has(*[alt="banner"]),
+.markdown-preview-view:has(*[alt="banner"]) {
+    --banner-height: 200px;
+}
+
+/* Margin above inline title and frontmatter. */
+.markdown-source-view:has(*[alt="banner"]).is-live-preview .cm-sizer,
+.markdown-preview-view:has(*[alt="banner"]).markdown-preview-view .markdown-preview-pusher {
+    padding-top: calc(var(--banner-height) * .95);
+}
+
+
+.markdown-source-view:has(*[alt="banner"]).is-live-preview .image-embed:has(img[alt="banner"]:first-child),
+.markdown-preview-view:has(*[alt="banner"]).markdown-preview-view span[alt="banner"]:first-child {
+    display: contents;
+}
+
+/* Positions banner image fix to the top. */
+:not(.is-live-preview) .markdown-source-view:has(*[alt="banner"]).is-live-preview .image-embed img[alt="banner"]:first-child,
+:not(.is-live-preview) .markdown-preview-view:has(*[alt="banner"]).markdown-preview-view img[alt="banner"]:first-child {
+    overflow: visible !important;
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+    height: var(--banner-height);
+    margin: 0 auto;
+    width: 100%;
+    pointer-events: auto;
+    /* mask-image: linear-gradient(to bottom, black 50%, transparent); */
+    /* -webkit-mask-image: linear-gradient(to bottom, black 50%, transparent); */
+    -webkit-mask-mode: alpha !important;
+    mask-mode: alpha !important;
+    /* -webkit-mask-image: url(https://publish-01.obsidian.md/access/8d64b02a711ed0cbaf6c7af05ebc541f/z_Assets/Website/banner-mask.png); */
+    mask-image: url(https://publish-01.obsidian.md/access/8d64b02a711ed0cbaf6c7af05ebc541f/z_Assets/Website/banner-mask.png);
+    /* -webkit-mask-position: bottom !important; */
+    mask-position: 50% 99% !important;
+    /* -webkit-mask-size: cover !important; */
+    mask-size: cover !important;
+    /* -webkit-mask-repeat: repeat; */
+    opacity: 1;
+    background: none !important;
+    border: none !important;
+    border-radius: none !important;
+    box-shadow: none !important;
+}

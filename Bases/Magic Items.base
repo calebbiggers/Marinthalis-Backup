@@ -1,0 +1,19 @@
+views:
+  - type: table
+    name: Magic Items
+    filters:
+      and:
+        - contains(property.tags, "Item")
+    order:
+      - file.name
+      - rarity
+      - type_details
+      - price
+      - attunement
+      - attunement_details
+      - sources
+    sort:
+      - column: property.price
+        direction: ASC
+      - column: property.sources
+        direction: ASC

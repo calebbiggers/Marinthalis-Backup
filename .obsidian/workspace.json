@@ -1,0 +1,275 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home Page - Prepping.md",
+                "mode": "preview",
+                "source": true
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Home Page - Prepping"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e8a709abc8ce932e",
+    "type": "split",
+    "children": [
+      {
+        "id": "2d086e6095756160",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "02406f88524c597c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "af389085c4021ed8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "58e3f67bad174d97",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "01725dea7793b2c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "79e4ee01a13620ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "684b1074486292e1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "z_Assets/Maps/Siroccia.jpg",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Siroccia"
+            }
+          },
+          {
+            "id": "6d619cf9725fb68d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Ship's Log.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Ship's Log"
+            }
+          },
+          {
+            "id": "c32a42e4c7a04014",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8afd061b264f797a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Home Page - Prepping.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Home Page - Prepping"
+            }
+          },
+          {
+            "id": "c267b238c5d027b0",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "528a2e412c7ee812",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "eed3dc998454a4f9",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Home Page - Prepping.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for Home Page - Prepping"
+            }
+          },
+          {
+            "id": "9267de627eea1be7",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 414.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "markdown-importer:Open format converter": false,
+      "audio-recorder:Start/stop recording": false,
+      "workspaces:Manage workspace layouts": false,
+      "publish:Publish changes...": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "homepage:Open homepage": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-5e-statblocks:Open Creature pane": false
+    }
+  },
+  "active": "e7a7b303c61786dc",
+  "lastOpenFiles": [
+    "Home Page - Prepping.md",
+    "Dungeon Master's Guide 2024/Wondrous Items/Investiture of Ice.md",
+    "Dungeon Master's Guide 2024/Wondrous Items/Investiture of Stone.md",
+    "Dungeon Master's Guide 2024/Wondrous Items/Investiture of Wind.md",
+    "Dungeon Master's Guide 2024/Wondrous Items/Investiture of Flame.md",
+    "Bases/Spells.base",
+    "Spells/Word of Radiance.md",
+    "Spells/Abi-Dalzim's Horrid Wilting.md",
+    "Bases/Magic Items.base",
+    "Dungeon Master's Guide 2024/Wondrous Items/Dragonlance.md",
+    "Bases",
+    "Untitled.md",
+    "Character Options/Ancestries/Elf.md",
+    "z_Assets/Images/03-51-elf-center.webp",
+    "z_Assets/Images/03-50-elf-left.webp",
+    "_Sources/Xanathar's Guide to Everything.md",
+    "_Sources/Wayfinder's Guide To Eberron.md",
+    "_Sources/Waterdeep - Dungeon of the Mad Mage.md",
+    "_Sources/Waterdeep - Dragon Heist.md",
+    "_Sources/Volo's Guide to Monsters.md",
+    "_Sources/Van Richten's Guide to Ravenloft.md",
+    "_Sources/Tyranny of Dragons.md",
+    "_Sources/Unearthed Arcana 7 - Modern Magic.md",
+    "_Sources/Tomb of Annihilation.md",
+    "_Sources/Think DM.md",
+    "_Sources/The Wild Beyond the Witchlight.md",
+    "_Sources/The Rise of Tiamat.md",
+    "_Sources/The Griffon's Saddlebag.md",
+    "_Sources/The Book of Many Things.md",
+    "_Sources/Tasha's Cauldron of Everything.md",
+    "_Sources/Tales from the Yawning Portal.md",
+    "Character Options",
+    "Spells",
+    "Character Options/Ancestries",
+    "z_Assets/Characters/manza-ril.png",
+    "z_Assets/Schedules/July - Sept 2025.png",
+    "z_Assets/Documents/Seaglass-Prison-Blueprint-Document-Transparent.png",
+    "z_Assets/Documents/output-onlinepngtools(1).png",
+    "z_Assets/Documents/output-onlinepngtools.png",
+    "z_Scripts/python/__pycache__/dnd_content_loader.cpython-312.pyc",
+    "z_Scripts/__pycache__/dnd_content_loader.cpython-312.pyc",
+    "z_Scripts/__pycache__/dnd_content_loader.cpython-37.pyc",
+    "z_Assets/Statblocks/greater thunder elemental.monster",
+    "z_Assets/Images/Isleguard-Prison-Isometric-Sketch.png",
+    "z_Assets/Documents/Seaglass-Prison-Blueprint-Document.jpg",
+    "z_Assets/Documents/Seaglass Prison Blueprint Document Printable.jpg"
+  ]
+}

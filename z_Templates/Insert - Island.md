@@ -1,0 +1,1 @@
+home:  <%await tp.user.random_island()%>

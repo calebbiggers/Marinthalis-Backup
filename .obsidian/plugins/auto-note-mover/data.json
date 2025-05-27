@@ -1,0 +1,52 @@
+{
+  "trigger_auto_manual": "Automatic",
+  "use_regex_to_check_for_tags": false,
+  "statusBar_trigger_indicator": true,
+  "folder_tag_pattern": [
+    {
+      "folder": "Islands",
+      "tag": "#Island",
+      "pattern": ""
+    },
+    {
+      "folder": "Characters",
+      "tag": "#NPC",
+      "pattern": ""
+    },
+    {
+      "folder": "Settlements",
+      "tag": "#City",
+      "pattern": ""
+    },
+    {
+      "folder": "Spells",
+      "tag": "#Spell",
+      "pattern": ""
+    },
+    {
+      "folder": "Character Options/Ancestries",
+      "tag": "#Lineages",
+      "pattern": ""
+    },
+    {
+      "folder": "Character Options/Ancestries",
+      "tag": "#Ancestry",
+      "pattern": ""
+    }
+  ],
+  "use_regex_to_check_for_excluded_folder": false,
+  "excluded_folder": [
+    {
+      "folder": "z_Assets"
+    },
+    {
+      "folder": "z_Templates"
+    },
+    {
+      "folder": "x_Website"
+    },
+    {
+      "folder": "Homebrew"
+    }
+  ]
+}

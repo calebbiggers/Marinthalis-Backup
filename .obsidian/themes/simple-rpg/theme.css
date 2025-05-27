@@ -1,0 +1,131 @@
+:root {
+	/* Text var */
+  --font-size-larger: 30px;
+  --font-size-large: 24px;
+  --font-size-medium: 18px;
+  --font-size-small: 15px;
+  --font-size-smaller: 13px;
+  --font-text-size: 16px;
+  /* Embed vars */
+  --embed-background: transparent;
+  --embed-border-end: none;
+  --embed-border-start: none;
+  --embed-border-top: none;
+  --embed-border-bottom: none;
+  --embed-padding: 0px 0px 0px 0px;
+  --embed-font-style: ;
+  /* Banner vars*/
+  --banner-height: 200px;
+  --banner-offset: calc(var(--banner-height) * .75);
+  /* Border vars */
+  --border-radius: 8px;
+  --border-width: 2px;
+  --my-border-color: #C0AD6A;
+  /* Table vars */
+  --table-header-background: #FDFDFD;
+  --table-header-color: var(--text-normal);
+  --table-background-color: #DAE7ED;
+  --table-row-alt-background: #F2F7F9;
+  --table-border-color: #ECEAE8;
+  /* Headings vars */
+  --h1-font: "Cinzel Decorative", serif;
+  --h2-6-font: "Cinzel", serif;
+  --h2-font: var(--h2-6-font);
+  --h3-font: var(--h2-6-font);
+  --h4-font: var(--h2-6-font);
+  --h5-font: var(--h2-6-font);
+  --h6-font: var(--h2-6-font);
+  --h1-size: var(--font-size-larger);
+  --h2-size: var(--font-size-large);
+  --h3-size: var(--font-size-medium);
+  --h4-size: var(--font-size-medium);
+  --h5-size: var(--font-size-small);
+  --h6-size: var(--font-size-small);
+  --h1-style: normal;
+  --h2-style: normal;
+  --h3-style: normal;
+  --h4-style: normal;
+  --h5-style: normal;
+  --h6-style: normal;
+  --title-weight: 700;
+  --h1-weight: var(--title-weight);
+  --h2-weight: var(--title-weight);
+  --h3-weight: var(--title-weight);
+  --h4-weight: var(--title-weight);
+  --h5-weight: var(--title-weight);
+  --h6-weight: var(--title-weight);
+  /* Horizontal rule vars */
+  --hr-color: #C0AD6A;
+  --hr-thickness: 2px;
+}
+
+body {
+	--radius-s: 0px;
+	--radius-m: 0px;
+	--radius-l: 0px;
+	--input-radius: 0px;
+	--tab-radius-active: 0px;
+	--checkbox-radius: 0px;
+	--toggle-radius: 0px;
+	--toggle-thumb-radius: 0px;
+	--slider-thumb-radius: 0px;
+}
+
+.view-content{
+	background-image: url(https://www.gmbinder.com/assets/img/phb_bg.png);
+	background-attachment: fixed;
+}
+
+.theme-dark {
+	/* Text */
+	--text-normal: #dadada;
+	/* Background */
+	--background-color: transparent;
+	/* Headers */
+	--header-color: #e69f92;
+	--h1-color: var(--header-color);
+	--h2-color: var(--header-color);
+	--h3-color: var(--header-color);
+	--h4-color: var(--header-color);
+	--h5-color: var(--header-color);
+	--h6-color: var(--header-color);
+}
+
+.theme-light {
+	/* Text */
+	--text-normal: #232323;
+	/* Background */
+	--background-color: transparent;
+	/* Headers */
+	--header-color: #58180D;
+	--h1-color: var(--header-color);
+	--h2-color: var(--header-color);
+	--h3-color: var(--header-color);
+	--h4-color: var(--header-color);
+	--h5-color: var(--header-color);
+	--h6-color: var(--header-color);
+
+}
+
+.workspace-tab-header.is-active::before, .workspace-tab-header.is-active::after {
+	display: none;
+}
+
+svg * {
+	stroke-linecap: square;
+	stroke-linejoin: miter;
+	rx: 0;
+	ry: 0;
+}
+
+.menu {
+	padding: var(--size-2-1);
+}
+
+.menu-item {
+	padding: var(--size-4-1) var(--size-4-2);
+}
+
+.menu-separator {
+	margin: var(--size-2-1) calc(var(--size-2-1) * -1);
+}

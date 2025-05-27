@@ -1,0 +1,245 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700;900&family=Cinzel:wght@400..900&family=Dancing+Script&family=Nothing+You+Could+Do&family=Radley:ital@0;1&family=Roboto:ital,wght@0,100..900;1,100..900&family=Tilt+Prism&display=swap');
+
+/* Image fix */
+.theme-dark .markdown-preview-view{
+    border-radius: 0;
+    opacity: 1;
+    mix-blend-mode: normal;            
+}
+
+.theme-light .markdown-preview-view{
+  /* Text */
+  --text-normal: #232323;
+  --light-text-color: #fcfbff;
+  --dark-text-color: var(--text-normal);
+  /* Borders */
+  /* --hr-color: #C0AD6A; */
+  --hr-color: #B89E71;
+  /* Headers */
+  /* --header-color: #58180D; */
+  --header-color: #58180D;
+  /* Tables */
+  --table-header-background: #FDFDFD !important;
+  --table-header-background-hover: var(--table-header-background) !important;
+  --table-header-color: var(--table-text-color) !important;
+  --table-background: #F2F7F9 !important;
+  --table-row-background-hover: var(--table-background) !important;
+  --table-row-alt-background: #DAE7ED !important;
+  --table-row-alt-background-hover: var(--table-row-alt-background) !important;
+  --table-border-color: #232323 !important;
+  /* Callouts */
+  --reading-border-color: #6e7e83;
+  --reading-background-color: #c9e3ef;
+  --dnd-text-color: var(--text-normal);
+  --dnd-background-color: #c9e3ef;
+  --callout-background: var(--background-primary);
+  --common-color: var(--color-base-70);
+  --uncommon-color: var(--color-green);
+  --rare-color: var(--color-blue);
+  --very-rare-color: var(--color-purple);
+  --legendary-color: var(--color-yellow);
+  --artifact-color: var(--color-orange);
+  --unique-color: var(--color-red);
+  --unknown-rarity-color: var(--color-pink);
+  --rarity-varies-color: var(--color-cyan);
+  --feat-color: var(--color-orange);
+  --npc-color: var(--color-yellow);
+  --pc-color: var(--color-purple);
+  --spell-color: var(--color-pink);
+  --info-color: var(--color-cyan);
+  --roller-color: var(--color-purple);
+  --letter-color: var(--color-orange);
+}
+
+.theme-dark .markdown-preview-view{
+  /* Text */
+  --text-normal: #fcfbff;
+  --light-text-color: var(--text-normal);
+  --dark-text-color: #232323;
+  /* Borders */
+  --hr-color: #B89E71;
+  /* Headers */
+  --header-color: #a68af9;
+  /* Links */
+  --link-color: #a68af9;
+  /* Tables */
+  --table-text-color: #232323 !important;
+  --table-header-background: #FDFDFD !important;
+  --table-header-background-hover: var(--table-header-background) !important;
+  --table-header-color: var(--table-text-color) !important;
+  --table-background: #F2F7F9 !important;
+  --table-row-background-hover: var(--table-background) !important;
+  --table-row-alt-background: #DAE7ED !important;
+  --table-row-alt-background-hover: var(--table-row-alt-background) !important;
+  --table-border-color: #232323 !important;
+  /* Callouts */
+  --reading-border-color: var(--text-normal);
+  --reading-background-color: #434f53;
+  --dnd-text-color: var(--dark-text-color);
+  --dnd-background-color: #f9f6ed;
+  --callout-background: var(--background-primary);
+  --common-color: var(--color-base-70);
+  --uncommon-color: var(--color-green);
+  --rare-color: var(--color-blue);
+  --very-rare-color: var(--color-purple);
+  --legendary-color: var(--color-yellow);
+  --artifact-color: var(--color-orange);
+  --unique-color: var(--color-red);
+  --unknown-rarity-color: var(--color-pink);
+  --rarity-varies-color: var(--color-cyan);
+  --feat-color: var(--color-orange);
+  --npc-color: var(--color-yellow);
+  --pc-color: var(--color-purple);
+  --spell-color: var(--color-pink);
+  --info-color: var(--color-cyan);
+  --roller-color: var(--color-purple);
+  --letter-color: var(--color-orange);
+}
+
+
+/* General Text*/
+.cm-s-obsidian,
+.markdown-preview-view {
+  /* Text vars*/
+  --font-weight: 400;
+  --bold-modifier: 300;
+  --font-size-larger: 30px;
+  --font-size-large: 24px;
+  --font-size-medium: 18px;
+  --font-size-small: 15px;
+  --font-size-smaller: 13px;
+  --font-text-size: 16px;
+  --font-text: "Roboto","Helvetica",sans-serif;
+  --writing-font: "Nothing You Could Do", serif;
+  --writing-size: var(--font-size-large);
+  --writing-weight: 500;
+  /* List vars */
+  --list-marker-color: var(--text-normal);
+  /* Embed vars */
+  --embed-background: transparent;
+  --embed-border-end: none;
+  --embed-border-start: none;
+  --embed-border-top: none;
+  --embed-border-bottom: none;
+  --embed-padding: 0px 0px 0px 0px;
+  --embed-font-style: ;
+  /* Banner vars*/
+  --banner-height: 200px;
+  --banner-offset: calc(var(--banner-height) * .75);
+  /* Border vars */
+  --border-radius: 8px;
+  --border-width: 2px;
+  /* Header vars */
+  --h1-color: var(--header-color);
+  --h2-color: var(--header-color);
+  --h3-color: var(--header-color);
+  --h4-color: var(--header-color);
+  --h5-color: var(--header-color);
+  --h6-color: var(--header-color);
+  --h1-font: "Cinzel Decorative", serif;
+  --h2-6-font: "Cinzel", serif;
+  --h2-font: var(--h2-6-font);
+  --h3-font: var(--h2-6-font);
+  --h4-font: var(--h2-6-font);
+  --h5-font: var(--h2-6-font);
+  --h6-font: var(--h2-6-font);
+  --h1-size: var(--font-size-larger);
+  --h2-size: var(--font-size-large);
+  --h3-size: var(--font-size-medium);
+  --h4-size: var(--font-size-medium);
+  --h5-size: var(--font-size-small);
+  --h6-size: var(--font-size-small);
+  --h1-style: normal;
+  --h2-style: normal;
+  --h3-style: normal;
+  --h4-style: normal;
+  --h5-style: normal;
+  --h6-style: normal;
+  --title-weight: 700;
+  --h1-weight: var(--title-weight);
+  --h2-weight: var(--title-weight);
+  --h3-weight: var(--title-weight);
+  --h4-weight: var(--title-weight);
+  --h5-weight: var(--title-weight);
+  --h6-weight: var(--title-weight);
+  /* Horizontal rule vars */
+  --hr-thickness: 2px;
+  /* Table */
+  --table-header-font: var(--font-text);
+  --table-header-size: var(--font-size-medium);
+  --table-header-weight: var(--font-bold);
+  /* Callouts */
+  --npc-icon: user;
+  --pc-icon: "<svg xmlns=\"http://www.w3.org/2000/svg\" stroke-width=\"2\" width=\"20px\" height=\"20px\" viewBox=\"0 0 24 24\"><path fill=\"None\" stroke=\"currentColor\" d=\"M18 20a6 6 0 0 0-12 0\"/><circle fill=\"None\" stroke=\"currentColor\" cx=\"12\" cy=\"10\" r=\"4\"/><circle fill=\"None\" stroke=\"currentColor\" cx=\"12\" cy=\"12\" r=\"10\"/></svg>";
+  --spell-icon: lucide-wand-2;
+  --place-icon: lucide-map-pin;
+  --island-icon: lucide-palmtree;
+  --item-icon: lucide-swords;
+  --animal-icon: lucide-piggy-bank;
+  --vehicle-icon: lucide-truck;
+  --feat-icon: lucide-feather;
+  --helm-icon: "<svg xmlns=\"http://www.w3.org/2000/svg\"   viewBox=\"0 0 1024 1024\"><path fill=\"currentColor\" d=\"M904.567 516.098c48.852-52.507 77.324-115.423 77.324-183.06-.002-88.666-50.763-168.886-130.317-228.536 28.19 38.064 46.127 80.76 46.127 126.728 0 47.357-16.878 91.896-46.587 130.732l-19.158-55.241-91.941 28.777c-40.607-54.851-94.161-87.641-162.903-99.592-17.354-88.215-42.113-190.009-63.438-190.009s-46.083 101.794-63.438 190.009c-68.737 11.95-122.289 44.738-162.896 99.582l-91.916-28.771-19.15 55.217c-29.714-38.842-46.595-83.384-46.595-130.739 0-45.968 17.905-88.665 46.127-126.728C96.22 164.148 45.458 244.37 45.458 333.035c0 67.648 28.48 130.572 77.345 183.084l-20.013 57.707 92.065 42.509c-9.857 77.369-14.383 166.84-14.383 268.946 103.078 59.842 217.299 89.588 333.202 88.857 115.903.73 230.124-29.015 333.202-88.855 0-102.099-4.526-191.565-14.381-268.931l92.095-42.524-20.022-57.731zM558.07 683.495c-9.812 80.548-23.097 203.684-23.097 280.01h-42.601c0-76.402-13.31-199.705-23.125-280.248-145.354-9.313-207.887-60.224-207.887-60.224s4.603-33.73 9.114-60.188l.02-.12c.348-2.045.698-4.044 1.042-5.982.027-.149.054-.294.079-.442.142-.791.283-1.569.423-2.339l.097-.532c.326-1.774.648-3.479.965-5.102l.119-.604c.12-.609.239-1.205.356-1.787.042-.202.082-.407.122-.606.152-.745.305-1.474.453-2.17 76.825 25.873 157.713 38.92 239.552 38.444 81.808.445 162.696-12.571 239.521-38.444.146.681.293 1.394.442 2.122.052.249.102.505.154.76.102.502.204 1.014.306 1.534l.169.863c.131.664.259 1.344.392 2.035.054.279.107.564.161.848.117.622.234 1.253.353 1.894.069.371.137.75.206 1.128l.269 1.487c.07.393.142.786.212 1.186.109.606.216 1.221.325 1.841.104.594.209 1.195.313 1.799l.269 1.559.244 1.437.226 1.335.261 1.556c.077.457.152.919.229 1.379l.422 2.56c.077.474.156.947.233 1.424l.256 1.588.216 1.344c.08.507.162 1.012.243 1.519l.343 2.17c.089.557.176 1.114.263 1.672.092.586.184 1.171.274 1.757l.207 1.337.258 1.667.197 1.278.408 2.675.125.823.33 2.177.12.798a1312.027 1312.027 0 0 0 .424 2.826c2.294 15.39 3.945 27.492 3.945 27.492s-60.336 51.829-207.949 60.463z\"></path></svg>";
+  --potion-icon: "<svg xmlns=\"http://www.w3.org/2000/svg\"   viewBox=\"0 0 1024 1024\"><path fill=\"currentColor\" d=\"M624.313 379.207c-51.183-62.325 21.412-207.844 47.279-267.441h-39.463l26.039-70.414H363.792l30.027 70.414h-40.225c31.395 86.024 106.773 186.31 49.246 267.441-59.709 84.215-200.582 156.938-200.582 289.73 0 171.621 139.003 312.016 310.623 312.016s312.016-140.4 312.016-312.016c0-132.507-134.932-209.788-200.584-289.73zM512.967 929.855c-139.316 0-252.624-114.534-252.624-253.847 0-51.138 26.636-90.921 58.862-126.311h391.198c31.062 35.558 56.41 75.89 56.41 126.311.002 139.312-114.531 253.847-253.847 253.847z\"></path></svg>";
+  --ring-icon: "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"currentColor\"><path d=\"M9.46488 1L7.69076 3.66118L9.55579 5.35667C6.05273 6.40661 3.5 9.6552 3.5 13.5C3.5 18.1944 7.30558 22 12 22C16.6944 22 20.5 18.1944 20.5 13.5C20.5 9.65523 17.9473 6.40667 14.4443 5.35669L16.3094 3.66118L14.5352 1H9.46488ZM12 7C15.5899 7 18.5 9.91015 18.5 13.5C18.5 17.0899 15.5899 20 12 20C8.41015 20 5.5 17.0899 5.5 13.5C5.5 9.91015 8.41015 7 12 7ZM10.3094 3.33882L10.5352 3H13.4649L13.6908 3.33882L12.0001 4.87581L10.3094 3.33882Z\"></path></svg>";
+  --armor-icon: "<svg viewBox=\"0 0 1024 1024\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M871.998 879.042v-282.35C812 540.224 751.992 483.745 751.992 427.277c0-112.947 59.997-282.35 240-338.83 0 0-59.997-56.467-120.006-56.467h-179.99c0 112.947-120.007 169.415-180.004 169.415S331.99 144.927 331.99 31.98H151.985C91.99 31.98 31.98 88.448 31.98 88.448c180.003 56.468 240 225.882 240 338.83 0 56.467-59.997 112.946-120.006 169.414v282.35c120.006 56.468 240 112.947 359.994 112.947 120.03-.013 240.038-56.48 360.03-112.948z\"/></svg>";
+  --rod-icon: lucide-wand-2;
+  --weapon-icon: lucide-swords;
+  --shield-icon: shield;
+  --scroll-icon: scroll;
+  --staff-icon: "<svg xmlns=\"http://www.w3.org/2000/svg\"   viewBox=\"0 0 1024 1024\"><path fill=\"currentColor\" d=\"M994.411 284.298l.967-.967-18.8-241.971-242.817-19.638-.966.966-.003-.003v.005L451.897 303.585l.222 2.741-2.745-.222 2.967 2.967 14.665 181.285-65.833-65.832c-9.071 85.291-57.71 131.029-141.548 141.548l36.996 36.994L34.118 864.762v123.61h107.284l270.262-270.264 38.615 38.615c10.893-83.462 56.789-131.944 141.548-141.548L527.39 550.74l180.658 14.035 2.938 2.938-.212-2.726 2.735.212.003-.005 280.897-280.895zM700.329 430.464l-8.134-104.724-105.968-8.57 157.242-157.245.429.023 8.539 105.549 104.72 8.137-156.829 156.829z\"></path></svg>";
+  --wand-icon: lucide-wand;
+  --info-icon: lucide-info;
+  --shop-icon: lucide-store;
+  --wondrous-item-icon: lucide-component;
+  --goggles-icon: "<svg width=\"800px\" height=\"\800px\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\"><path fill=\"#000000\" d=\"M175.342 120.424c-39.044-.035-81.332 6.312-136.06 17.752 2.786 11.553 6.997 23.69 11.796 35.318 109.813-26.153 176.85-16.624 239.863 9.426 4.03-13.23 10.572-25.413 18.648-35.72-49.595-18.4-89.864-26.737-134.246-26.776zm186.87 14.11c-6.61-.015-12.398.99-16.982 3.376-.79.68-1.384 1.442-1.734 2.2 18.56 4.702 36.184 9.745 51.613 15.628 5.153-4.313 10.78-8.04 16.833-11.027-17.658-5.47-35.56-10.142-49.732-10.175zm-341.454 5.063c-.89 19.648-5.877 24.76-1.288 59.096 3.89 29.1 15.095 72.413 61.754 109.08-3.517-14.455-5.16-28.265-4.587-43.724-12.806-14.01-25.166-33.834-43.268-85.906-5.63-13.404-8.834-26.383-12.612-38.547zm419.545 14.81c-14.962.188-29.31 7.998-40.727 19.942-13.532 14.156-23.72 34.396-28.234 57.824-4.516 23.427-2.557 45.88 4.785 63.843 5.976 14.622 15.925 26.615 29.078 32.332h.002c4.374 1.97 7.517 3.288 12 3.265 17.044 2.097 33.69-6.112 46.593-19.61 13.533-14.158 23.717-34.396 28.233-57.824 4.515-23.426 2.56-45.88-4.78-63.842-7.343-17.963-20.684-31.962-38.59-35.227a43.482 43.482 0 0 0-8.36-.702zm-113.092.222c-10.18 11.86-18.49 27.615-21.48 44.08 23.602 11.794 41.428 32.958 47.72 54.432.148-8.285.985-16.61 2.5-24.8 3.964-21.45 12.488-42.035 25.476-58.436-15.95-5.543-34.613-10.52-54.215-15.277zm114.053 17.745a25.86 25.86 0 0 1 3.993.41c10.53 1.92 19.517 10.35 25.285 24.46 5.768 14.112 7.704 33.376 3.786 53.706-3.918 20.33-12.897 37.605-23.527 48.726-10.632 11.12-22.15 15.812-32.68 13.892-10.53-1.92-19.517-10.352-25.284-24.463-5.768-14.11-7.702-33.373-3.783-53.703 3.918-20.33 12.894-37.604 23.525-48.725 9.302-9.73 19.28-14.54 28.685-14.302zm-254.61 22.328c-12.71.12-23.37 1.835-31.446 5.224-27.724 11.638-46.134 28.764-55.694 47.918 33.88 11.845 50.606 20.93 105.842 23.778 9.12-26.446 27.087-50.78 55.36-65.742-28.42-7.515-53.842-11.37-74.063-11.177zm272.198 6.406c-10.734 55.258-26.578 72.102-46.178 94.99 17.267 1.758 33.788-9.264 41.44-38.276 4.17-15.812 5.536-19.187 4.74-56.715zm-170.577 12.913l-.066.022c-15.41-.246-30.24 7.657-41.977 19.933-13.532 14.157-23.72 34.395-28.234 57.823-4.515 23.428-2.557 45.882 4.785 63.844 2.92 7.144 6.79 13.658 11.517 19.12 5.406 6.65 11.756 11.463 18.757 14.042 2.697.853 5.81 1.6 8.315 2.065 17.906 3.266 35.553-5.08 49.085-19.237 13.532-14.157 23.717-34.397 28.232-57.825.216-1.492.55-2.617.717-4.068 3.55-21.95 1.418-42.855-5.498-59.775-5.793-14.175-15.324-25.876-27.885-31.788-.753-.37-1.52-.728-2.305-1.068v.062a43.235 43.235 0 0 0-8.4-2.434 43.435 43.435 0 0 0-6.975-.693 8.534 8.534 0 0 1-.067-.022zm-.355 17.98a25.85 25.85 0 0 1 3.992.41c10.53 1.92 19.518 10.353 25.285 24.464 5.768 14.11 7.703 33.373 3.785 53.703-3.918 20.33-12.896 37.604-23.527 48.724-10.63 11.12-22.147 15.813-32.678 13.893-10.53-1.92-19.517-10.35-25.285-24.46-5.767-14.112-7.7-33.376-3.783-53.706 3.918-20.33 12.895-37.603 23.525-48.724 9.302-9.73 19.282-14.54 28.686-14.304zm21.47 32.497c-10.736 55.26-26.58 72.102-46.18 94.99 17.268 1.76 33.787-9.263 41.438-38.275 4.17-15.812 5.537-19.187 4.74-56.715zm-214.96.62c-.603 14.054.94 26.203 4.392 39.542l.516-.246c24.38 16.45 71.385 32.672 100.367 32.224-1.63-10.355-2.06-21.19-1.193-32.12a134.61 134.61 0 0 1 2.087-15.135c-53.818-3.222-74.207-13.057-106.168-24.264zm264.29 28.05c-.09 9.523-1.072 18.374-2.595 25.904a179.038 179.038 0 0 0 19.27 6.586c-6.608-8.252-11.652-17.756-15.186-27.88-.53-1.522-1.022-3.06-1.488-4.61zm-246.27 40.3c4.936 5.788 10.722 11.266 17.384 16.3 29.055 21.964 58.6 30.283 89.398 34.95-4.006-5.177-7.465-10.95-10.33-17.138-1.89-4.08-3.525-8.36-4.93-12.783-32.872-.606-63.45-8.824-91.523-21.33z\"/></svg>";
+  --roller-icon: lucide-dices;
+  --letter-icon: lucide-mail;
+  --item-callout-title-font: var(var(--font-text));
+  --item-image-mix-mode: multiply;
+}
+
+/* Header border */
+:is(h1, h2, h3, h4, h5, h6){
+  border-bottom: var(--border-width) solid var(--hr-color) !important;
+}
+
+h1{
+  margin-top: 15px !important;
+}
+
+/* Buttons */
+button.default-span{
+  background: var(--interactive-accent);
+  font-weight: 500; 
+  /* box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 ); */
+  backdrop-filter: blur( 15.5px );
+  -webkit-backdrop-filter: blur( 15.5px );
+  border-radius: 3px;
+  width: 100%;
+  text-align: center;
+  height: 30px;
+  margin-bottom: 5px;
+}
+button.default-span:hover{
+  transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+  background: var(--interactive-accent-hover);
+  /* border: 2px solid white; */
+}
+button.default{
+  background: var(--interactive-accent);
+  font-weight: 500; 
+  /* box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 ); */
+  backdrop-filter: blur( 15.5px );
+  -webkit-backdrop-filter: blur( 15.5px );
+  border-radius: 3px;
+  width: 30%;
+  text-align: center;
+  height: 30px;
+  margin-bottom: 5px;
+}
+button.default:hover{
+  transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+  background: var(--interactive-accent-hover);
+  /* border: 2px solid white; */
+}
+

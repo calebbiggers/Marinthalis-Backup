@@ -1,0 +1,88 @@
+{
+  "targetAttributes": [
+    "rarity"
+  ],
+  "targetTags": true,
+  "getFromInlineField": true,
+  "enableTabHeader": true,
+  "activateSnippet": true,
+  "enableEditor": true,
+  "enableFileList": true,
+  "enableBacklinks": true,
+  "enableQuickSwitcher": true,
+  "enableSuggestor": true,
+  "selectors": [
+    {
+      "type": "attribute",
+      "name": "rarity",
+      "value": "Uncommon",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "18c0-45d2",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    },
+    {
+      "type": "attribute",
+      "name": "rarity",
+      "value": "Common",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "bd0f-f036",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    },
+    {
+      "type": "attribute",
+      "name": "rarity",
+      "value": "Rare",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "41ec-d52c",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    },
+    {
+      "type": "attribute",
+      "name": "rarity",
+      "value": "Very Rare",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "96bf-1835",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    },
+    {
+      "type": "attribute",
+      "name": "rarity",
+      "value": "Legendary",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "6fc1-c9db",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    },
+    {
+      "type": "attribute",
+      "name": "rarity",
+      "value": "Artifact",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "8494-aafa",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    }
+  ]
+}

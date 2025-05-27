@@ -1,0 +1,7 @@
+---
+tags:
+  - Creature
+icon: 
+---
+
+# Glimmerwhales

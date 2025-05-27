@@ -1,0 +1,20 @@
+views:
+  - type: table
+    name: Spells
+    filters:
+      and:
+        - contains(property.tags, "Spell")
+    order:
+      - file.name
+      - level
+      - schools
+      - classes
+      - casting_time
+      - range
+      - components
+      - duration
+      - concentration
+      - sources
+    sort:
+      - column: property.level
+        direction: ASC

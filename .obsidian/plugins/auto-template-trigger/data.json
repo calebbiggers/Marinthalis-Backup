@@ -1,0 +1,20 @@
+{
+  "folderSpecificTemplates": [
+    {
+      "folderPath": "Locations",
+      "templateName": "Template - Location"
+    },
+    {
+      "folderPath": "Islands",
+      "templateName": "Template - Island"
+    },
+    {
+      "folderPath": "Groups",
+      "templateName": "Template - Group"
+    },
+    {
+      "folderPath": "Characters",
+      "templateName": "Template - NPC"
+    }
+  ]
+}

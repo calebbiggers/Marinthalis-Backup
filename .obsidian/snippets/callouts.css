@@ -1,0 +1,387 @@
+
+/* All Callouts */
+.callout{
+    mix-blend-mode: normal;
+    padding: 12px 24px 12px 24px;
+}
+
+/* D&D Callout */
+.callout[data-callout*="dnd"] .callout-title{
+    display: block !important;
+    position: relative;
+    left: 0px;
+    top: 0px;
+    color: var(--dnd-text-color);
+    font-family: var(--font-text);
+}
+.callout[data-callout*="dnd"] .callout-icon{
+    font-size: 0px !important;
+    overflow: hidden !important;
+    visibility: hidden !important;
+    height: 0px !important;
+    width: 0px !important;
+}
+.callout[data-callout*="dnd"]{
+    mix-blend-mode: normal;
+    color: var(--dnd-text-color);
+    box-sizing: border-box !important;
+    margin-bottom: 1em !important;
+    margin-top: 9px !important;
+    padding: 5px 10px !important;
+    background-color: var(--dnd-background-color) !important;
+    border-radius: 0px;
+    border-style: solid !important;
+    border-width: 11px !important;
+    border-image: url(https://i.imgur.com/GZvHl9j.png) 11 !important;
+    border-image-outset: 9px 0 !important;
+    box-shadow: 1px 4px 14px #2c2c2c !important;
+    font-family: var(--font-text);
+}
+
+/* Reading Callout */
+.callout[data-callout*="reading"]{
+    font-style: italic;
+    mix-blend-mode: normal;
+    overflow: visible;
+    display: block;
+    padding: 0px 0px 0px 0px !important;
+    border-style: solid;
+    border-top: 0px;
+    border-bottom: 0px;
+    border-left: solid 2px;
+    border-right: solid 2px;
+    border-radius: 0px;
+    border-color: var(--reading-border-color);
+    background-color: var(--reading-background-color);
+    width: auto;
+    height: auto;
+}
+.callout[data-callout*="reading"] .callout-title{
+    visibility: hidden !important;
+    width: 0px !important;
+    height: 0px !important;
+    font-size: 0px !important;
+}
+.callout[data-callout*="reading"] .callout-content{
+    padding: 12px 24px 12px 24px !important;
+    overflow: visible !important;
+}
+.callout[data-callout*="reading"]::before{
+    display: block !important;
+    position: relative !important;
+    visibility: visible !important;
+    content: "" !important;
+    border-radius: 50% !important;
+    width: 8px !important;
+    height: 8px !important;
+    background-color: var(--reading-border-color) !important;
+    top: -4px;
+    left: -5px;
+}
+.callout[data-callout*="reading"]::after{
+    display: block !important;
+    position: relative !important;
+    visibility: visible !important;
+    content: "" !important;
+    border-radius: 50% !important;
+    width: 8px !important;
+    height: 8px !important;
+    background-color: var(--reading-border-color) !important;
+    top: 4px;
+    left: -5px;
+}
+.callout[data-callout*="reading"] .callout-content::before{
+    display: block !important;
+    position: relative !important;
+    visibility: visible !important;
+    content: "" !important;
+    border-radius: 50% !important;
+    width: 8px !important;
+    height: 8px !important;
+    float: right !important;
+    background-color: var(--reading-border-color) !important;
+    top: -24px;
+    left: 29px;
+}
+.callout[data-callout*="reading"] .callout-content::after{
+    display: block !important;
+    position: relative !important;
+    visibility: visible !important;
+    content: "" !important;
+    border-radius: 50% !important;
+    width: 8px !important;
+    height: 8px !important;
+    float: right !important;
+    background-color: var(--reading-border-color) !important;
+    top: 16px;
+    left: 29px;
+}
+.callout[data-callout*="reading"] :first-child{
+    margin-top: 0px !important;
+}
+.callout[data-callout*="reading"] :last-child{
+    margin-bottom: 0px !important;
+}
+
+/* Writing Callout */
+.callout[data-callout*="writing"] .callout-title,
+.callout[data-callout*="writing"] .svg-icon{
+    visibility: hidden;
+    width: 0px;
+    height: 0px;
+    font-size: 0px;
+}
+.callout[data-callout*="writing"]{
+    color: var(--dark-text-color);
+    mix-blend-mode: normal !important;
+    font-family: var(--writing-font);
+    font-size: var(--writing-size);
+    font-weight: var(--writing-weight);
+    border-image: url(https://i.imgur.com/ZRcfa3i.png);
+    border-width: 20px !important;
+    border-image-slice: 20 fill !important;
+    border-color: transparent !important ;
+    background-color: transparent !important;
+}
+
+/* Feat callout */
+.callout[data-callout*="feat"] .callout-title, 
+.callout[data-callout*="feat"] .svg-icon{
+    color: var(--feat-color) !important;
+}
+.callout[data-callout*="feat"]{
+    border: var(--border-width) solid var(--feat-color) !important;
+    --callout-icon: var(--feat-icon);
+    background-color: var(--callout-background);
+}
+
+/* Spell callout */
+.callout[data-callout*="spell"] .callout-title, 
+.callout[data-callout*="spell"] .svg-icon{
+    color: var(--spell-color) !important;
+}
+.callout[data-callout*="spell"]{
+    border: var(--border-width) solid var(--spell-color) !important;
+    --callout-icon: var(--spell-icon);
+    background-color: var(--callout-background);
+}
+
+/* Roller callout */
+.callout[data-callout*="roller"] .callout-title, 
+.callout[data-callout*="roller"] .svg-icon{
+    color: var(--roller-color) !important;
+}
+.callout[data-callout*="roller"]{
+    font-family: var(--font-text);
+    border: var(--border-width) solid var(--roller-color) !important;
+    --callout-icon: var(--roller-icon);
+}
+
+/* Letter callout */
+.callout[data-callout*="letter"] .callout-title, 
+.callout[data-callout*="letter"] .svg-icon{
+    color: var(--letter-color) !important;
+}
+.callout[data-callout*="letter"]{
+    font-size: x-large;
+    font-family: "Nothing You Could Do", serif;
+    font-weight: 400;
+    font-style: normal;
+    border: var(--border-width) solid var(--letter-color) !important;
+    --callout-icon: var(--letter-icon);
+    background-color: transparent;
+}
+
+/* Item Types */
+.callout[data-callout*="wondrous-item"]{
+    --callout-icon: var(--wondrous-item-icon);
+}
+.callout[data-callout*="armor"]{
+    --callout-icon: var(--armor-icon);
+}
+.callout[data-callout*="potion"]{
+    --callout-icon: var(--potion-icon);
+}
+.callout[data-callout*="ring"]{
+    --callout-icon: var(--ring-icon);
+}
+.callout[data-callout*="rod"]{
+    --callout-icon: var(--rod-icon);
+}
+.callout[data-callout*="weapon"]{
+    --callout-icon: var(--weapon-icon);
+}
+.callout[data-callout*="scroll"]{
+    --callout-icon: var(--scroll-icon);
+}
+.callout[data-callout*="staff"]{
+    --callout-icon: var(--staff-icon);
+}
+.callout[data-callout*="wand"]{
+    --callout-icon: var(--wand-icon);
+}
+.callout[data-callout*="goggles"]{
+    --callout-icon: var(--goggles-icon);
+}
+.callout[data-callout*="shield"]{
+    --callout-icon: var(--shield-icon);
+}
+
+
+/* Colors */
+.callout[data-callout*="common"] .callout-title,
+.callout[data-callout*="common"] .svg-icon{
+    color: var(--common-color) !important;
+    font-family: var(--item-callout-title-font);
+}
+.callout[data-callout*="common"]{
+    /* border: var(--border-width) solid var(--common-color) !important; */
+    /* background-color: var(--callout-background); */
+    border-image: url(https://i.imgur.com/jSDMCz6.png);
+    border-radius: 10px !important;
+    border-image-slice: 35 fill !important;
+    border-image-repeat: repeat !important;
+    mix-blend-mode: normal !important;
+    border-style: solid !important;
+    border-width: 20px !important; 
+    border-color: transparent !important;
+    background-color: transparent !important;
+    padding: 0px 0px 0px 0px !important;
+    color: var(--dark-text-color) !important;
+}
+.callout[data-callout*="common"] img{
+    mix-blend-mode: var(--item-image-mix-mode);
+}
+
+.callout[data-callout*="uncommon"] .callout-title,
+.callout[data-callout*="uncommon"] .svg-icon{
+    color: var(--uncommon-color) !important;
+    font-family: var(--item-callout-title-font);
+}
+.callout[data-callout*="uncommon"]{
+    /* border: var(--border-width) solid var(--uncommon-color) !important;
+    background-color: var(--callout-background); */
+    --list-marker-color: var(--dark-text-color);
+    border-image: url(https://i.imgur.com/tP9rCrQ.png);
+    border-radius: 10px !important;
+    border-image-slice: 35 fill !important;
+    border-image-repeat: repeat !important;
+    mix-blend-mode: normal !important;
+    border-style: solid !important;
+    border-width: 20px !important; 
+    border-color: transparent !important;
+    background-color: transparent !important;
+    padding: 0px 0px 0px 0px !important;
+    color: var(--dark-text-color) !important;
+}
+.callout[data-callout*="uncommon"] img{
+    mix-blend-mode: var(--item-image-mix-mode);
+}
+
+.callout[data-callout*="rare"] .callout-title,
+.callout[data-callout*="rare"] .svg-icon{
+    color: var(--rare-color) !important;
+    font-family: var(--item-callout-title-font);
+}
+.callout[data-callout*="rare"]{
+    /* border: var(--border-width) solid var(--rare-color) !important;
+    background-color: var(--callout-background); */
+    --list-marker-color: var(--dark-text-color);
+    border-image: url(https://i.imgur.com/nAwBM1I.png);
+    border-radius: 10px !important;
+    border-image-slice: 35 fill !important;
+    border-image-repeat: repeat !important;
+    mix-blend-mode: normal !important;
+    border-style: solid !important;
+    border-width: 20px !important; 
+    border-color: transparent !important;
+    background-color: transparent !important;
+    padding: 0px 0px 0px 0px !important;
+    color: var(--dark-text-color) !important;
+}
+.callout[data-callout*="rare"] img{
+    mix-blend-mode: var(--item-image-mix-mode);
+}
+
+.callout[data-callout*="very-rare"] .callout-title,
+.callout[data-callout*="very-rare"] .svg-icon{
+    color: var(--very-rare-color) !important;
+    font-family: var(--item-callout-title-font);
+}
+.callout[data-callout*="very-rare"]{
+    /* border: var(--border-width) solid var(--very-rare-color) !important;
+    background-color: var(--callout-background); */
+    --list-marker-color: var(--dark-text-color);
+    border-image: url(https://i.imgur.com/STtZrEy.png);
+    border-radius: 10px !important;
+    border-image-slice: 35 fill !important;
+    border-image-repeat: repeat !important;
+    mix-blend-mode: normal !important;
+    border-style: solid !important;
+    border-width: 20px !important; 
+    border-color: transparent !important;
+    background-color: transparent !important;
+    padding: 0px 0px 0px 0px !important;
+    color: var(--dark-text-color) !important;
+}
+.callout[data-callout*="very-rare"] img{
+    mix-blend-mode: var(--item-image-mix-mode);
+}
+
+.callout[data-callout*="legendary"] .callout-title,
+.callout[data-callout*="legendary"] .svg-icon{
+    color: var(--legendary-color) !important;
+    font-family: var(--item-callout-title-font);
+}
+.callout[data-callout*="legendary"]{
+    /* border: var(--border-width) solid var(--legendary-color) !important;
+    background-color: var(--callout-background); */
+    --list-marker-color: var(--dark-text-color);
+    border-image: url(https://i.imgur.com/hbDma96.png);
+    border-radius: 10px !important;
+    border-image-slice: 35 fill !important;
+    border-image-repeat: repeat !important;
+    mix-blend-mode: normal !important;
+    border-style: solid !important;
+    border-width: 20px !important; 
+    border-color: transparent !important;
+    background-color: transparent !important;
+    padding: 0px 0px 0px 0px !important;
+    color: var(--dark-text-color) !important;
+}
+.callout[data-callout*="legendary"] img{
+    mix-blend-mode: var(--item-image-mix-mode);
+}
+
+.callout[data-callout*="artifact"] .callout-title,
+.callout[data-callout*="artifact"] .svg-icon{
+    color: var(--artifact-color) !important;
+}
+.callout[data-callout*="artifact"]{
+    border: var(--border-width) solid var(--artifact-color) !important;
+    background-color: var(--callout-background);
+}
+.callout[data-callout*="unknown"] .callout-title,
+.callout[data-callout*="unknown"] .svg-icon{
+    color: var(--unknown-rarity-color) !important;
+}
+.callout[data-callout*="unknown"]{
+    border: var(--border-width) solid var(--unknown-rarity-color) !important;
+    background-color: var(--callout-background);
+}
+.callout[data-callout*="unique"] .callout-title,
+.callout[data-callout*="unique"] .svg-icon{
+    color: var(--unique-color) !important;
+}
+.callout[data-callout*="unique"]{
+    border: var(--border-width) solid var(--unique-color) !important;
+    background-color: var(--callout-background);
+}
+.callout[data-callout*="varies"] .callout-title,
+.callout[data-callout*="varies"] .svg-icon{
+    color: var(--rarity-varies-color) !important;
+}
+.callout[data-callout*="varies"]{
+    border: var(--border-width) solid var(--rarity-varies-color) !important;
+    background-color: var(--callout-background);
+}

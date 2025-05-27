@@ -1,0 +1,15 @@
+.theme-light .cm-s-obsidian,
+.theme-light .markdown-preview-view {
+    background-image: url(https://i.imgur.com/xVZYlSI.jpeg) !important;
+    background-attachment: local !important;
+    mix-blend-mode: normal !important;
+    background-repeat: repeat !important;
+}
+
+.theme-dark .cm-s-obsidian,
+.theme-dark .markdown-preview-view {
+    background-image: url(https://i.imgur.com/Qn6HkuX.jpeg);
+    background-attachment: local !important;
+    mix-blend-mode: normal !important;
+    background-repeat: repeat !important;
+}

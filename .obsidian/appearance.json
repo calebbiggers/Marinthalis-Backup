@@ -1,0 +1,18 @@
+{
+  "accentColor": "",
+  "cssTheme": "",
+  "theme": "obsidian",
+  "translucency": false,
+  "enabledCssSnippets": [
+    "banners",
+    "base_formatting",
+    "callouts",
+    "images",
+    "timeline-callouts"
+  ],
+  "interfaceFontFamily": "",
+  "showViewHeader": true,
+  "nativeMenus": false,
+  "baseFontSize": 15,
+  "monospaceFontFamily": "CamingoCode"
+}

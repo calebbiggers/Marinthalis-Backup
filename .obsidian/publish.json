@@ -1,0 +1,25 @@
+{
+  "siteId": "8d64b02a711ed0cbaf6c7af05ebc541f",
+  "host": "publish-01.obsidian.md",
+  "included": [],
+  "excluded": [
+    "Brainstorming",
+    "Books",
+    "Daily Notes",
+    "Groups",
+    "Islands",
+    "Locations",
+    "NPCs",
+    "PCs",
+    "Session Planning",
+    "Settlements",
+    "z_Scripts",
+    "z_Testing",
+    "z_Backups",
+    "z_Templates",
+    "z_Tools",
+    "z_Logs",
+    "Shops & Services",
+    "Vessels & Vehicles"
+  ]
+}

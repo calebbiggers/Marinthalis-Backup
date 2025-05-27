@@ -1,0 +1,101 @@
+/* Custom Callout Box for "Wiki" style infoboxes.
+Fixed width, floats right, and strips "flair" from ![[embedded]] files */
+
+/* Fix Width, float right, boarder, color */
+.callout[data-callout="infobox-wiki"],
+.callout[data-callout="pc-wiki"],
+.callout[data-callout="npc-wiki"],
+.callout[data-callout="place-wiki"],
+.callout[data-callout="shop-wiki"],
+.callout[data-callout="island-wiki"],
+.callout[data-callout="item-wiki"],
+.callout[data-callout="animal-wiki"],
+.callout[data-callout="vehicle-wiki"]{
+  width: 35% !important; /* Adjust the width of the callout box */
+  float: right !important; /* Floats the callout box to the right */
+  margin-left: 10px !important; /* Adds space between the callout box and the text OUTSIDE the box */
+  border: 3px solid var(--text-normal) !important;
+  padding: 10px; /* Adds space between the callout box and the text INSIDE the box */
+  border-radius: 0px !important;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5) !important;
+  color: var(--text-normal) !important;
+  font-size: medium;
+  background-color: var(--background-primary);
+  /* background-blend-mode: color; */
+  /* Obsidian Custom Variables */
+  /*--callout-icon: lucide-info;*/
+  /*--callout-color: 126, 154, 170; /* Sets color "theme" for box (header text and background) */
+}
+
+
+/* Remove border and padding for embedded files */
+.callout[data-callout="infobox-wiki"] .markdown-embed,
+.callout[data-callout="pc-wiki"] .markdown-embed,
+.callout[data-callout="npc-wiki"] .markdown-embed,
+.callout[data-callout="place-wiki"] .markdown-embed,
+.callout[data-callout="shop-wiki"] .markdown-embed,
+.callout[data-callout="island-wiki"] .markdown-embed,
+.callout[data-callout="item-wiki"] .markdown-embed,
+.callout[data-callout="animal-wiki"] .markdown-embed,
+.callout[data-callout="vehicle-wiki"] .markdown-embed,
+
+.callout[data-callout="infobox-wiki"] .file-embed,
+.callout[data-callout="pc-wiki"] .file-embed,
+.callout[data-callout="npc-wiki"] .file-embed,
+.callout[data-callout="place-wiki"] .file-embed,
+.callout[data-callout="shop-wiki"] .file-embed,
+.callout[data-callout="island-wiki"] .file-embed,
+.callout[data-callout="item-wiki"] .file-embed,
+.callout[data-callout="animal-wiki"] .file-embed,
+.callout[data-callout="vehicle-wiki"] .file-embed{
+  border: none !important;
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+
+/* Remove title and the table from the "Metatable" plugin */
+.callout[data-callout="infobox-wiki"].markdown-embed-link,
+.callout[data-callout="npc-wiki"].markdown-embed-link,
+.callout[data-callout="pc-wiki"].markdown-embed-link,
+.callout[data-callout="place-wikie"].markdown-embed-link,
+.callout[data-callout="shop-wikie"].markdown-embed-link,
+.callout[data-callout="island-wikie"].markdown-embed-link,
+.callout[data-callout="item-wiki"].markdown-embed-link,
+.callout[data-callout="animal-wiki"].markdown-embed-link,
+.callout[data-callout="vehicle-wiki"].markdown-embed-link,
+
+.callout[data-callout="infobox-wiki"].file-embed-link,
+.callout[data-callout="npc-wiki"].file-embed-link,
+.callout[data-callout="pc-wiki"].file-embed-link,
+.callout[data-callout="person-wiki"].file-embed-link,
+.callout[data-callout="place-wiki"].file-embed-link,
+.callout[data-callout="shop-wiki"].file-embed-link,
+.callout[data-callout="island-wiki"].file-embed-link,
+.callout[data-callout="item-wiki"].file-embed-link,
+.callout[data-callout="animal-wiki"].file-embed-link,
+.callout[data-callout="vehicle-wiki"].file-embed-link,
+
+.callout[data-callout="infobox-wiki"].markdown-embed-title,
+.callout[data-callout="npc-wiki"].markdown-embed-title,
+.callout[data-callout="pc-wiki"].markdown-embed-title,
+.callout[data-callout="person-wiki"].markdown-embed-title,
+.callout[data-callout="place-wiki"].markdown-embed-title,
+.callout[data-callout="shop-wiki"].markdown-embed-title,
+.callout[data-callout="island-wiki"].markdown-embed-title,
+.callout[data-callout="item-wiki"].markdown-embed-title,
+.callout[data-callout="animal-wiki"].markdown-embed-title,
+.callout[data-callout="vehicle-wiki"].markdown-embed-title,
+
+.callout[data-callout="infobox-wiki"].obsidian-metatable,
+.callout[data-callout="npc-wiki"].obsidian-metatable,
+.callout[data-callout="pc-wiki"].obsidian-metatable,
+.callout[data-callout="person-wiki"].obsidian-metatable,
+.callout[data-callout="place-wiki"].obsidian-metatable,
+.callout[data-callout="shop-wiki"].obsidian-metatable,
+.callout[data-callout="island-wiki"].obsidian-metatable,
+.callout[data-callout="item-wiki"].obsidian-metatable,
+.callout[data-callout="animal-wiki"].obsidian-metatable,
+.callout[data-callout="vehicle-wiki"].obsidian-metatable {
+  display: none;
+}

@@ -1,0 +1,446 @@
+{
+  "workspaces": {
+    "Prepping": {
+      "main": {
+        "id": "5324373015726ba8",
+        "type": "split",
+        "children": [
+          {
+            "id": "4509724f8bf84da7",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "abd970dee139194a",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Home Page - Prepping.md",
+                    "mode": "preview",
+                    "source": true
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "Home Page - Prepping"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "528b6168114e5b05",
+        "type": "mobile-drawer",
+        "children": [
+          {
+            "id": "655651b8cab93c2e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2af1973bfd7f8569",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "cf444a76b960302b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4b920bb02b001509",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "6ac8ba5a13f080dd",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ],
+        "currentTab": 0,
+        "pinned": true
+      },
+      "right": {
+        "id": "923f50b84e606e62",
+        "type": "mobile-drawer",
+        "children": [
+          {
+            "id": "94344e6b499f56b7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Session Planning/Shattered Archipelago - 25.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "5ccd604a509d04b3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Home Page - Session Prep.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "da12acb0cd6f2c5d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Homebrew/Wondrous Items/Wayfinding Oracle Sticks.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "4f42527636ccaa3c",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Homebrew/Wondrous Items/Wayfinding Oracle Sticks.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties"
+            }
+          },
+          {
+            "id": "67d0503de8c789fb",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
+          },
+          {
+            "id": "5ff046decf4ef15f",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "4522a403576f2cbe",
+            "type": "leaf",
+            "state": {
+              "type": "fantasy-statblocks-creature-pane",
+              "state": {},
+              "icon": "skull",
+              "title": "Combatant"
+            }
+          }
+        ],
+        "currentTab": 5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "daily-notes:Open today's daily note": false,
+          "homepage:Open homepage": false,
+          "obsidian-5e-statblocks:Open Creature pane": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "graph:Open graph view": false,
+          "command-palette:Open command palette": false,
+          "publish:Publish changes...": false,
+          "workspaces:Manage workspace layouts": false,
+          "switcher:Open quick switcher": false,
+          "templates:Insert template": false,
+          "templater-obsidian:Templater": false,
+          "markdown-importer:Open format converter": false,
+          "audio-recorder:Start/stop recording": false
+        }
+      },
+      "active": "abd970dee139194a",
+      "mtime": "2025-02-07T13:00:52-08:00"
+    },
+    "Session": {
+      "main": {
+        "id": "5324373015726ba8",
+        "type": "split",
+        "children": [
+          {
+            "id": "4509724f8bf84da7",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f9eeb95e6d599d17",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Home Page - Session.md",
+                    "mode": "preview",
+                    "source": true
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "Home Page - Session"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "528b6168114e5b05",
+        "type": "mobile-drawer",
+        "children": [
+          {
+            "id": "655651b8cab93c2e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2af1973bfd7f8569",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "cf444a76b960302b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4b920bb02b001509",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "6ac8ba5a13f080dd",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ],
+        "currentTab": 0
+      },
+      "right": {
+        "id": "923f50b84e606e62",
+        "type": "mobile-drawer",
+        "children": [
+          {
+            "id": "94344e6b499f56b7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Session Planning/Shattered Archipelago - 25.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "5ccd604a509d04b3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Home Page - Session Prep.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "da12acb0cd6f2c5d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Session Planning/Shattered Archipelago - 25.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "4f42527636ccaa3c",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Session Planning/Shattered Archipelago - 25.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties"
+            }
+          },
+          {
+            "id": "67d0503de8c789fb",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
+          },
+          {
+            "id": "5ff046decf4ef15f",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "4522a403576f2cbe",
+            "type": "leaf",
+            "state": {
+              "type": "fantasy-statblocks-creature-pane",
+              "state": {},
+              "icon": "skull",
+              "title": "Combatant"
+            }
+          }
+        ],
+        "currentTab": 4,
+        "pinned": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "homepage:Open homepage": false,
+          "obsidian-5e-statblocks:Open Creature pane": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "omnisearch:Omnisearch": false,
+          "graph:Open graph view": false,
+          "command-palette:Open command palette": false,
+          "publish:Publish changes...": false,
+          "workspaces:Manage workspace layouts": false,
+          "switcher:Open quick switcher": false,
+          "templates:Insert template": false,
+          "dbfolder:Create a new database table": false,
+          "templater-obsidian:Templater": false,
+          "markdown-importer:Open format converter": false,
+          "obsidian42-brat:BRAT": false,
+          "audio-recorder:Start/stop recording": false,
+          "canvas:Create new canvas": false,
+          "daily-notes:Open today's daily note": false
+        }
+      },
+      "active": "f9eeb95e6d599d17",
+      "mtime": "2025-01-21T12:17:03-08:00"
+    }
+  },
+  "active": "Prepping"
+}

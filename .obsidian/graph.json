@@ -1,0 +1,79 @@
+{
+  "collapse-filter": true,
+  "search": "-path:\"D&D Sources\" -path:\"x_Website\" -file:\"Ship's Log\"",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "tag:#PC",
+      "color": {
+        "a": 1,
+        "rgb": 9125375
+      }
+    },
+    {
+      "query": "tag:#NPC",
+      "color": {
+        "a": 1,
+        "rgb": 16755457
+      }
+    },
+    {
+      "query": "tag:#Island",
+      "color": {
+        "a": 1,
+        "rgb": 2031360
+      }
+    },
+    {
+      "query": "tag:#Item",
+      "color": {
+        "a": 1,
+        "rgb": 116732
+      }
+    },
+    {
+      "query": "tag:#City",
+      "color": {
+        "a": 1,
+        "rgb": 11868672
+      }
+    },
+    {
+      "query": "Tag:#Spell  ",
+      "color": {
+        "a": 1,
+        "rgb": 15626654
+      }
+    },
+    {
+      "query": "tag:#Source  ",
+      "color": {
+        "a": 1,
+        "rgb": 14307584
+      }
+    },
+    {
+      "query": "tag:#Feat  ",
+      "color": {
+        "a": 1,
+        "rgb": 16710465
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": -2.3,
+  "nodeSizeMultiplier": 1.28671875,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.4801145174624852,
+  "close": false
+}
