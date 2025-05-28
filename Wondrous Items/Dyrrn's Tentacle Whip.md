@@ -12,7 +12,9 @@ type: Weapon
 type_details: Whip
 price: 17000
 ---
+
 # Dyrrn's Tentacle Whip
+
 >[!very-rare-weapon-callout] `=this.file.name`
 >*Weapon (Whip), Very Rare (Requires Attunement)*
 >
@@ -20,7 +22,7 @@ price: 17000
 >
 >You gain a +2 bonus to attack and damage rolls made with this magic whip, but attack rolls made against aberrations with this weapon have disadvantage. A creature hit by this weapon takes an extra 1d6 psychic damage. When you roll a 20 on the d20 for an attack roll with this weapon, the target is stunned until the end of its next turn.
 >
->As a bonus action, you can sheathe the whip by causing it to retract into your arm, or draw the whip out of  
+>As a bonus action, you can sheathe the whip by causing it to retract into your arm, or draw the whip out of
 >your arm again.
 >
 >***Symbiotic Nature.*** The whip can't be removed from you while you're attuned to it, and you can't voluntarily end your attunement to it. If you're targeted by a spell that ends a curse, your attunement to the whip ends, and it detaches from you.

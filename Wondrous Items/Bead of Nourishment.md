@@ -9,10 +9,12 @@ classes:
 icon: LiComponent
 rarity: Common
 type_details: None
-sources: 
+sources:
   - "[[Dungeon Master's Guide 2024]]"
 ---
+
 # Bead of Nourishment
+
 >[!common-wondrous-item-callout] Bead of Nourishment
 >_Wondrous Item, Common_
 >

@@ -9,10 +9,12 @@ classes:
 icon: LiComponent
 rarity: Uncommon
 type_details: None
-sources: 
+sources:
   - "[[Dungeon Master's Guide 2024]]"
 ---
+
 # Alchemy Jug
+
 >[!uncommon-wondrous-item-callout] Alchemy Jug
 >![[alchemy-jug.jpeg]]
 >
@@ -25,7 +27,8 @@ sources:
 >
 >Once the jug starts producing a liquid, it can't produce a different one, or more of one that has reached its maximum, until the next dawn.
 >
->## Alchemy Jug Liquids
+>#### Alchemy Jug Liquids
+>
 >|Liquid|Max. Amount|
 >|---|---|
 >|Acid|8 ounces|
@@ -38,6 +41,5 @@ sources:
 >|Water, fresh|8 gallons|
 >|Water, salt|12 gallons|
 >|Wine|1 gallon|
-
 
 ![[dungeon-masters-guide-2024-banner.avif|banner]]

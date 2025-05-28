@@ -25,7 +25,6 @@
 	- Once per long rest, if you hit 0 hp, you may instead drop to 1 hp
 	- Adv on saving throws against being charmed or frightened by plants
 	- Disadvantage on any checks to be restrained against plants
-	- Every dawn wisdom saving throw. On a failure, you begin to hallucinate for the day
-- Initiated into the Verdant Hand
+	- Every dawn wisdom saving throw. On a failure, you begin to hallucinate for the day- Initiated into the Verdant Hand
 	- Goal of the verdant hand is to locate the heartwood abyss. The location for the heartwood
 	- Goal is to release the heartwood
