@@ -2,13 +2,14 @@
 tags:
   - Item
 attunement: false
-classes: 
+classes:
 icon: RaPlainDagger
-price: 500
+price:
 rarity: Uncommon
 sources:
   - "[[Homebrew]]"
 type: Weapon
+type_details: Dagger
 ---
 
 # Dagger of Poison

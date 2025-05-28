@@ -7,6 +7,7 @@ rarity: Rare
 sources:
   - "[[Homebrew]]"
 type: Wondrous Item
+type_details: Tattoo
 ---
 
 # Kraken's Maw Tattoo

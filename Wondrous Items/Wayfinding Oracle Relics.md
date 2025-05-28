@@ -8,6 +8,7 @@ sources:
 type: Wondrous Item
 aliases:
   - Wayfinding Oracle Sticks
+attunement: false
 ---
 
 # Wayfinding Oracle Relics

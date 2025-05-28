@@ -6,6 +6,8 @@ rarity: Rare
 sources:
   - "[[Homebrew]]"
 type: Wondrous Item
+attunement: false
+type_details: Tattoo
 ---
 
 # Darksight Tattoo

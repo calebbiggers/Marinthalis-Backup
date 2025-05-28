@@ -6,6 +6,7 @@ rarity: Common
 sources:
   - "[[Homebrew]]"
 type: Ring
+attunement: false
 ---
 
 # Ring of Prestidigitation

@@ -7,6 +7,7 @@ sources:
   - "[[Homebrew]]"
 type: Weapon
 type_details: Rapier
+attunement: false
 ---
 
 # Chain Sword

@@ -6,6 +6,9 @@ rarity: Uncommon
 sources:
   - "[[Homebrew]]"
 subtype: Scale Mail
+attunement: false
+type_details: Scale Mail
+type: Armor
 ---
 # Mariner's Scale Mail
 

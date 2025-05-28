@@ -7,6 +7,7 @@ rarity: Uncommon
 sources:
   - "[[Homebrew]]"
 type: Wondrous Item
+type_details: Tattoo
 ---
 
 # Lucky Sparrow Tattoo

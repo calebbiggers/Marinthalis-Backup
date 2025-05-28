@@ -6,6 +6,7 @@ rarity: Rare
 sources:
   - "[[Homebrew]]"
 type: Wondrous Item
+attunement: false
 ---
 
 # Toothy - The Trusty Mimic

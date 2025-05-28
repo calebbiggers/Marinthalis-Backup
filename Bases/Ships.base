@@ -1,0 +1,18 @@
+views:
+  - type: table
+    name: Ships
+    filters:
+      and:
+        - contains(property.tags, "Ship")
+    order:
+      - file.name
+      - aliases
+      - groups
+      - owners
+      - captain
+      - type
+    columnSize:
+      property.aliases: 327
+    sort:
+      - column: property.aliases
+        direction: DESC

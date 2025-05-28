@@ -1,10 +1,11 @@
 ---
 tags:
-  - Vessel
+  - Ship
 aliases: []
 icon: LiSailboat
-groups: 
-type: 
+groups:
+  - "[[The Strikers]]"
+type:
 owners:
 ---
 

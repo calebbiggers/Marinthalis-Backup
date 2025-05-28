@@ -3,10 +3,11 @@ tags:
   - Ship
 aliases: []
 icon: LiSailboat
-groups: 
-type: 
+groups:
+type: Galleon
 owners:
   - "[[Ranbur the Red]]"
+captain: "[[Ranbur the Red]]"
 ---
 
 # Giant’s Wrath

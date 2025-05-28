@@ -7,6 +7,7 @@ icon: LiSailboat
 owners:
   - "[[Grommet Payne]]"
 type: Galleon
+captain: "[[Grommet Payne]]"
 ---
 
 # The Rum Veridian

@@ -36,6 +36,7 @@
     "skills": "multitext",
     "ability_scores": "multitext",
     "tools": "multitext",
-    "creature_type": "multitext"
+    "creature_type": "multitext",
+    "price": "number"
   }
 }

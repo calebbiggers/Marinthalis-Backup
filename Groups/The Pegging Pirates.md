@@ -1,7 +1,7 @@
 ---
 tags:
   - Group
-aliases: 
+aliases: []
 alignment: 
 hq: 
 icon: LiUsers

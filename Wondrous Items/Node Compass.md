@@ -9,6 +9,7 @@ rarity: Very Rare
 sources:
   - "[[Homebrew]]"
 type: Wondrous Item
+attunement: false
 ---
 
 # Node Compass

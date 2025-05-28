@@ -2,12 +2,12 @@
 tags:
   - Item
 type: Wondrous Item
-attunement: False
+attunement: false
 attunement_details: None
 classes:
 icon: LiComponent
 rarity: Varies
-type_details: +1
+type_details:
 sources:
   - "[[Dungeon Master's Guide 2024]]"
 ---

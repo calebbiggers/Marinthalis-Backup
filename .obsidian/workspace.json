@@ -22,8 +22,23 @@
               "icon": "lucide-file",
               "title": "Home Page - Prepping"
             }
+          },
+          {
+            "id": "545894b4090f99fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wondrous Items/Abracadabrus.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Abracadabrus"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,10 +198,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Home Page - Prepping.md"
+                "file": "Wondrous Items/Abracadabrus.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Home Page - Prepping"
+              "title": "File properties for Abracadabrus"
             }
           },
           {
@@ -204,7 +219,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 414.5
+    "width": 361.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -223,39 +238,39 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "02406f88524c597c",
   "lastOpenFiles": [
     "Home Page - Prepping.md",
-    "Dungeon Master's Guide 2024/Wondrous Items/Investiture of Ice.md",
-    "Dungeon Master's Guide 2024/Wondrous Items/Investiture of Stone.md",
-    "Dungeon Master's Guide 2024/Wondrous Items/Investiture of Wind.md",
-    "Dungeon Master's Guide 2024/Wondrous Items/Investiture of Flame.md",
+    "Bases/Items.base",
+    "Wondrous Items/Adamantine Armor.md",
+    "Wondrous Items/Instrument of the Bards.md",
+    "Wondrous Items/Wraps of Unarmed Power.md",
+    "Settlements/Seaglass.md",
+    "Islands/Siroccia.md",
+    "Wondrous Items/Vargen’s Greataxe.md",
+    "Wondrous Items/Dagger of Poison.md",
+    "Bases/Ships.base",
+    "Vessels & Vehicles/The Sea Wraith.md",
     "Bases/Spells.base",
+    "Vessels & Vehicles/The Rum Veridian.md",
+    "Vessels & Vehicles/The Peggy-Lou.md",
+    "Vessels & Vehicles/The Iron Tide.md",
+    "Vessels & Vehicles/Giant’s Wrath.md",
+    "Groups/The Pegging Pirates.md",
+    "Ship's Log.md",
+    "Wondrous Items/Investiture of Ice.md",
+    "Wondrous Items/Investiture of Stone.md",
+    "Wondrous Items/Investiture of Wind.md",
+    "Wondrous Items/Investiture of Flame.md",
     "Spells/Word of Radiance.md",
     "Spells/Abi-Dalzim's Horrid Wilting.md",
-    "Bases/Magic Items.base",
-    "Dungeon Master's Guide 2024/Wondrous Items/Dragonlance.md",
+    "Wondrous Items/Dragonlance.md",
     "Bases",
     "Untitled.md",
     "Character Options/Ancestries/Elf.md",
     "z_Assets/Images/03-51-elf-center.webp",
     "z_Assets/Images/03-50-elf-left.webp",
     "_Sources/Xanathar's Guide to Everything.md",
-    "_Sources/Wayfinder's Guide To Eberron.md",
-    "_Sources/Waterdeep - Dungeon of the Mad Mage.md",
-    "_Sources/Waterdeep - Dragon Heist.md",
-    "_Sources/Volo's Guide to Monsters.md",
-    "_Sources/Van Richten's Guide to Ravenloft.md",
-    "_Sources/Tyranny of Dragons.md",
-    "_Sources/Unearthed Arcana 7 - Modern Magic.md",
-    "_Sources/Tomb of Annihilation.md",
-    "_Sources/Think DM.md",
-    "_Sources/The Wild Beyond the Witchlight.md",
-    "_Sources/The Rise of Tiamat.md",
-    "_Sources/The Griffon's Saddlebag.md",
-    "_Sources/The Book of Many Things.md",
-    "_Sources/Tasha's Cauldron of Everything.md",
-    "_Sources/Tales from the Yawning Portal.md",
     "Character Options",
     "Spells",
     "Character Options/Ancestries",
@@ -267,7 +282,6 @@
     "z_Scripts/python/__pycache__/dnd_content_loader.cpython-312.pyc",
     "z_Scripts/__pycache__/dnd_content_loader.cpython-312.pyc",
     "z_Scripts/__pycache__/dnd_content_loader.cpython-37.pyc",
-    "z_Assets/Statblocks/greater thunder elemental.monster",
     "z_Assets/Images/Isleguard-Prison-Isometric-Sketch.png",
     "z_Assets/Documents/Seaglass-Prison-Blueprint-Document.jpg",
     "z_Assets/Documents/Seaglass Prison Blueprint Document Printable.jpg"

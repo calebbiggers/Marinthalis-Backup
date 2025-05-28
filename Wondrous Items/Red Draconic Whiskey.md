@@ -6,6 +6,7 @@ rarity: Common
 sources:
   - "[[Homebrew]]"
 type: Item
+attunement: false
 ---
 
 # Red Draconic Whiskey

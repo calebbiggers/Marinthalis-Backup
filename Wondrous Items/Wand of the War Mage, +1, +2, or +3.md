@@ -2,13 +2,13 @@
 tags:
   - Item
 type: Wand
-attunement: True
+attunement: true
 attunement_details: a Spellcaster
 classes:
 icon: LiWand
 rarity: Varies
-type_details: +1
-sources: 
+type_details: None
+sources:
   - "[[Dungeon Master's Guide 2024]]"
 ---
 # Wand of the War Mage, +1, +2, or +3

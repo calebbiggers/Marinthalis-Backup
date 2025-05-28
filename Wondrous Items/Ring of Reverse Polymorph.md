@@ -6,6 +6,7 @@ rarity: Rare
 icon: RaDiamondRingLine
 sources:
   - "[[Homebrew]]"
+attunement: false
 ---
 
 # Ring of Reverse Polymorph

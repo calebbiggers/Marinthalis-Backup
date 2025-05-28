@@ -6,6 +6,7 @@ rarity: Rare
 sources:
   - "[[Homebrew]]"
 type: Ring
+attunement: false
 ---
 
 # Ring of Shifting Fates

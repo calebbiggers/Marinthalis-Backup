@@ -1,0 +1,28 @@
+formulas: {}
+display: {}
+views:
+  - type: table
+    name: Items
+    filters:
+      and:
+        - contains(property.tags, "Item")
+        - contains(property.sources, "[[Dungeon Master's Guide 2024]]")
+    order:
+      - file.name
+      - rarity
+      - type
+      - type_details
+      - price
+      - attunement
+      - attunement_details
+      - sources
+    sort:
+      - column: file.name
+        direction: ASC
+      - column: property.sources
+        direction: DESC
+    columnSize:
+      property.rarity: 107
+      property.type_details: 247
+      property.attunement_details: 155
+      property.sources: 211

@@ -6,6 +6,7 @@ rarity: Common
 icon: LiFlaskRound
 sources:
   - "[[Homebrew]]"
+attunement: false
 ---
 
 ![[Homebrew-Banner.jpg|banner]]

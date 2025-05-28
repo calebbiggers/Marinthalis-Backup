@@ -6,6 +6,7 @@ rarity: Uncommon
 sources:
   - "[[Homebrew]]"
 type: Weapon
+attunement: false
 ---
 
 # Vargen’s Greataxe

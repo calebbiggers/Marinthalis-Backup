@@ -7,6 +7,7 @@ icon: LiSailboat
 owners:
   - "[[Yaw'goo Bhagar]]"
 type: Sloop
+captain: "[[Yaw'goo Bhagar]]"
 ---
 
 # The Iron Tide

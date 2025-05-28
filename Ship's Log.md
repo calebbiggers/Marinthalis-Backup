@@ -10,6 +10,16 @@ icon: LiGlobe
 
 ## Session 32:
 
+- exploring the city
+	- Winery
+	- Market
+	- Gallows
+	- Prison Fortress
+- Teegs visited CCC
+- visited winery
+- Teegs scouted from the air
+- Drinking competition with dwarf at winery
+
 ## Session 31:
 
 - roc encounter

@@ -7,6 +7,7 @@ rarity: Uncommon
 sources:
   - "[[Homebrew]]"
 type: Potion
+attunement: false
 ---
 
 # Potion of Sleep

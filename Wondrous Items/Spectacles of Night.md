@@ -6,6 +6,7 @@ rarity: Uncommon
 sources:
   - "[[Homebrew]]"
 type: Wondrous Item
+attunement: false
 ---
 
 # Spectacles of Night

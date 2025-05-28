@@ -6,6 +6,7 @@ rarity: Common
 sources:
   - "[[Homebrew]]"
 type: Armor
+attunement: false
 ---
 
 # Vargen’s Spiked Armor
