@@ -1,14 +1,16 @@
 ---
-tags: [Item]
-attunement: True
-attunement_details: 
-classes: 
+tags:
+  - Item
+attunement: true
+attunement_details:
+classes:
 icon: LiSwords
 rarity: Very Rare
 sources:
   - "[[Eberron - Rising from the Last War]]"
 type: Weapon
 type_details: Whip
+price: 17000
 ---
 # Dyrrn's Tentacle Whip
 >[!very-rare-weapon-callout] `=this.file.name`

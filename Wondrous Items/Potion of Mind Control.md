@@ -9,8 +9,8 @@ sources:
   - "[[Tales from the Yawning Portal]]"
 type: Potion
 price: 6000
-price: 2500
-price: 1600
+price: 6000
+price: 6000
 type_details: 
 ---
 # Potion of Mind Control

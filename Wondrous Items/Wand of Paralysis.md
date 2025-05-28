@@ -2,6 +2,7 @@
 tags:
   - Item
 type: Wand
+price: 10500
 attunement: True
 attunement_details: a Spellcaster
 classes:

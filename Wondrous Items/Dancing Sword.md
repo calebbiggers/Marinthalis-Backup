@@ -8,6 +8,7 @@ rarity: Very Rare
 sources:
   - "[[Dungeon Master's Guide 2024]]"
 type: Weapon
+price: 5000
 type_details: Greatsword, Longsword, Rapier, Scimitar, or Shortsword
 ---
 # Dancing Sword

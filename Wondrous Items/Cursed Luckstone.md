@@ -6,6 +6,7 @@ rarity: Uncommon
 sources:
   - "[[Ghosts of Saltmarsh]]"
 type: Wondrous Item
+price: 250
 ---
 # Cursed Luckstone
 ![[Ghosts-Of-Saltmarsh-Banner.jpg|banner]]

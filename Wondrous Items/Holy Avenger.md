@@ -2,6 +2,7 @@
 tags:
   - Item
 type: Weapon
+price: 165000
 attunement: True
 attunement_details: a Paladin
 classes:

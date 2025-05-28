@@ -2,6 +2,7 @@
 tags:
   - Item
 type: Wondrous Item
+price: 34000
 attunement: True
 attunement_details: a Sorcerer, Warlock, or Wizard
 classes:

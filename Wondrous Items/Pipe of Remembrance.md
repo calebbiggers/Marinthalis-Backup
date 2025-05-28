@@ -1,5 +1,6 @@
 ---
-tags: [Item]
+tags:
+  - Item
 attunement: False
 classes: 
 icon: LiComponent
@@ -10,7 +11,9 @@ sources:
 type: Wondrous Item
 type_details: 
 ---
+
 # Pipe of Remembrance
+
 >[!common-wondrous-item-callout] Pipe Of Remembrance
 >![[pipe-of-rememberance.jpg]]
 >

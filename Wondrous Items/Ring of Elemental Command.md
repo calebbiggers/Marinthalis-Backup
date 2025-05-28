@@ -2,16 +2,19 @@
 tags:
   - Item
 type: Ring
+price: 180000
 attunement: True
 attunement_details: None
 classes:
 icon: LiComponent
 rarity: Legendary
 type_details: None
-sources: 
+sources:
   - "[[Dungeon Master's Guide 2024]]"
 ---
+
 # Ring of Elemental Command
+
 >[!legendary-ring-callout] Ring of Elemental Command
 >_Ring, Legendary (Requires Attunement)_
 >
@@ -41,7 +44,5 @@ sources:
 >|Earth|[[Earthquake]] (5 charges), [[Stone Shape]] (2 charges), [[Stoneskin]] (3 charges), [[Wall of Stone]] (3 charges)|
 >|Fire|[[Burning Hands]] (1 charge), [[Fireball]] (2 charges), [[Fire Storm]] (4 charges), [[Wall of Fire]] (3 charges)|
 >|Water|[[Create or Destroy Water]] (1 charge), [[Ice Storm]] (2 charges), [[Tsunami]] (5 charges), [[Wall of Ice]] (3 charges), [[Water Walk]] (2 charges)|
->
-
 
 ![[dungeon-masters-guide-2024-banner.avif|banner]]

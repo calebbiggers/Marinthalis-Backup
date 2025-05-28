@@ -3,7 +3,7 @@ tags: [Item]
 attunement: false
 classes: 
 icon: LiComponent
-price: 4200
+price: 420
 rarity: Rare
 sources:
   - "[[Dungeon Master's Guide]]"

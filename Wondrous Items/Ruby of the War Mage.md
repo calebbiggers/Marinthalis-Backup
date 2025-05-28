@@ -2,6 +2,7 @@
 tags:
   - Item
 type: Wondrous Item
+price: 100
 attunement: True
 attunement_details: a Spellcaster
 classes:

@@ -2,6 +2,7 @@
 tags:
   - Item
 type: Ring
+price: 1500
 attunement: false
 attunement_details: None
 classes: 

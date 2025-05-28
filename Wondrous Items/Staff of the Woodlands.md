@@ -2,6 +2,7 @@
 tags:
   - Item
 type: Staff
+price: 30800
 attunement: True
 attunement_details: a Druid
 classes:

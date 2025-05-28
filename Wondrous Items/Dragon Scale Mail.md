@@ -9,6 +9,7 @@ rarity: Very Rare
 sources:
   - "[[Dungeon Master's Guide 2024]]"
 type: Armor
+price: 4000
 type_details: Scale Mail
 ---
 # Dragon Scale Mail

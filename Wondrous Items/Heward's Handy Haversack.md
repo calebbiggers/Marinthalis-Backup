@@ -2,16 +2,19 @@
 tags:
   - Item
 type: Wondrous Item
-attunement: False
+attunement: false
 attunement_details: None
 classes:
 icon: LiComponent
 rarity: Rare
 type_details: None
-sources: 
+sources:
   - "[[Dungeon Master's Guide 2024]]"
+price: 1050
 ---
+
 # Heward's Handy Haversack
+
 >[!rare-wondrous-item-callout] Heward's Handy Haversack
 >![[handy-haversack.jpeg]]
 >

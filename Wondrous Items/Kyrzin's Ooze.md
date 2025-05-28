@@ -1,16 +1,20 @@
 ---
-tags: [Item]
-attunement: True
-attunement_details: 
-classes: 
+tags:
+  - Item
+attunement: true
+attunement_details:
+classes:
 icon: LiComponent
 rarity: Very Rare
 sources:
   - "[[Eberron - Rising from the Last War]]"
 type: Wondrous Item
-type_details: 
+type_details:
+price: 21000
 ---
+
 # Kyrzin's Ooze
+
 >[!very-rare-wondrous-item-callout] `=this.file.name`
 >*Wondrous Item, Very Rare (Requires Attunement)*
 >

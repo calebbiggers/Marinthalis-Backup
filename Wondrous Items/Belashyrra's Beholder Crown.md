@@ -1,16 +1,20 @@
 ---
-tags: [Item]
-attunement: True
-attunement_details: 
-classes: 
+tags:
+  - Item
+attunement: true
+attunement_details:
+classes:
 icon: LiComponent
 rarity: Legendary
 sources:
   - "[[Eberron - Rising from the Last War]]"
 type: Wondrous Item
-type_details: 
+type_details:
+price: 45900
 ---
+
 # Belashyrra's Beholder Crown
+
 >[!legendary-wondrous-item-callout] `=this.file.name`
 >*Wondrous Item, Legendary (Requires Attunement)*
 >

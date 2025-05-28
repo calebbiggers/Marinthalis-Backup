@@ -9,6 +9,7 @@ rarity: Very Rare
 sources:
   - "[[Dungeon Master's Guide 2024]]"
 type: Armor
+price: 9000
 type_details: Half Plate or Plate Armor
 ---
 # Dwarven Plate

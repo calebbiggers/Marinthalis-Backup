@@ -2,6 +2,7 @@
 tags:
   - Item
 type: Staff
+price: 9100
 attunement: True
 attunement_details: a Bard, Cleric, or Druid
 classes:

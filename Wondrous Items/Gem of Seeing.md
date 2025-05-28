@@ -2,6 +2,7 @@
 tags:
   - Item
 type: Wondrous Item
+price: 22400
 attunement: True
 attunement_details: None
 classes:

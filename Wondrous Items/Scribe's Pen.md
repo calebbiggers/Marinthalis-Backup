@@ -1,16 +1,20 @@
 ---
-tags: [Item]
-attunement: True
+tags:
+  - Item
+attunement: true
 attunement_details: By A Creature With The Mark Of Scribing
-classes: 
+classes:
 icon: LiComponent
 rarity: Common
 sources:
   - "[[Eberron - Rising from the Last War]]"
 type: Wondrous Item
-type_details: 
+type_details:
+price: 60
 ---
+
 # Scribe's Pen
+
 >[!common-wondrous-item-callout] `=this.file.name`
 >*Wondrous Item, Common (Requires Attunement By A Creature With The Mark Of Scribing)*
 >

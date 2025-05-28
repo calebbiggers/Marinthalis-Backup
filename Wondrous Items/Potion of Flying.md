@@ -2,6 +2,7 @@
 tags:
   - Item
 type: Potion
+price: 2500
 attunement: False
 attunement_details: None
 classes:

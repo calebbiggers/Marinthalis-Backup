@@ -2,6 +2,7 @@
 tags:
   - Item
 type: Wondrous Item
+price: 75
 attunement: True
 attunement_details: a Wizard
 classes:

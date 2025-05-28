@@ -1,15 +1,19 @@
 ---
-tags: [Item]
-attunement: False
-classes: 
+tags:
+  - Item
+attunement: false
+classes:
 icon: LiComponent
 rarity: Common
 sources:
   - "[[Eberron - Rising from the Last War]]"
 type: Wondrous Item
-type_details: 
+type_details:
+price: 25
 ---
+
 # Feather Token
+
 >[!common-wondrous-item-callout] `=this.file.name`
 >*Wondrous Item, Common*
 >

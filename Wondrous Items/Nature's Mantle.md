@@ -2,6 +2,7 @@
 tags:
   - Item
 type: Wondrous Item
+price: 400
 attunement: True
 attunement_details: a Druid or Ranger
 classes:

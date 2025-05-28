@@ -8,16 +8,16 @@ rarity: Rarity Varies
 sources:
   - "[[Out of the Abyss]]"
 type: Wondrous Item
-price: 70200
-price: 45900
-price: 31500
 price: 20000
-price: 15000
-price: 8000
-price: 4000
-price: 1500
-price: 350
-price: 150
+price: 20000
+price: 20000
+price: 20000
+price: 20000
+price: 20000
+price: 20000
+price: 20000
+price: 20000
+price: 20000
 type_details: 
 ---
 # Spell Gem

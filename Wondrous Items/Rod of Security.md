@@ -2,6 +2,7 @@
 tags:
   - Item
 type: Rod
+price: 90000
 attunement: False
 attunement_details: None
 classes:

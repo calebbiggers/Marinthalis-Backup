@@ -8,6 +8,7 @@ rarity: Very Rare
 sources:
   - "[[Dungeon Master's Guide 2024]]"
 type: Wondrous Item
+price: 8400
 type_details: None
 ---
 # Candle of Invocation

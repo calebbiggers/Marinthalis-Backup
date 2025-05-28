@@ -10,6 +10,7 @@ rarity: Very Rare
 sources:
   - "[[Dungeon Master's Guide 2024]]"
 type: Wondrous Item
+price: 32000
 type_details: None
 ---
 # Cauldron of Rebirth

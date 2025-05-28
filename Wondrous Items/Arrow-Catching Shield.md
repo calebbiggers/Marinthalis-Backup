@@ -2,6 +2,7 @@
 tags:
   - Item
 type: Armor
+price: 4200
 attunement: True
 attunement_details: None
 classes:

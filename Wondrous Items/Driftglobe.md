@@ -8,6 +8,7 @@ rarity: Uncommon
 sources:
   - "[[Dungeon Master's Guide 2024]]"
 type: Wondrous Item
+price: 375
 type_details: None
 weight: 1
 ---

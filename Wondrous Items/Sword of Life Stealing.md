@@ -2,6 +2,7 @@
 tags:
   - Item
 type: Weapon
+price: 700
 attunement: True
 attunement_details: None
 classes:

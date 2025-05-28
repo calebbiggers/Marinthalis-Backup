@@ -2,6 +2,7 @@
 tags:
   - Item
 type: Wand
+price: 65
 attunement: False
 attunement_details: None
 classes:

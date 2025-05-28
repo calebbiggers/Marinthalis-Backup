@@ -8,6 +8,7 @@ rarity: Very Rare
 sources:
   - "[[Dungeon Master's Guide 2024]]"
 type: Weapon
+price: 18000
 type_details: Warhammer
 ---
 # Dwarven Thrower

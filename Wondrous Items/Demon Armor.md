@@ -9,6 +9,7 @@ rarity: Very Rare
 sources:
   - "[[Dungeon Master's Guide 2024]]"
 type: Armor
+price: 7500
 type_details: Any Light, Medium, or Heavy
 ---
 # Demon Armor

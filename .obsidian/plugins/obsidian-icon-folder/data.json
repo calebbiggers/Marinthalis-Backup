@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "RaHeartsCard",
-      "LiShield",
-      "LiSwords",
+      "RaBall",
+      "RaCrystalWand",
+      "LiFlaskRound",
       "LiComponent",
-      "LiDatabase"
+      "RaVest"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -911,32 +911,6 @@
     "iconName": "LiPalmtree"
   },
   "Islands/Isaola.md": "LiPalmtree",
-  "D&D Sources/Xanathar's Guide to Everything/Wondrous Items/Wand of Scowls.md": "LiWand",
-  "D&D Sources/Xanathar's Guide to Everything/Wondrous Items/Wand of Smiles.md": "LiWand",
-  "D&D Sources/Xanathar's Guide to Everything/Wondrous Items/Unbreakable Arrow.md": "LiSwords",
-  "D&D Sources/The Griffon's Saddlebag/Wondrous Items/Swashbuckler's Slippery Saber.md": "RaPlainDagger",
-  "D&D Sources/The Griffon's Saddlebag/Wondrous Items/Ring of Anchoring.md": {
-    "iconName": "LiTorus"
-  },
-  "D&D Sources/The Griffon's Saddlebag/Wondrous Items/Potion of Nature's Growth.md": "LiFlaskRound",
-  "D&D Sources/The Griffon's Saddlebag/Wondrous Items/Potion of Dragon's Breath.md": "LiFlaskRound",
-  "D&D Sources/The Griffon's Saddlebag/Wondrous Items/Obsidian Star.md": "LiSwords",
-  "D&D Sources/The Griffon's Saddlebag/Wondrous Items/Focus Circlet.md": "LiComponent",
-  "D&D Sources/The Griffon's Saddlebag/Wondrous Items/Field Healer's Pauldron.md": "LiComponent",
-  "D&D Sources/The Griffon's Saddlebag/Wondrous Items/Essence of Rage.md": "LiFlaskRound",
-  "D&D Sources/The Griffon's Saddlebag/Wondrous Items/Devil's Detail Eyepatch.md": "LiComponent",
-  "D&D Sources/The Griffon's Saddlebag/Wondrous Items/Bottled Talent.md": "LiFlaskRound",
-  "D&D Sources/The Griffon's Saddlebag/Wondrous Items/Alchemimic.md": "LiComponent",
-  "D&D Sources/Tasha's Cauldron of Everything/Wondrous Items/Amulet of The Devout.md": "RaGemPendant",
-  "D&D Sources/Strixhaven - A Curriculum of Chaos/Wondrous Items/Witherbloom Primer.md": "LiComponent",
-  "D&D Sources/Strixhaven - A Curriculum of Chaos/Wondrous Items/Strixhaven Pennant.md": "LiComponent",
-  "D&D Sources/Strixhaven - A Curriculum of Chaos/Wondrous Items/Silverquill Primer.md": "LiComponent",
-  "D&D Sources/Strixhaven - A Curriculum of Chaos/Wondrous Items/Quandrix Primer.md": "LiComponent",
-  "D&D Sources/Strixhaven - A Curriculum of Chaos/Wondrous Items/Prismari Primer.md": "LiComponent",
-  "D&D Sources/Strixhaven - A Curriculum of Chaos/Wondrous Items/Murgaxor's Orb.md": "LiComponent",
-  "D&D Sources/Strixhaven - A Curriculum of Chaos/Wondrous Items/Masque Charm.md": "LiComponent",
-  "D&D Sources/Strixhaven - A Curriculum of Chaos/Wondrous Items/Lorehold Primer.md": "LiComponent",
-  "D&D Sources/Strixhaven - A Curriculum of Chaos/Wondrous Items/Cuddly Strixhaven Mascot.md": "LiComponent",
   "D&D Sources/Sources/Xanathar's Guide to Everything.md": "LiBookMarked",
   "D&D Sources/Sources/Wayfinder's Guide To Eberron.md": "LiBookMarked",
   "D&D Sources/Sources/Volo's Guide to Monsters.md": "LiBookMarked",
@@ -993,91 +967,6 @@
   "D&D Sources/Sources/Bigby Presents - Glory of the Giants.md": "LiBookMarked",
   "D&D Sources/Sources/Baldur's Gate - Descent into Avernus.md": "LiBookMarked",
   "D&D Sources/Sources/Acquisitions Incorporated.md": "LiBookMarked",
-  "D&D Sources/Guildmaster's Guide to Ravnica/Wondrous Items/Voyager Staff.md": "RaCrystalWand",
-  "D&D Sources/Guildmaster's Guide to Ravnica/Wondrous Items/Sword of The Paruns.md": "LiSwords",
-  "D&D Sources/Guildmaster's Guide to Ravnica/Wondrous Items/Sunforger.md": "RaLargeHammer",
-  "D&D Sources/Guildmaster's Guide to Ravnica/Wondrous Items/Spies' Murmur.md": "LiComponent",
-  "D&D Sources/Guildmaster's Guide to Ravnica/Wondrous Items/Skyblinder Staff.md": "RaCrystalWand",
-  "D&D Sources/Guildmaster's Guide to Ravnica/Wondrous Items/Rakdos Riteknife.md": "PaPlainDagger",
-  "D&D Sources/Guildmaster's Guide to Ravnica/Wondrous Items/Pyroconverger.md": "LiComponent",
-  "D&D Sources/Guildmaster's Guide to Ravnica/Wondrous Items/Peregrine Mask.md": "LiComponent",
-  "D&D Sources/Guildmaster's Guide to Ravnica/Wondrous Items/Pariah's Shield.md": "LiShield",
-  "D&D Sources/Guildmaster's Guide to Ravnica/Wondrous Items/Moodmark Paint.md": "LiComponent",
-  "D&D Sources/Guildmaster's Guide to Ravnica/Wondrous Items/Mizzium Mortar.md": "LiComponent",
-  "D&D Sources/Guildmaster's Guide to Ravnica/Wondrous Items/Mizzium Armor.md": {
-    "iconName": "RaVest"
-  },
-  "D&D Sources/Guildmaster's Guide to Ravnica/Wondrous Items/Mizzium Apparatus.md": "LiComponent",
-  "D&D Sources/Guildmaster's Guide to Ravnica/Wondrous Items/Illusionist's Bracers.md": "LiComponent",
-  "D&D Sources/Guildmaster's Guide to Ravnica/Wondrous Items/Guild Signet.md": {
-    "iconName": "LiTorus"
-  },
-  "D&D Sources/Guildmaster's Guide to Ravnica/Wondrous Items/Guild Keyrune.md": "RaKey",
-  "D&D Sources/Ghosts of Saltmarsh/Wondrous Items/Sekolahian Worshipping Statuette.md": "LiComponent",
-  "D&D Sources/Ghosts of Saltmarsh/Wondrous Items/Pressure Capsule.md": "LiComponent",
-  "D&D Sources/Ghosts of Saltmarsh/Wondrous Items/Pipe of Remembrance.md": "LiComponent",
-  "D&D Sources/Ghosts of Saltmarsh/Wondrous Items/Luckstone.md": "LiComponent",
-  "D&D Sources/Ghosts of Saltmarsh/Wondrous Items/Helm of Underwater Action.md": "RaHelmet",
-  "D&D Sources/Ghosts of Saltmarsh/Wondrous Items/Cursed Luckstone.md": "LiComponent",
-  "D&D Sources/Ghosts of Saltmarsh/Wondrous Items/Charm of Plant Command.md": "LiComponent",
-  "D&D Sources/Explorer's Guide to Wildmount/Wondrous Items/Wreath of The Prism.md": "LiComponent",
-  "D&D Sources/Explorer's Guide to Wildmount/Wondrous Items/Will of The Talon.md": "LiSwords",
-  "D&D Sources/Explorer's Guide to Wildmount/Wondrous Items/Weapon of Certain Death.md": "LiSwords",
-  "D&D Sources/Explorer's Guide to Wildmount/Wondrous Items/Vox Seeker.md": "LiComponent",
-  "D&D Sources/Explorer's Guide to Wildmount/Wondrous Items/Verminshroud.md": "LiComponent",
-  "D&D Sources/Explorer's Guide to Wildmount/Wondrous Items/The Bloody End.md": "LiSwords",
-  "D&D Sources/Explorer's Guide to Wildmount/Wondrous Items/Stormgirdle.md": "LiComponent",
-  "D&D Sources/Explorer's Guide to Wildmount/Wondrous Items/Staff of The Ivory Claw.md": "RaCrystalWand",
-  "D&D Sources/Explorer's Guide to Wildmount/Wondrous Items/Spell Bottle.md": "LiFlaskRound",
-  "D&D Sources/Explorer's Guide to Wildmount/Wondrous Items/Staff of Dunamancy.md": "RaCrystalWand",
-  "D&D Sources/Explorer's Guide to Wildmount/Wondrous Items/Silken Spite.md": "LiSwords",
-  "D&D Sources/Explorer's Guide to Wildmount/Wondrous Items/Ruin's Wake.md": "RaSpearHead",
-  "D&D Sources/Explorer's Guide to Wildmount/Wondrous Items/Rod of Retribution.md": "LiWand2",
-  "D&D Sources/Explorer's Guide to Wildmount/Wondrous Items/Ring of Temporal Salvation.md": "LiComponent",
-  "D&D Sources/Explorer's Guide to Wildmount/Wondrous Items/Ring of Obscuring.md": "LiComponent",
-  "D&D Sources/Explorer's Guide to Wildmount/Wondrous Items/Reincarnation Dust.md": "LiComponent",
-  "D&D Sources/Explorer's Guide to Wildmount/Wondrous Items/Potion of Possibility.md": "LiFlaskRound",
-  "D&D Sources/Explorer's Guide to Wildmount/Wondrous Items/Potion of Maximum Power.md": "LiFlaskRound",
-  "D&D Sources/Explorer's Guide to Wildmount/Wondrous Items/Orb of The Veil.md": "LiComponent",
-  "D&D Sources/Explorer's Guide to Wildmount/Wondrous Items/Nightfall Pearl.md": "LiComponent",
-  "D&D Sources/Explorer's Guide to Wildmount/Wondrous Items/Needle of Mending.md": "PaPlainDagger",
-  "D&D Sources/Explorer's Guide to Wildmount/Wondrous Items/Mace of The Black Crown.md": "LiSwords",
-  "D&D Sources/Explorer's Guide to Wildmount/Wondrous Items/Luxon Beacon.md": "LiComponent",
-  "D&D Sources/Explorer's Guide to Wildmount/Wondrous Items/Last Stand Armor.md": {
-    "iconName": "RaVest"
-  },
-  "D&D Sources/Explorer's Guide to Wildmount/Wondrous Items/Lash of Shadows.md": "LiSwords",
-  "D&D Sources/Explorer's Guide to Wildmount/Wondrous Items/Hunter's Coat.md": {
-    "iconName": "RaVest"
-  },
-  "D&D Sources/Explorer's Guide to Wildmount/Wondrous Items/Hide of The Feral Guardian.md": {
-    "iconName": "RaVest"
-  },
-  "D&D Sources/Explorer's Guide to Wildmount/Wondrous Items/Grovelthrash.md": "RaLargeHammer",
-  "D&D Sources/Explorer's Guide to Wildmount/Wondrous Items/Grimoire Infinitus.md": "LiComponent",
-  "D&D Sources/Explorer's Guide to Wildmount/Wondrous Items/Goggles of Object Reading.md": "LiGlasses",
-  "D&D Sources/Explorer's Guide to Wildmount/Wondrous Items/Dust of Deliciousness.md": "TiMoneybag",
-  "D&D Sources/Explorer's Guide to Wildmount/Wondrous Items/Duskcrusher.md": "RaLargeHammer",
-  "D&D Sources/Explorer's Guide to Wildmount/Wondrous Items/Dispelling Stone.md": "LiComponent",
-  "D&D Sources/Explorer's Guide to Wildmount/Wondrous Items/Danoth's Visor.md": "LiComponent",
-  "D&D Sources/Explorer's Guide to Wildmount/Wondrous Items/Corpse Slayer.md": "LiSwords",
-  "D&D Sources/Explorer's Guide to Wildmount/Wondrous Items/Coin of Delving.md": "LiComponent",
-  "D&D Sources/Explorer's Guide to Wildmount/Wondrous Items/Butcher's Bib.md": "LiComponent",
-  "D&D Sources/Explorer's Guide to Wildmount/Wondrous Items/Brooch of Living Essence.md": "LiComponent",
-  "D&D Sources/Explorer's Guide to Wildmount/Wondrous Items/Breathing Bubble.md": "LiComponent",
-  "D&D Sources/Explorer's Guide to Wildmount/Wondrous Items/Bloodaxe.md": "RaBatteredAxe",
-  "D&D Sources/Explorer's Guide to Wildmount/Wondrous Items/Battering Shield.md": "LiShield",
-  "D&D Sources/Explorer's Guide to Wildmount/Wondrous Items/Blade of Broken Mirrors.md": "PaPlainDagger",
-  "D&D Sources/Explorer's Guide to Wildmount/Wondrous Items/Amulet of The Drunkard.md": "RaGemPendant",
-  "D&D Sources/Explorer's Guide to Wildmount/Wondrous Items/Arcane Cannon.md": "RaCannonShot",
-  "D&D Sources/Explorer's Guide to Wildmount/Wondrous Items/Acheron Blade.md": "LiSwords",
-  "D&D Sources/Acquisitions Incorporated/Wondrous Items/Wheel of Stars.md": "LiComponent",
-  "D&D Sources/Acquisitions Incorporated/Wondrous Items/Timepiece of Travel.md": "LiComponent",
-  "D&D Sources/Acquisitions Incorporated/Wondrous Items/Rotor of Return.md": "LiComponent",
-  "D&D Sources/Acquisitions Incorporated/Wondrous Items/Orrery of The Wanderer.md": "LiComponent",
-  "D&D Sources/Acquisitions Incorporated/Wondrous Items/Far Gear.md": "LiComponent",
-  "D&D Sources/Acquisitions Incorporated/Wondrous Items/Dimensional Loop.md": "LiComponent",
-  "D&D Sources/Acquisitions Incorporated/Wondrous Items/Chronolometer.md": "LiComponent",
   "z_Assets/Banners": "LiImage",
   "z_Assets/Characters": "LiImage",
   "z_Assets/Documents": "LiFormInput",
@@ -1094,7 +983,6 @@
   "Locations/The Alchemist's Home.md": {
     "iconName": "LiHome"
   },
-  "D&D Sources": "LiBookMarked",
   "Maps": "LiMap",
   "publish.css": "RaGears",
   "Home Page.md": {
@@ -1258,9 +1146,6 @@
   "Creatures/Poe the Raven.md": {
     "iconName": "LiBird"
   },
-  "D&D Sources/The Griffon's Saddlebag/Wondrous Items/Marlin Lunger.md": {
-    "iconName": "LiSwords"
-  },
   "Daily Notes/2025-01-24.md": {
     "iconName": "LiNotepadText"
   },
@@ -1377,63 +1262,6 @@
   "z_Templates/Insert - WIP.md": "LiRightArrow",
   "z_Templates/Insert - Dataview List.md": "LiRightArrow",
   "z_Assets/Creatures": "RaDragon",
-  "D&D Sources/Baldur's Gate - Descent into Avernus/Wondrous Items/Hellfire Weapon.md": {
-    "iconName": "LiSwords"
-  },
-  "D&D Sources/Baldur's Gate - Descent into Avernus/Wondrous Items/Obsidian Flint Dragon Plate.md": {
-    "iconName": "RaVest"
-  },
-  "D&D Sources/Baldur's Gate - Descent into Avernus/Wondrous Items/Fane-Eater.md": {
-    "iconName": "RaBatteredAxe"
-  },
-  "D&D Sources/Baldur's Gate - Descent into Avernus/Wondrous Items/Gauntlets of Flaming Fury.md": {
-    "iconName": "LiComponent"
-  },
-  "D&D Sources/Baldur's Gate - Descent into Avernus/Wondrous Items/Infernal Tack.md": {
-    "iconName": "LiComponent"
-  },
-  "D&D Sources/Baldur's Gate - Descent into Avernus/Wondrous Items/Infernal Puzzle Box.md": {
-    "iconName": "LiComponent"
-  },
-  "D&D Sources/Baldur's Gate - Descent into Avernus/Wondrous Items/Battle Standard of Infernal Power.md": {
-    "iconName": "LiComponent"
-  },
-  "D&D Sources/Baldur's Gate - Descent into Avernus/Wondrous Items/Helm of Devil Command.md": {
-    "iconName": "RaHelmet"
-  },
-  "D&D Sources/Baldur's Gate - Descent into Avernus/Wondrous Items/Matalotok.md": {
-    "iconName": "RaLargeHammer"
-  },
-  "D&D Sources/Baldur's Gate - Descent into Avernus/Wondrous Items/Shield of The Hidden Lord.md": {
-    "iconName": "LiShield"
-  },
-  "D&D Sources/Baldur's Gate - Descent into Avernus/Wondrous Items/Soul Coin.md": {
-    "iconName": "LiComponent"
-  },
-  "D&D Sources/Baldur's Gate - Descent into Avernus/Wondrous Items/Sword of Zariel.md": {
-    "iconName": "LiSwords"
-  },
-  "D&D Sources/Mythic Odysseys of Theros/Wondrous Items/Akmon, Hammer of Purphoros.md": {
-    "iconName": "RaLargeHammer"
-  },
-  "D&D Sources/Mythic Odysseys of Theros/Wondrous Items/Dekella, Bident of Thassa.md": {
-    "iconName": "LiSwords"
-  },
-  "D&D Sources/Mythic Odysseys of Theros/Wondrous Items/Ephixis, Bow of Nyela.md": "LiSwords",
-  "D&D Sources/Mythic Odysseys of Theros/Wondrous Items/Flying Chariot.md": "LiComponent",
-  "D&D Sources/Mythic Odysseys of Theros/Wondrous Items/Helm of The Gods.md": "RaHelmet",
-  "D&D Sources/Mythic Odysseys of Theros/Wondrous Items/Khrusor, Spear of Heliod.md": "RaSpearHead",
-  "D&D Sources/Mythic Odysseys of Theros/Wondrous Items/Mastix, Whip of Erebos.md": "LiSwords",
-  "D&D Sources/Mythic Odysseys of Theros/Wondrous Items/Molten Bronze Skin.md": {
-    "iconName": "RaVest"
-  },
-  "D&D Sources/Mythic Odysseys of Theros/Wondrous Items/Potion of Aqueous Form.md": "LiFlaskRound",
-  "D&D Sources/Mythic Odysseys of Theros/Wondrous Items/Siren Song Lyre.md": "LiComponent",
-  "D&D Sources/Mythic Odysseys of Theros/Wondrous Items/Sling Bullets of Althemone.md": "LiSwords",
-  "D&D Sources/Mythic Odysseys of Theros/Wondrous Items/Two-Birds Sling.md": "LiSwords",
-  "D&D Sources/Mythic Odysseys of Theros/Wondrous Items/Pyxis of Pandemonium.md": {
-    "iconName": "LiComponent"
-  },
   "Miscellaneous/Dice Statistics.md": {
     "iconName": "LiDice"
   },
@@ -1469,18 +1297,6 @@
   },
   "Daily Notes/2025-02-05.md": {
     "iconName": "LiNotepadText"
-  },
-  "D&D Sources/The Griffon's Saddlebag/Wondrous Items/Shellguard Armor.md": {
-    "iconName": "RaVest"
-  },
-  "D&D Sources/The Griffon's Saddlebag/Wondrous Items/Mistwalker’s Armor.md": {
-    "iconName": "RaVest"
-  },
-  "D&D Sources/The Griffon's Saddlebag/Wondrous Items/Ring of Roses.md": {
-    "iconName": "LiTorus"
-  },
-  "D&D Sources/The Griffon's Saddlebag/Wondrous Items/Vial Ring.md": {
-    "iconName": "LiTorus"
   },
   "Creatures/Ice Elementals.md": {
     "iconName": "RaIceCube"
@@ -1698,9 +1514,6 @@
   "NPCs/Valyria Norfine.md": "LiUser",
   "NPCs/Quinn Thalassa.md": "LiUser",
   "NPCs/Vargen Ylar.md": "LiUser",
-  "D&D Sources/Candlekeep Mysteries/Wondrous Items/Serpent Scale Armor.md": {
-    "iconName": "RaVest"
-  },
   "Daily Notes/2025-02-12.md": {
     "iconName": "LiNotepadText"
   },
@@ -4524,7 +4337,7 @@
     "iconName": "LiComponent"
   },
   "Wondrous Items/Crystal Ball.md": {
-    "iconName": "LiComponent"
+    "iconName": "RaBall"
   },
   "Wondrous Items/Crystal Blade.md": {
     "iconName": "LiSwords"
@@ -6172,5 +5985,287 @@
   },
   "Wondrous Items/Wyrmskull Throne.md": {
     "iconName": "LiComponent"
+  },
+  "Wondrous Items/Wheel of Stars.md": {
+    "iconName": "LiComponent"
+  },
+  "Wondrous Items/Chronolometer.md": {
+    "iconName": "LiComponent"
+  },
+  "Wondrous Items/Dimensional Loop.md": {
+    "iconName": "LiComponent"
+  },
+  "Wondrous Items/Far Gear.md": {
+    "iconName": "LiComponent"
+  },
+  "Wondrous Items/Orrery of The Wanderer.md": {
+    "iconName": "LiComponent"
+  },
+  "Wondrous Items/Rotor of Return.md": {
+    "iconName": "LiComponent"
+  },
+  "Wondrous Items/Timepiece of Travel.md": {
+    "iconName": "LiComponent"
+  },
+  "Wondrous Items/Sword of Zariel.md": {
+    "iconName": "LiSwords"
+  },
+  "Wondrous Items/Battle Standard of Infernal Power.md": {
+    "iconName": "LiComponent"
+  },
+  "Wondrous Items/Fane-Eater.md": {
+    "iconName": "RaBatteredAxe"
+  },
+  "Wondrous Items/Gauntlets of Flaming Fury.md": {
+    "iconName": "LiComponent"
+  },
+  "Wondrous Items/Hellfire Weapon.md": {
+    "iconName": "LiSwords"
+  },
+  "Wondrous Items/Helm of Devil Command.md": {
+    "iconName": "RaHelmet"
+  },
+  "Wondrous Items/Infernal Puzzle Box.md": {
+    "iconName": "LiComponent"
+  },
+  "Wondrous Items/Infernal Tack.md": {
+    "iconName": "LiComponent"
+  },
+  "Wondrous Items/Matalotok.md": {
+    "iconName": "RaLargeHammer"
+  },
+  "Wondrous Items/Obsidian Flint Dragon Plate.md": {
+    "iconName": "RaVest"
+  },
+  "Wondrous Items/Shield of The Hidden Lord.md": {
+    "iconName": "LiShield"
+  },
+  "Wondrous Items/Soul Coin.md": {
+    "iconName": "LiComponent"
+  },
+  "Wondrous Items/Serpent Scale Armor.md": {
+    "iconName": "RaVest"
+  },
+  "Wondrous Items/Wreath of The Prism.md": "LiComponent",
+  "Wondrous Items/Acheron Blade.md": {
+    "iconName": "LiSwords"
+  },
+  "Wondrous Items/Amulet of The Drunkard.md": {
+    "iconName": "RaGemPendant"
+  },
+  "Wondrous Items/Arcane Cannon.md": {
+    "iconName": "RaCannonShot"
+  },
+  "Wondrous Items/Battering Shield.md": {
+    "iconName": "LiShield"
+  },
+  "Wondrous Items/Blade of Broken Mirrors.md": "PaPlainDagger",
+  "Wondrous Items/Bloodaxe.md": {
+    "iconName": "RaBatteredAxe"
+  },
+  "Wondrous Items/Breathing Bubble.md": {
+    "iconName": "LiComponent"
+  },
+  "Wondrous Items/Brooch of Living Essence.md": {
+    "iconName": "LiComponent"
+  },
+  "Wondrous Items/Butcher's Bib.md": {
+    "iconName": "LiComponent"
+  },
+  "Wondrous Items/Coin of Delving.md": {
+    "iconName": "LiComponent"
+  },
+  "Wondrous Items/Corpse Slayer.md": {
+    "iconName": "LiSwords"
+  },
+  "Wondrous Items/Danoth's Visor.md": "LiComponent",
+  "Wondrous Items/Dispelling Stone.md": {
+    "iconName": "LiComponent"
+  },
+  "Wondrous Items/Duskcrusher.md": {
+    "iconName": "RaLargeHammer"
+  },
+  "Wondrous Items/Dust of Deliciousness.md": "TiMoneybag",
+  "Wondrous Items/Goggles of Object Reading.md": {
+    "iconName": "LiGlasses"
+  },
+  "Wondrous Items/Grimoire Infinitus.md": "LiComponent",
+  "Wondrous Items/Grovelthrash.md": "RaLargeHammer",
+  "Wondrous Items/Hide of The Feral Guardian.md": {
+    "iconName": "RaVest"
+  },
+  "Wondrous Items/Hunter's Coat.md": {
+    "iconName": "RaVest"
+  },
+  "Wondrous Items/Lash of Shadows.md": "LiSwords",
+  "Wondrous Items/Last Stand Armor.md": {
+    "iconName": "RaVest"
+  },
+  "Wondrous Items/Luxon Beacon.md": "LiComponent",
+  "Wondrous Items/Mace of The Black Crown.md": "LiSwords",
+  "Wondrous Items/Needle of Mending.md": "PaPlainDagger",
+  "Wondrous Items/Nightfall Pearl.md": {
+    "iconName": "LiComponent"
+  },
+  "Wondrous Items/Orb of The Veil.md": {
+    "iconName": "LiComponent"
+  },
+  "Wondrous Items/Potion of Maximum Power.md": {
+    "iconName": "LiFlaskRound"
+  },
+  "Wondrous Items/Potion of Possibility.md": {
+    "iconName": "LiFlaskRound"
+  },
+  "Wondrous Items/Reincarnation Dust.md": {
+    "iconName": "LiComponent"
+  },
+  "Wondrous Items/Ring of Obscuring.md": {
+    "iconName": "LiComponent"
+  },
+  "Wondrous Items/Ring of Temporal Salvation.md": {
+    "iconName": "LiComponent"
+  },
+  "Wondrous Items/Rod of Retribution.md": {
+    "iconName": "LiWand2"
+  },
+  "Wondrous Items/Ruin's Wake.md": "RaSpearHead",
+  "Wondrous Items/Silken Spite.md": "LiSwords",
+  "Wondrous Items/Spell Bottle.md": {
+    "iconName": "LiFlaskRound"
+  },
+  "Wondrous Items/Staff of Dunamancy.md": {
+    "iconName": "RaCrystalWand"
+  },
+  "Wondrous Items/Staff of The Ivory Claw.md": {
+    "iconName": "RaCrystalWand"
+  },
+  "Wondrous Items/Stormgirdle.md": "LiComponent",
+  "Wondrous Items/The Bloody End.md": "LiSwords",
+  "Wondrous Items/Verminshroud.md": "LiComponent",
+  "Wondrous Items/Vox Seeker.md": {
+    "iconName": "LiComponent"
+  },
+  "Wondrous Items/Weapon of Certain Death.md": {
+    "iconName": "LiSwords"
+  },
+  "Wondrous Items/Will of The Talon.md": "LiSwords",
+  "Wondrous Items/Sekolahian Worshipping Statuette.md": {
+    "iconName": "LiComponent"
+  },
+  "Wondrous Items/Charm of Plant Command.md": {
+    "iconName": "LiComponent"
+  },
+  "Wondrous Items/Cursed Luckstone.md": {
+    "iconName": "LiComponent"
+  },
+  "Wondrous Items/Helm of Underwater Action.md": {
+    "iconName": "RaHelmet"
+  },
+  "Wondrous Items/Luckstone.md": "LiComponent",
+  "Wondrous Items/Pipe of Remembrance.md": {
+    "iconName": "LiComponent"
+  },
+  "Wondrous Items/Pressure Capsule.md": {
+    "iconName": "LiComponent"
+  },
+  "Wondrous Items/Voyager Staff.md": "RaCrystalWand",
+  "Wondrous Items/Guild Keyrune.md": "RaKey",
+  "Wondrous Items/Guild Signet.md": {
+    "iconName": "LiTorus"
+  },
+  "Wondrous Items/Illusionist's Bracers.md": "LiComponent",
+  "Wondrous Items/Mizzium Apparatus.md": "LiComponent",
+  "Wondrous Items/Mizzium Armor.md": {
+    "iconName": "RaVest"
+  },
+  "Wondrous Items/Mizzium Mortar.md": "LiComponent",
+  "Wondrous Items/Moodmark Paint.md": "LiComponent",
+  "Wondrous Items/Pariah's Shield.md": "LiShield",
+  "Wondrous Items/Peregrine Mask.md": "LiComponent",
+  "Wondrous Items/Pyroconverger.md": "LiComponent",
+  "Wondrous Items/Rakdos Riteknife.md": "PaPlainDagger",
+  "Wondrous Items/Skyblinder Staff.md": "RaCrystalWand",
+  "Wondrous Items/Spies' Murmur.md": "LiComponent",
+  "Wondrous Items/Sunforger.md": "RaLargeHammer",
+  "Wondrous Items/Sword of The Paruns.md": "LiSwords",
+  "Wondrous Items/Two-Birds Sling.md": "LiSwords",
+  "Wondrous Items/Akmon, Hammer of Purphoros.md": {
+    "iconName": "RaLargeHammer"
+  },
+  "Wondrous Items/Dekella, Bident of Thassa.md": {
+    "iconName": "LiSwords"
+  },
+  "Wondrous Items/Ephixis, Bow of Nyela.md": "LiSwords",
+  "Wondrous Items/Flying Chariot.md": "LiComponent",
+  "Wondrous Items/Helm of The Gods.md": "RaHelmet",
+  "Wondrous Items/Khrusor, Spear of Heliod.md": "RaSpearHead",
+  "Wondrous Items/Mastix, Whip of Erebos.md": "LiSwords",
+  "Wondrous Items/Molten Bronze Skin.md": {
+    "iconName": "RaVest"
+  },
+  "Wondrous Items/Potion of Aqueous Form.md": "LiFlaskRound",
+  "Wondrous Items/Pyxis of Pandemonium.md": {
+    "iconName": "LiComponent"
+  },
+  "Wondrous Items/Siren Song Lyre.md": "LiComponent",
+  "Wondrous Items/Sling Bullets of Althemone.md": "LiSwords",
+  "Wondrous Items/Witherbloom Primer.md": "LiComponent",
+  "Wondrous Items/Cuddly Strixhaven Mascot.md": "LiComponent",
+  "Wondrous Items/Lorehold Primer.md": "LiComponent",
+  "Wondrous Items/Masque Charm.md": "LiComponent",
+  "Wondrous Items/Murgaxor's Orb.md": "LiComponent",
+  "Wondrous Items/Prismari Primer.md": "LiComponent",
+  "Wondrous Items/Quandrix Primer.md": "LiComponent",
+  "Wondrous Items/Silverquill Primer.md": "LiComponent",
+  "Wondrous Items/Strixhaven Pennant.md": "LiComponent",
+  "Wondrous Items/Amulet of The Devout.md": "RaGemPendant",
+  "Wondrous Items/Vial Ring.md": {
+    "iconName": "LiTorus"
+  },
+  "Wondrous Items/Alchemimic.md": "LiComponent",
+  "Wondrous Items/Bottled Talent.md": "LiFlaskRound",
+  "Wondrous Items/Devil's Detail Eyepatch.md": "LiComponent",
+  "Wondrous Items/Essence of Rage.md": "LiFlaskRound",
+  "Wondrous Items/Field Healer's Pauldron.md": "LiComponent",
+  "Wondrous Items/Focus Circlet.md": "LiComponent",
+  "Wondrous Items/Marlin Lunger.md": {
+    "iconName": "LiSwords"
+  },
+  "Wondrous Items/Mistwalker’s Armor.md": {
+    "iconName": "RaVest"
+  },
+  "Wondrous Items/Obsidian Star.md": "LiSwords",
+  "Wondrous Items/Potion of Dragon's Breath.md": "LiFlaskRound",
+  "Wondrous Items/Potion of Nature's Growth.md": "LiFlaskRound",
+  "Wondrous Items/Ring of Anchoring.md": {
+    "iconName": "LiTorus"
+  },
+  "Wondrous Items/Ring of Roses.md": {
+    "iconName": "LiTorus"
+  },
+  "Wondrous Items/Shellguard Armor.md": {
+    "iconName": "RaVest"
+  },
+  "Wondrous Items/Swashbuckler's Slippery Saber.md": "RaPlainDagger",
+  "Wondrous Items/Wand of Smiles.md": {
+    "iconName": "LiWand"
+  },
+  "Wondrous Items/Unbreakable Arrow.md": {
+    "iconName": "LiSwords"
+  },
+  "Wondrous Items/Wand of Scowls.md": {
+    "iconName": "LiWand"
+  },
+  "Character Options": "RaGearHammer",
+  "Dungeon Master's Guide 2024": "LiBookMarked",
+  "Player's Handbook": "LiBook",
+  "Wondrous Items/Crystal Ball of Mind Reading.md": {
+    "iconName": "RaBall"
+  },
+  "Wondrous Items/Crystal Ball of Telepathy.md": {
+    "iconName": "RaBall"
+  },
+  "Wondrous Items/Crystal Ball of True Seeing.md": {
+    "iconName": "RaBall"
   }
 }

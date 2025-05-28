@@ -2,6 +2,7 @@
 tags:
   - Item
 type: Scroll
+price: 130
 attunement: False
 attunement_details: None
 classes:

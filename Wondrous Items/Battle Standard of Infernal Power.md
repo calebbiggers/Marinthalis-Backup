@@ -1,5 +1,6 @@
 ---
-tags: [Item]
+tags:
+  - Item
 attunement: True
 attunement_details: 
 classes: 
@@ -11,7 +12,9 @@ sources:
 type: Wondrous Item
 type_details: 
 ---
+
 # Battle Standard of Infernal Power
+
 >[!very-rare-wondrous-item-callout] Battle Standard of Infernal Power
 >![[battle-standard-of-infernal-power.png|float-right|relative|ws-med]]*Wondrous Item, Very Rare (Requires Attunement)*
 >

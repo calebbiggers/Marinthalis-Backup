@@ -1,16 +1,20 @@
 ---
-tags: [Item]
+tags:
+  - Item
 attunement: true
-attunement_details: 
-classes: 
+attunement_details:
+classes:
 icon: LiComponent
 rarity: Rare
 sources:
   - "[[Explorer's Guide to Wildemount]]"
 type: Wondrous Item
-type_details: 
+type_details:
+price: 2750
 ---
+
 # Butcher's Bib
+
 >[!rare-wondrous-item-callout] Butcher's Bib
 >*Wondrous Item, Rare (Requires Attunement)*
 >

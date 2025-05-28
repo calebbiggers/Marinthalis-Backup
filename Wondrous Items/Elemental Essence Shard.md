@@ -10,10 +10,10 @@ rarity: Rare
 sources:
   - "[[Tasha's Cauldron of Everything]]"
 type: Wondrous Item
-price: 7000
 price: 5600
 price: 5600
-price: 4200
+price: 5600
+price: 5600
 type_details:
 ---
 # Elemental Essence Shard

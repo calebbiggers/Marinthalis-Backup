@@ -1,15 +1,19 @@
 ---
-tags: [Item]
-attunement: False
-classes: 
+tags:
+  - Item
+attunement: false
+classes:
 icon: LiComponent
 rarity: Common
 sources:
   - "[[Ghosts of Saltmarsh]]"
 type: Wondrous Item
-type_details: 
+type_details:
+price: 50
 ---
+
 # Sekolahian Worshipping Statuette
+
 >[!common-wondrous-item-callout] Sekolahian Worshipping Statuette
 >*Wondrous Item, Common*
 >

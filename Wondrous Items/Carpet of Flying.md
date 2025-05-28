@@ -8,6 +8,7 @@ rarity: Very Rare
 sources:
   - "[[Dungeon Master's Guide 2024]]"
 type: Wondrous Item
+price: 35000
 type_details: None
 ---
 # Carpet of Flying

@@ -2,6 +2,7 @@
 tags:
   - Item
 type: Wondrous Item
+price: 55000
 attunement: True
 attunement_details: a Bard
 classes:

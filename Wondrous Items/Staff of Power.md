@@ -2,6 +2,7 @@
 tags:
   - Item
 type: Staff
+price: 75000
 attunement: True
 attunement_details: a Sorcerer, Warlock, or Wizard
 classes:

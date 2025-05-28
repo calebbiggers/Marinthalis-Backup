@@ -10,7 +10,7 @@ rarity: Rare
 type_details: None
 sources:
   - "[[Dungeon Master's Guide 2024]]"
-price: 180
+price: 2000
 ---
 
 # Potion of Invisibility

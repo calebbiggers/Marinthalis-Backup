@@ -10,22 +10,35 @@ def main():
                 if row[1] == "Item":
                     continue
 
+                item_name = row[1].strip().replace(" Of ", " of ")
                 price = row[2].replace("gp", "").strip()
-                print(f"[LOG] - Found item in csv file: <{row[1]}>")
-                file = Path(f"./Wondrous Items/{row[1]}.md")
+
+                if not price.isdigit():
+                    print(f"[WARNING] - Invalid price for item: {row[1]}. Skipping...")
+                    not_found.append([item_name, price])
+                    continue
+
+                print(f"[LOG] - Found item in csv file: <{item_name}> with price: {price}")
+                file = Path(f"./Wondrous Items/{item_name}.md")
 
                 if file.is_file():
-                    print(f"\t[LOG] - File found for item: <{row[1]}>")
-                    addPrice(file, price)
+                    print(f"[LOG] - File found for item: <{item_name}>")
+                    #addPrice(file, price)
                     continue
                 else:
-                    print(f"[WARNING] - File not found for item: {row[1]}. Attempting to find file...")
+                    print(f"[WARNING] - File not found for item: {item_name}. Attempting to find file...")
                     
-                    no_parenthesis_attempt = row[1].split("(")[0].strip()
+                    # Try removing parenthesis
+                    no_parenthesis_attempt = item_name.split("(")[0].strip()
+                    file = Path(f"./Wondrous Items/{no_parenthesis_attempt}.md")
                     print(f"[LOG] - Attempting to find file: <{no_parenthesis_attempt}>")
-
-                    replace_of_attempt = row[1].replace(" Of ", "of").strip()
-                    print(f"[LOG] - Attempting to find file: <{replace_of_attempt}>")
+                    if file.is_file():
+                        print(f"[LOG] - File found for item: <{no_parenthesis_attempt}>")
+                        #addPrice(file, price)
+                        continue
+                    
+                    # Add to list of not found items
+                    not_found.append([item_name, price])
 
 
     
@@ -36,14 +49,36 @@ def main():
 def addPrice(in_file, price):
     with open(in_file, "r", encoding="utf-8") as fp:
         lines = fp.readlines()
+    
+    # Check if the file already has a price
+    if any("price:" in line for line in lines):
+        print(f"[WARNING] - File already has a price: {in_file}. Replacing it...")
+        has_price = True
+    else:   
+        print(f"[LOG] - Adding price to file: {in_file}")
+        has_price = False
 
     with open(in_file, "w", encoding="utf-8") as fp:
+        # Iterate through the lines and add price where appropriate
         for i in range(len(lines)):
-            if "type: " in lines[i]:
-                fp.write(lines[i])
-                fp.write(f"price: {price}\n")
+            if has_price:
+                # File already has a price, so replace it
+                if "price: " in lines[i]:
+                    fp.write(f"price: {price}\n")
+                else:
+                    fp.write(lines[i])
             else:
-                fp.write(lines[i])
+                # File does not have a price, insert it
+                if "type: " in lines[i]:
+                    fp.write(lines[i])
+                    fp.write(f"price: {price}\n")
+                else:
+                    fp.write(lines[i])
+
+
+
+
+            
 
 if __name__ == "__main__":
     main()

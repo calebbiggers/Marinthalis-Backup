@@ -1,5 +1,6 @@
 ---
-tags: [Item]
+tags:
+  - Item
 attunement: True
 attunement_details: 
 classes: 
@@ -11,7 +12,9 @@ sources:
 type: Wondrous Item
 type_details: 
 ---
+
 # Charm of Plant Command
+
 >[!rare-wondrous-item-callout] Charm of Plant Command
 >*Wondrous Item, Rare (Requires Attunement)*
 >

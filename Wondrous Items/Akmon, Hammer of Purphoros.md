@@ -1,5 +1,6 @@
 ---
-tags: [Item]
+tags:
+  - Item
 attunement: True
 attunement_details: 
 classes: 
@@ -10,7 +11,9 @@ sources:
 type: Weapon
 type_details: Warhammer
 ---
+
 # Akmon, Hammer of Purphoros
+
 >[!artifact-weapon-callout] Akmon, Hammer of Purphoros
 >![[akmon-hammer-of-purphoros.png]]
 >*Weapon (Warhammer), Artifact (Requires Attunement)*

@@ -2,6 +2,7 @@
 tags:
   - Item
 type: Staff
+price: 10000
 attunement: True
 attunement_details: None
 classes:

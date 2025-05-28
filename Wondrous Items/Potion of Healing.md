@@ -5,7 +5,7 @@ aliases: []
 attunement: false
 classes: 
 icon: LiFlaskRound
-price: 50
+price: 1500
 rarity: Common
 sources:
   - "[[Dungeon Master's Guide]]"
